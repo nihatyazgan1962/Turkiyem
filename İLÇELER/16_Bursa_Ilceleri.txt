@@ -1,0 +1,22 @@
+=================================================================
+16 - BURSA İLİ TÜM İLÇELERİ (17 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Büyükorhan             (43 Köy)
+   2. Gemlik                 (36 Köy)
+   3. Gürsu                  (17 Köy)
+   4. Harmancık              (31 Köy)
+   5. İnegöl                 (118 Köy)
+   6. İznik                  (46 Köy)
+   7. Karacabey              (85 Köy)
+   8. Keles                  (42 Köy)
+   9. Kestel                 (37 Köy)
+  10. Mudanya                (47 Köy)
+  11. Mustafakemalpaşa       (131 Köy)
+  12. Nilüfer                (70 Köy)
+  13. Orhaneli               (61 Köy)
+  14. Orhangazi              (31 Köy)
+  15. Osmangazi              (137 Köy)
+  16. Yenişehir              (71 Köy)
+  17. Yıldırım               (69 Köy)

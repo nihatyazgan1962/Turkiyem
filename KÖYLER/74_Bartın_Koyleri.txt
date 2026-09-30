@@ -1,0 +1,127 @@
+=================================================================
+74 - BARTIN İLİ TÜM RESMİ KÖYLERİ (Mahallesiz)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+
+[ AMASRA İLÇESİ KÖYLERİ (17 Köy) ]
+-----------------------------------------------------------------
+   1. Alacami Köyü
+   2. Beyreli Köyü
+   3. Çavdarlı Köyü
+   4. Derebaşı Köyü
+   5. Esenkıyı Köyü
+   6. Güllüce Köyü
+   7. Ilıca Köyü
+   8. Karacaağaç Köyü
+   9. Kınık Köyü
+  10. Kurfallı Köyü
+  11. Nebiler Köyü
+  12. Rahmanlar Köyü
+  13. Sazak Köyü
+  14. Şahmuratlı Köyü
+  15. Topkaya Köyü
+  16. Yalak Köyü
+  17. Yeşilhisar Köyü
+
+[ KURUCAŞILE İLÇESİ KÖYLERİ (34 Köy) ]
+-----------------------------------------------------------------
+   1. Başköy Köyü
+   2. Bıçakçı Köyü
+   3. Büyükköy Köyü
+   4. Çakırözü Köyü
+   5. Deliler Köyü
+   6. Dereköy Köyü
+   7. Doluca Köyü
+   8. Düzce Köyü
+   9. Gökbel Köyü
+  10. Gölköy Köyü
+  11. Gümüşkaya Köyü
+  12. Gürlek Köyü
+  13. Kadıköy Köyü
+  14. Kapıköy Köyü
+  15. Karahayıt Köyü
+  16. Kocagöl Köyü
+  17. Kozalan Köyü
+  18. Kubilay Köyü
+  19. Kuşçular Köyü
+  20. Oyaca Köyü
+  21. Paşaköy Köyü
+  22. Pirhasan Köyü
+  23. Seyrantepe Köyü
+  24. Soğuksu Köyü
+  25. Suluova Köyü
+  26. Şahintepe Köyü
+  27. Topçular Köyü
+  28. Tuzluca Köyü
+  29. Uzundere Köyü
+  30. Vakıf Köyü
+  31. Yeşilhisar Köyü
+  32. Yivli Köyü
+  33. Yukarıoba Köyü
+  34. Zeytinli Köyü
+
+[ MERKEZ İLÇESİ KÖYLERİ (31 Köy) ]
+-----------------------------------------------------------------
+   1. Balabancık Köyü
+   2. Balcılar Köyü
+   3. Çatalkaya Köyü
+   4. Çatköy Köyü
+   5. Çavdarlı Köyü
+   6. Doğancı Köyü
+   7. Doğanköy Köyü
+   8. Geyikpınarı Köyü
+   9. Gökbel Köyü
+  10. Gökçebağ Köyü
+  11. Haydarlar Köyü
+  12. Hıdırlar Köyü
+  13. Karahisar Köyü
+  14. Karakaya Köyü
+  15. Karakışla Köyü
+  16. Konaklı Köyü
+  17. Korkut Köyü
+  18. Minnetli Köyü
+  19. Muratdere Köyü
+  20. Rüzgarlı Köyü
+  21. Sağkaya Köyü
+  22. Soğukpınar Köyü
+  23. Soğuksu Köyü
+  24. Tepebaşı Köyü
+  25. Tepecik Köyü
+  26. Tepeköy Köyü
+  27. Yalçınkaya Köyü
+  28. Yalı Köyü
+  29. Yolçatı Köyü
+  30. Yoldere Köyü
+  31. Yolkonak Köyü
+
+[ ULUS İLÇESİ KÖYLERİ (28 Köy) ]
+-----------------------------------------------------------------
+   1. Başköy Köyü
+   2. Bayındır Köyü
+   3. Çayırköy Köyü
+   4. Çayüstü Köyü
+   5. Düzenli Köyü
+   6. Düzköy Köyü
+   7. Gültepe Köyü
+   8. Gümüşdere Köyü
+   9. İncirli Köyü
+  10. İnli Köyü
+  11. İslamlar Köyü
+  12. Kazancı Köyü
+  13. Keçiköy Köyü
+  14. Kemerkaya Köyü
+  15. Kuzköy Köyü
+  16. Küçücek Köyü
+  17. Küçükköy Köyü
+  18. Paşaköy Köyü
+  19. Paşalı Köyü
+  20. Payamlı Köyü
+  21. Selimiye Köyü
+  22. Senir Köyü
+  23. Tatlıpınar Köyü
+  24. Tavşancık Köyü
+  25. Yakaköy Köyü
+  26. Yakapınar Köyü
+  27. Yoldere Köyü
+  28. Yolkonak Köyü

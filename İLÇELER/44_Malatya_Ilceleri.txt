@@ -1,0 +1,18 @@
+=================================================================
+44 - MALATYA İLİ TÜM İLÇELERİ (13 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Akçadağ                (77 Köy)
+   2. Arapgir                (63 Köy)
+   3. Arguvan                (49 Köy)
+   4. Battalgazi             (103 Köy)
+   5. Darende                (68 Köy)
+   6. Doğanşehir             (39 Köy)
+   7. Doğanyol               (16 Köy)
+   8. Hekimhan               (65 Köy)
+   9. Kale                   (28 Köy)
+  10. Kuluncak               (28 Köy)
+  11. Pütürge                (68 Köy)
+  12. Yazıhan                (33 Köy)
+  13. Yeşilyurt              (84 Köy)

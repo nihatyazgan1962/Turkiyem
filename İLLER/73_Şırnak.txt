@@ -1,0 +1,21 @@
+=========================================================
+TÜRKİYE CUMHURİYETİ - 73 ŞIRNAK İLİ KÖY DAĞILIMI
+Geliştirici: Nihat Yazgan
+=========================================================
+
+Plaka Kodu    : 73
+İl Adı        : Şırnak
+Coğrafi Bölge : Güneydoğu Anadolu
+Nüfus         : 557.605
+Telefon Kodu  : +90 (486)
+İlçe Sayısı   : 7
+Toplam Köy    : 175
+
+--- İLÇELERİ VE KÖY SAYILARI ---
+1. Beytüşşebap (34 Köy)
+2. Cizre (31 Köy)
+3. Güçlükonak (28 Köy)
+4. İdil (25 Köy)
+5. Merkez (22 Köy)
+6. Silopi (19 Köy)
+7. Uludere (16 Köy)

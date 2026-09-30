@@ -1,0 +1,108 @@
+=================================================================
+77 - YALOVA İLİ TÜM RESMİ KÖYLERİ (84 Köy)
+(Mahalleler tamamen temizlenmiş, sadece Köyler listelenmiştir)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+
+[ ALTINOVA İLÇESİ KÖYLERİ (18 Köy) ]
+-----------------------------------------------------------------
+    1. Ahmediye Köyü
+    2. Aktoprak Köyü
+    3. Cumhuriyet Köyü
+    4. Çavuş Köyü
+    5. Çavuşçiftliği Köyü
+    6. Fevziye Köyü
+    7. Geyikdere Köyü
+    8. Havuzdere Köyü
+    9. Hersek Köyü
+   10. Hürriyet Köyü
+   11. Karadere Köyü
+   12. Kaytazdere Beldesi Köyü
+   13. Örencik Köyü
+   14. Sermayecik Köyü
+   15. Soğuksu Köyü
+   16. Subaşı Beldesi Köyü
+   17. Tavşanlı Beldesi Köyü
+   18. Tokmak Köyü
+
+[ ARMUTLU İLÇESİ KÖYLERİ (8 Köy) ]
+-----------------------------------------------------------------
+    1. 50. Yıl Köyü
+    2. Bayır Köyü
+    3. Fıstıklı Köyü
+    4. Hayriye Köyü
+    5. Kapaklı Köyü
+    6. Karşıyaka Köyü
+    7. Mecidiye Köyü
+    8. Selimiye Köyü
+
+[ ÇINARCIK İLÇESİ KÖYLERİ (12 Köy) ]
+-----------------------------------------------------------------
+    1. Çalıca Köyü
+    2. Çamlık Köyü
+    3. Esenköy Beldesi Köyü
+    4. Harmanlar Köyü
+    5. Hasanbaba Köyü
+    6. Karpuzdere Köyü
+    7. Kocadere Köyü
+    8. Koru Beldesi Köyü
+    9. Ortaburun Köyü
+   10. Şenköy Köyü
+   11. Taşliman Köyü
+   12. Teşvikiye Beldesi Köyü
+
+[ ÇIFTLIKKÖY İLÇESİ KÖYLERİ (16 Köy) ]
+-----------------------------------------------------------------
+    1. 500 Evler Köyü
+    2. Burhaniye Köyü
+    3. Çiftlik Köyü
+    4. Çukurköy Köyü
+    5. Denizçalı Köyü
+    6. Dereköy Köyü
+    7. Gacık Köyü
+    8. İlyasköy Köyü
+    9. Kabaklı Köyü
+   10. Kılıç Köyü
+   11. Laledere Köyü
+   12. Mehmet Akif Ersoy Köyü
+   13. Sahil Köyü
+   14. Siteler Köyü
+   15. Sultaniye Köyü
+   16. Taşköprü Beldesi Köyü
+
+[ MERKEZ İLÇESİ KÖYLERİ (26 Köy) ]
+-----------------------------------------------------------------
+    1. Adnan Menderes Köyü
+    2. Bağlarbaşı Köyü
+    3. Bahçelievler Köyü
+    4. Bayraktepe Köyü
+    5. Dere Köyü
+    6. Elmalık Köyü
+    7. Esadiye Köyü
+    8. Fevzi Çakmak Köyü
+    9. Gazi Osman Paşa Köyü
+   10. Güneyköy Köyü
+   11. Hacımehmet Köyü
+   12. İsmet Paşa Köyü
+   13. Kadıköy Beldesi Köyü
+   14. Kazım Karabekir Köyü
+   15. Kazımiye Köyü
+   16. Kirazlı Köyü
+   17. Kurtköy Köyü
+   18. Mustafa Kemal Paşa Köyü
+   19. Paşakent Köyü
+   20. Rüstem Paşa Köyü
+   21. Safran Köyü
+   22. Samanlı Köyü
+   23. Seyrantepe Köyü
+   24. Soğucak Köyü
+   25. Sugören Köyü
+   26. Süleyman Bey Köyü
+
+[ TERMAL İLÇESİ KÖYLERİ (4 Köy) ]
+-----------------------------------------------------------------
+    1. Akköy Köyü
+    2. Gökçedere Köyü
+    3. Üvezpınar Köyü
+    4. Yenimahalle Köyü

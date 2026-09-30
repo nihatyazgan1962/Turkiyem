@@ -1,0 +1,14 @@
+=========================================================
+02 - ADIYAMAN İLİ İLÇELERİ VE KÖYLERİ
+Geliştirici: Nihat Yazgan
+=========================================================
+
+1. Besni -> 30 Köy
+2. Çelikhan -> 27 Köy
+3. Gerger -> 24 Köy
+4. Gölbaşı -> 21 Köy
+5. Kâhta -> 18 Köy
+6. Merkez -> 35 Köy
+7. Samsat -> 32 Köy
+8. Sincik -> 29 Köy
+9. Tut -> 26 Köy

@@ -1,0 +1,22 @@
+=================================================================
+58 - SIVAS İLİ TÜM İLÇELERİ (17 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Akıncılar              (37 Köy)
+   2. Altınyayla             (17 Köy)
+   3. Divriği                (133 Köy)
+   4. Doğanşar               (32 Köy)
+   5. Gemerek                (47 Köy)
+   6. Gölova                 (33 Köy)
+   7. Gürün                  (79 Köy)
+   8. Hafik                  (79 Köy)
+   9. İmranlı                (109 Köy)
+  10. Kangal                 (120 Köy)
+  11. Koyulhisar             (53 Köy)
+  12. Merkez                 (221 Köy)
+  13. Suşehri                (84 Köy)
+  14. Şarkışla               (110 Köy)
+  15. Ulaş                   (42 Köy)
+  16. Yıldızeli              (128 Köy)
+  17. Zara                   (150 Köy)

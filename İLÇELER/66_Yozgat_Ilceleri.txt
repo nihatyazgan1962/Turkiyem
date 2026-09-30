@@ -1,0 +1,19 @@
+=================================================================
+66 - YOZGAT İLİ TÜM İLÇELERİ (14 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Akdağmadeni            (92 Köy)
+   2. Aydıncık               (27 Köy)
+   3. Boğazlıyan             (38 Köy)
+   4. Çandır                 (14 Köy)
+   5. Çayıralan              (31 Köy)
+   6. Çekerek                (48 Köy)
+   7. Kadışehri              (30 Köy)
+   8. Merkez                 (123 Köy)
+   9. Saraykent              (24 Köy)
+  10. Sarıkaya               (73 Köy)
+  11. Sorgun                 (96 Köy)
+  12. Şefaatli               (52 Köy)
+  13. Yenifakılı             (12 Köy)
+  14. Yerköy                 (74 Köy)

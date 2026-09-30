@@ -1,0 +1,111 @@
+=================================================================
+76 - IĞDIR İLİ TÜM RESMİ KÖYLERİ (Mahallesiz)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+
+[ ARALIK İLÇESİ KÖYLERİ (23 Köy) ]
+-----------------------------------------------------------------
+   1. Aşağıköy Köyü
+   2. Belören Köyü
+   3. Çaydibi Köyü
+   4. Değirmenaltı Köyü
+   5. Doğanköy Köyü
+   6. Erence Köyü
+   7. Gelemiç Köyü
+   8. Hamdilli Köyü
+   9. İhsaniye Köyü
+  10. Kandilli Köyü
+  11. Karapınar Köyü
+  12. Kuşçular Köyü
+  13. Meydanköy Köyü
+  14. Ortaköy Köyü
+  15. Pınarlı Köyü
+  16. Selimiye Köyü
+  17. Suludere Köyü
+  18. Taşalan Köyü
+  19. Tokmacık Köyü
+  20. Urganlı Köyü
+  21. Yazıköy Köyü
+  22. Yıldız Köyü
+  23. Zeytinli Köyü
+
+[ KARAKOYUNLU İLÇESİ KÖYLERİ (20 Köy) ]
+-----------------------------------------------------------------
+   1. Arıkköy Köyü
+   2. Bilekkaya Köyü
+   3. Çanakçı Köyü
+   4. Çukurköy Köyü
+   5. Dölekli Köyü
+   6. Eskiköy Köyü
+   7. Gözeleri Köyü
+   8. Harmancık Köyü
+   9. İnli Köyü
+  10. Karakaya Köyü
+  11. Kırantepe Köyü
+  12. Köprülü Köyü
+  13. Mercimek Köyü
+  14. Rüzgarlı Köyü
+  15. Sarız Köyü
+  16. Taşlıdere Köyü
+  17. Turhallı Köyü
+  18. Yağlıdere Köyü
+  19. Yenice Köyü
+  20. Yörükler Köyü
+
+[ MERKEZ İLÇESİ KÖYLERİ (17 Köy) ]
+-----------------------------------------------------------------
+   1. Aşağıoba Köyü
+   2. Çağlayan Köyü
+   3. Dağdibi Köyü
+   4. Eğridere Köyü
+   5. Gölköy Köyü
+   6. Hocalar Köyü
+   7. Karaçoban Köyü
+   8. Kızıldağ Köyü
+   9. Kükürtlü Köyü
+  10. Ömerli Köyü
+  11. Örenkale Köyü
+  12. Sarıhamzalı Köyü
+  13. Sarılar Köyü
+  14. Süleymanlar Köyü
+  15. Topallar Köyü
+  16. Yalı Köyü
+  17. Yıldız Köyü
+
+[ TUZLUCA İLÇESİ KÖYLERİ (34 Köy) ]
+-----------------------------------------------------------------
+   1. Akçapınar Köyü
+   2. Akpınar Köyü
+   3. Alacami Köyü
+   4. Alakilise Köyü
+   5. Alibeyköy Köyü
+   6. Araköy Köyü
+   7. Armutlu Köyü
+   8. Aşağıoba Köyü
+   9. Yamaçlı Köyü
+  10. Yanıkköy Köyü
+  11. Yassıçalı Köyü
+  12. Yassıtepe Köyü
+  13. Yaylabaşı Köyü
+  14. Yayladere Köyü
+  15. Yazıbaşı Köyü
+  16. Yazılı Köyü
+  17. Yedisu Köyü
+  18. Yeniceköy Köyü
+  19. Yeniyurt Köyü
+  20. Yeşilbağ Köyü
+  21. Yeşildere Köyü
+  22. Yeşilköy Köyü
+  23. Yeşilöz Köyü
+  24. Yetimli Köyü
+  25. Yıldızlı Köyü
+  26. Yoğunoluk Köyü
+  27. Yoldere Köyü
+  28. Yolüstü Köyü
+  29. Yörükler Köyü
+  30. Yukarıköy Köyü
+  31. Yuvacık Köyü
+  32. Zeytinbeli Köyü
+  33. Zeytinköy Köyü
+  34. Ziyaret Köyü

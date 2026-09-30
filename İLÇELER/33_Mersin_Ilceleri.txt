@@ -1,0 +1,18 @@
+=================================================================
+33 - MERSIN İLİ TÜM İLÇELERİ (13 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Akdeniz                (69 Köy)
+   2. Anamur                 (56 Köy)
+   3. Aydıncık               (15 Köy)
+   4. Bozyazı                (26 Köy)
+   5. Çamlıyayla             (14 Köy)
+   6. Erdemli                (71 Köy)
+   7. Gülnar                 (50 Köy)
+   8. Mezitli                (40 Köy)
+   9. Mut                    (102 Köy)
+  10. Silifke                (89 Köy)
+  11. Tarsus                 (180 Köy)
+  12. Toroslar               (67 Köy)
+  13. Yenişehir              (32 Köy)

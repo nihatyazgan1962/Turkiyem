@@ -1,0 +1,22 @@
+=================================================================
+21 - DIYARBAKIR İLİ TÜM İLÇELERİ (17 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Bağlar                 (48 Köy)
+   2. Bismil                 (122 Köy)
+   3. Çermik                 (81 Köy)
+   4. Çınar                  (101 Köy)
+   5. Çüngüş                 (40 Köy)
+   6. Dicle                  (48 Köy)
+   7. Eğil                   (31 Köy)
+   8. Ergani                 (102 Köy)
+   9. Hani                   (26 Köy)
+  10. Hazro                  (31 Köy)
+  11. Kayapınar              (34 Köy)
+  12. Kocaköy                (22 Köy)
+  13. Kulp                   (58 Köy)
+  14. Lice                   (70 Köy)
+  15. Silvan                 (93 Köy)
+  16. Sur                    (100 Köy)
+  17. Yenişehir              (42 Köy)

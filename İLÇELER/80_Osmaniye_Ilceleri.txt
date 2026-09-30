@@ -1,0 +1,12 @@
+=================================================================
+80 - OSMANIYE İLİ TÜM İLÇELERİ (7 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Bahçe                  (26 Köy)
+   2. Düziçi                 (49 Köy)
+   3. Hasanbeyli             (10 Köy)
+   4. Kadirli                (80 Köy)
+   5. Merkez                 (73 Köy)
+   6. Sumbas                 (16 Köy)
+   7. Toprakkale             (13 Köy)

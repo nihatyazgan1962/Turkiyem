@@ -1,0 +1,18 @@
+=================================================================
+43 - KÜTAHYA İLİ TÜM İLÇELERİ (13 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Altıntaş               (40 Köy)
+   2. Aslanapa               (36 Köy)
+   3. Çavdarhisar            (27 Köy)
+   4. Domaniç                (35 Köy)
+   5. Dumlupınar             (14 Köy)
+   6. Emet                   (45 Köy)
+   7. Gediz                  (73 Köy)
+   8. Hisarcık               (31 Köy)
+   9. Merkez                 (178 Köy)
+  10. Pazarlar               (15 Köy)
+  11. Simav                  (107 Köy)
+  12. Şaphane                (19 Köy)
+  13. Tavşanlı               (111 Köy)

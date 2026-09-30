@@ -1,0 +1,19 @@
+=================================================================
+26 - ESKIŞEHIR İLİ TÜM İLÇELERİ (14 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Alpu                   (33 Köy)
+   2. Beylikova              (26 Köy)
+   3. Çifteler               (28 Köy)
+   4. Günyüzü                (22 Köy)
+   5. Han                    (15 Köy)
+   6. İnönü                  (16 Köy)
+   7. Mahmudiye              (19 Köy)
+   8. Mihalgazi              (9 Köy)
+   9. Mihalıççık             (53 Köy)
+  10. Odunpazarı             (85 Köy)
+  11. Sarıcakaya             (14 Köy)
+  12. Seyitgazi              (51 Köy)
+  13. Sivrihisar             (78 Köy)
+  14. Tepebaşı               (92 Köy)

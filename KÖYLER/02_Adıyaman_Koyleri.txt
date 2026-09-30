@@ -1,0 +1,274 @@
+=================================================================
+02 - ADIYAMAN İLİ TÜM RESMİ KÖYLERİ (Mahallesiz)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+
+[ BESNI İLÇESİ KÖYLERİ (30 Köy) ]
+-----------------------------------------------------------------
+   1. Arıkköy Köyü
+   2. Avcılarköyü Köyü
+   3. Büyükalan Köyü
+   4. Civanyurdu Köyü
+   5. Çeltikçi Köyü
+   6. Çobansaray Köyü
+   7. Durhasan Köyü
+   8. Gerdibi Köyü
+   9. Gökçeler Köyü
+  10. Hacılar Köyü
+  11. Harmancık Köyü
+  12. Kabaklar Köyü
+  13. Kaleköy Köyü
+  14. Kavakköy Köyü
+  15. Kayalar Köyü
+  16. Köprübaşı Köyü
+  17. Muratdere Köyü
+  18. Nebiler Köyü
+  19. Pınarcık Köyü
+  20. Ramazanlar Köyü
+  21. Savran Köyü
+  22. Sekiköy Köyü
+  23. Şahinkaya Köyü
+  24. Şerefiye Köyü
+  25. Topçular Köyü
+  26. Tulumtaş Köyü
+  27. Yalnızçam Köyü
+  28. Yassıçalı Köyü
+  29. Yıldız Köyü
+  30. Yoldere Köyü
+
+[ ÇELIKHAN İLÇESİ KÖYLERİ (27 Köy) ]
+-----------------------------------------------------------------
+   1. Akyar Köyü
+   2. Armutlu Köyü
+   3. Bağlıca Köyü
+   4. Cevizli Köyü
+   5. Çamköy Köyü
+   6. Deliler Köyü
+   7. Derince Köyü
+   8. Esenbel Köyü
+   9. Eyüplü Köyü
+  10. Gürlek Köyü
+  11. Hamdilli Köyü
+  12. Kamışlı Köyü
+  13. Karacaören Köyü
+  14. Kemerkaya Köyü
+  15. Kızılcaköy Köyü
+  16. Küçükköy Köyü
+  17. Mescitli Köyü
+  18. Ömerler Köyü
+  19. Payamlı Köyü
+  20. Sarnıç Köyü
+  21. Seyfe Köyü
+  22. Taşburun Köyü
+  23. Tavşanlı Köyü
+  24. Urganlı Köyü
+  25. Ürünlü Köyü
+  26. Yeniyurt Köyü
+  27. Yeşilyurt Köyü
+
+[ GERGER İLÇESİ KÖYLERİ (24 Köy) ]
+-----------------------------------------------------------------
+   1. Başköy Köyü
+   2. Beyköy Köyü
+   3. Çiçekli Köyü
+   4. Çukurköy Köyü
+   5. Ekincik Köyü
+   6. Esenbel Köyü
+   7. Eskiköy Köyü
+   8. Gürcübulak Köyü
+   9. Güzelyurt Köyü
+  10. Karaağaç Köyü
+  11. Karaçoban Köyü
+  12. Konaklı Köyü
+  13. Kozluca Köyü
+  14. Oğlakçı Köyü
+  15. Ortaca Köyü
+  16. Sarayköy Köyü
+  17. Sarıhasan Köyü
+  18. Sarız Köyü
+  19. Şapçı Köyü
+  20. Tarakçı Köyü
+  21. Üçpınar Köyü
+  22. Veliler Köyü
+  23. Yıldız Köyü
+  24. Yolkonak Köyü
+
+[ GÖLBAŞI İLÇESİ KÖYLERİ (21 Köy) ]
+-----------------------------------------------------------------
+   1. Ayvalıköy Köyü
+   2. Bulanık Köyü
+   3. Çavuşköy Köyü
+   4. Demirbel Köyü
+   5. Düzköy Köyü
+   6. Gelemiç Köyü
+   7. Güneyköy Köyü
+   8. Işıklar Köyü
+   9. Kapıköy Köyü
+  10. Kayacık Köyü
+  11. Korkut Köyü
+  12. Küçükköy Köyü
+  13. Oklalı Köyü
+  14. Pirhasan Köyü
+  15. Sarıot Köyü
+  16. Söğütcük Köyü
+  17. Taşkesik Köyü
+  18. Turhallı Köyü
+  19. Yakaköy Köyü
+  20. Yeniceköy Köyü
+  21. Yuvacık Köyü
+
+[ KÂHTA İLÇESİ KÖYLERİ (18 Köy) ]
+-----------------------------------------------------------------
+   1. Altıntaş Köyü
+   2. Balcılar Köyü
+   3. Demirbel Köyü
+   4. Doymuş Köyü
+   5. Erence Köyü
+   6. Gazi Köyü
+   7. Kabakça Köyü
+   8. Karacaören Köyü
+   9. Kavacık Köyü
+  10. Meydanköy Köyü
+  11. Ortaca Köyü
+  12. Pekmezci Köyü
+  13. Samancılar Köyü
+  14. Şahinkaya Köyü
+  15. Taşpınar Köyü
+  16. Topçular Köyü
+  17. Uzundere Köyü
+  18. Zeytinbağı Köyü
+
+[ MERKEZ İLÇESİ KÖYLERİ (35 Köy) ]
+-----------------------------------------------------------------
+   1. Çayeli Köyü
+   2. Çeltikçi Köyü
+   3. Çimeli Köyü
+   4. Çukurköy Köyü
+   5. Danagöz Köyü
+   6. Deliler Köyü
+   7. Demirtaş Köyü
+   8. Dereköy Köyü
+   9. Dikyamaç Köyü
+  10. Doluca Köyü
+  11. Dumanlı Köyü
+  12. Kayadibi Köyü
+  13. Keçiköy Köyü
+  14. Kınık Köyü
+  15. Kırtık Köyü
+  16. Kızılkaya Köyü
+  17. Kocagöl Köyü
+  18. Korkut Köyü
+  19. Kozalan Köyü
+  20. Köprülü Köyü
+  21. Kubilay Köyü
+  22. Kurtkulağı Köyü
+  23. Kuşçular Köyü
+  24. Taşpınar Köyü
+  25. Tavşanlı Köyü
+  26. Tepebaşı Köyü
+  27. Tokmacık Köyü
+  28. Topçular Köyü
+  29. Tosunlar Köyü
+  30. Tuzluca Köyü
+  31. Uluköy Köyü
+  32. Uzundere Köyü
+  33. Üçpınar Köyü
+  34. Vakıf Köyü
+  35. Yağcılar Köyü
+
+[ SAMSAT İLÇESİ KÖYLERİ (32 Köy) ]
+-----------------------------------------------------------------
+   1. Avcılarköyü Köyü
+   2. Balabancık Köyü
+   3. Çağlayan Köyü
+   4. Çamlıbel Köyü
+   5. Çatköy Köyü
+   6. Değirmenözü Köyü
+   7. Dereçiftlik Köyü
+   8. Emirler Köyü
+   9. Eskiçiftlik Köyü
+  10. Gözlek Köyü
+  11. Gündoğdu Köyü
+  12. İhsaniye Köyü
+  13. İslamlar Köyü
+  14. Karaköy Köyü
+  15. Kasımlar Köyü
+  16. Kocadere Köyü
+  17. Koyuneri Köyü
+  18. Lalaşahin Köyü
+  19. Meşeli Köyü
+  20. Payamlı Köyü
+  21. Rahmanlar Köyü
+  22. Sarısöğüt Köyü
+  23. Sekiköy Köyü
+  24. Sütlaç Köyü
+  25. Şeyhler Köyü
+  26. Topallar Köyü
+  27. Tuzkuyu Köyü
+  28. Uzunçam Köyü
+  29. Yanıkköy Köyü
+  30. Yayladere Köyü
+  31. Yolçatı Köyü
+  32. Yumrutaş Köyü
+
+[ SINCIK İLÇESİ KÖYLERİ (29 Köy) ]
+-----------------------------------------------------------------
+   1. Akpınar Köyü
+   2. Aşağıoba Köyü
+   3. Çamlıbel Köyü
+   4. Çaybaşı Köyü
+   5. Çomaklı Köyü
+   6. Demirciler Köyü
+   7. Doğancı Köyü
+   8. Düzköy Köyü
+   9. Gültepe Köyü
+  10. Güveççi Köyü
+  11. Hasköy Köyü
+  12. İğdir Köyü
+  13. Kabaklar Köyü
+  14. Karabük Köyü
+  15. Kökez Köyü
+  16. Kurudere Köyü
+  17. Mercimek Köyü
+  18. Musalı Köyü
+  19. Ortakent Köyü
+  20. Sekiköy Köyü
+  21. Soğuksu Köyü
+  22. Süleymaniye Köyü
+  23. Tarakçı Köyü
+  24. Tecer Köyü
+  25. Topkaya Köyü
+  26. Yassıtepe Köyü
+  27. Yeniceköy Köyü
+  28. Yetimli Köyü
+  29. Yukarıköy Köyü
+
+[ TUT İLÇESİ KÖYLERİ (26 Köy) ]
+-----------------------------------------------------------------
+   1. Alacaoluk Köyü
+   2. Alakilise Köyü
+   3. Alanköy Köyü
+   4. Çayeli Köyü
+   5. Çayırköy Köyü
+   6. Çayüstü Köyü
+   7. Fındıcak Köyü
+   8. Fındıklı Köyü
+   9. Garipçe Köyü
+  10. İncesu Köyü
+  11. İncirli Köyü
+  12. İnli Köyü
+  13. İslamlar Köyü
+  14. Korkut Köyü
+  15. Korucuk Köyü
+  16. Kovanlık Köyü
+  17. Koyuneri Köyü
+  18. Palamutçuk Köyü
+  19. Paşaköy Köyü
+  20. Paşalı Köyü
+  21. Sücüllü Köyü
+  22. Süleymaniye Köyü
+  23. Süleymanlar Köyü
+  24. Yağlıdere Köyü
+  25. Yakaköy Köyü
+  26. Yakapınar Köyü

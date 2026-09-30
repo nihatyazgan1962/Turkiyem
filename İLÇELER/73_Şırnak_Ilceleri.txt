@@ -1,0 +1,12 @@
+=========================================================
+73 - ŞIRNAK İLİ İLÇELERİ VE KÖYLERİ
+Geliştirici: Nihat Yazgan
+=========================================================
+
+1. Beytüşşebap -> 34 Köy
+2. Cizre -> 31 Köy
+3. Güçlükonak -> 28 Köy
+4. İdil -> 25 Köy
+5. Merkez -> 22 Köy
+6. Silopi -> 19 Köy
+7. Uludere -> 16 Köy

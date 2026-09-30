@@ -1,0 +1,16 @@
+=================================================================
+23 - ELAZIĞ İLİ TÜM İLÇELERİ (11 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Ağın                   (21 Köy)
+   2. Alacakaya              (16 Köy)
+   3. Arıcak                 (21 Köy)
+   4. Baskil                 (66 Köy)
+   5. Karakoçan              (96 Köy)
+   6. Keban                  (34 Köy)
+   7. Kovancılar             (89 Köy)
+   8. Maden                  (40 Köy)
+   9. Merkez                 (161 Köy)
+  10. Palu                   (48 Köy)
+  11. Sivrice                (57 Köy)

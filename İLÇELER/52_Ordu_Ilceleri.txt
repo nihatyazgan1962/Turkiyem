@@ -1,0 +1,24 @@
+=================================================================
+52 - ORDU İLİ TÜM İLÇELERİ (19 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Akkuş                  (44 Köy)
+   2. Altınordu              (91 Köy)
+   3. Aybastı                (21 Köy)
+   4. Çamaş                  (23 Köy)
+   5. Çatalpınar             (23 Köy)
+   6. Çaybaşı                (26 Köy)
+   7. Fatsa                  (90 Köy)
+   8. Gölköy                 (30 Köy)
+   9. Gülyalı                (13 Köy)
+  10. Gürgentepe             (23 Köy)
+  11. İkizce                 (32 Köy)
+  12. Kabadüz                (19 Köy)
+  13. Kabataş                (18 Köy)
+  14. Korgan                 (29 Köy)
+  15. Kumru                  (40 Köy)
+  16. Mesudiye               (70 Köy)
+  17. Perşembe               (54 Köy)
+  18. Ulubey                 (41 Köy)
+  19. Ünye                   (85 Köy)

@@ -1,0 +1,15 @@
+=================================================================
+47 - MARDIN İLİ TÜM İLÇELERİ (10 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Artuklu                (91 Köy)
+   2. Dargeçit               (41 Köy)
+   3. Derik                  (80 Köy)
+   4. Kızıltepe              (184 Köy)
+   5. Mazıdağı               (53 Köy)
+   6. Midyat                 (72 Köy)
+   7. Nusaybin               (83 Köy)
+   8. Ömerli                 (46 Köy)
+   9. Savur                  (41 Köy)
+  10. Yeşilli                (14 Köy)

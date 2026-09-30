@@ -1,0 +1,21 @@
+=================================================================
+54 - SAKARYA İLİ TÜM İLÇELERİ (16 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Adapazarı              (84 Köy)
+   2. Akyazı                 (73 Köy)
+   3. Arifiye                (25 Köy)
+   4. Erenler                (33 Köy)
+   5. Ferizli                (25 Köy)
+   6. Geyve                  (73 Köy)
+   7. Hendek                 (92 Köy)
+   8. Karapürçek             (14 Köy)
+   9. Karasu                 (41 Köy)
+  10. Kaynarca               (45 Köy)
+  11. Kocaali                (36 Köy)
+  12. Pamukova               (33 Köy)
+  13. Sapanca                (29 Köy)
+  14. Serdivan               (24 Köy)
+  15. Söğütlü                (24 Köy)
+  16. Taraklı                (22 Köy)

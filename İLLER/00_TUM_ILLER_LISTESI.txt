@@ -1,0 +1,86 @@
+=================================================================
+TÜRKİYE CUMHURİYETİ 81 İL RESMİ LİSTESİ (NVİ VERİTABANI)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+[Plaka: 01] Adana            | Bölge: Akdeniz              | İlçe: 15 | Köy:  832 | Nüfus: 2.274.106
+[Plaka: 02] Adıyaman         | Bölge: Güneydoğu Anadolu    | İlçe:  9 | Köy:  584 | Nüfus: 635.169
+[Plaka: 03] Afyonkarahisar   | Bölge: Ege                  | İlçe: 18 | Köy:  724 | Nüfus: 747.555
+[Plaka: 04] Ağrı             | Bölge: Doğu Anadolu         | İlçe:  8 | Köy:  645 | Nüfus: 510.626
+[Plaka: 05] Amasya           | Bölge: Karadeniz            | İlçe:  7 | Köy:  479 | Nüfus: 339.529
+[Plaka: 06] Ankara           | Bölge: İç Anadolu           | İlçe: 25 | Köy: 1434 | Nüfus: 5.803.482
+[Plaka: 07] Antalya          | Bölge: Akdeniz              | İlçe: 19 | Köy:  917 | Nüfus: 2.688.004
+[Plaka: 08] Artvin           | Bölge: Karadeniz            | İlçe:  9 | Köy:  411 | Nüfus: 169.543
+[Plaka: 09] Aydın            | Bölge: Ege                  | İlçe: 17 | Köy:  673 | Nüfus: 1.148.241
+[Plaka: 10] Balıkesir        | Bölge: Marmara              | İlçe: 20 | Köy: 1136 | Nüfus: 1.257.590
+[Plaka: 11] Bilecik          | Bölge: Marmara              | İlçe:  8 | Köy:  300 | Nüfus: 228.058
+[Plaka: 12] Bingöl           | Bölge: Doğu Anadolu         | İlçe:  8 | Köy:  374 | Nüfus: 282.556
+[Plaka: 13] Bitlis           | Bölge: Doğu Anadolu         | İlçe:  7 | Köy:  439 | Nüfus: 353.988
+[Plaka: 14] Bolu             | Bölge: Karadeniz            | İlçe:  9 | Köy:  584 | Nüfus: 320.824
+[Plaka: 15] Burdur           | Bölge: Akdeniz              | İlçe: 11 | Köy:  313 | Nüfus: 273.799
+[Plaka: 16] Bursa            | Bölge: Marmara              | İlçe: 17 | Köy: 1072 | Nüfus: 3.194.720
+[Plaka: 17] Çanakkale        | Bölge: Marmara              | İlçe: 12 | Köy:  644 | Nüfus: 559.383
+[Plaka: 18] Çankırı          | Bölge: İç Anadolu           | İlçe: 12 | Köy:  459 | Nüfus: 195.766
+[Plaka: 19] Çorum            | Bölge: Karadeniz            | İlçe: 14 | Köy:  879 | Nüfus: 524.130
+[Plaka: 20] Denizli          | Bölge: Ege                  | İlçe: 19 | Köy:  620 | Nüfus: 1.056.332
+[Plaka: 21] Diyarbakır       | Bölge: Güneydoğu Anadolu    | İlçe: 17 | Köy: 1049 | Nüfus: 1.804.880
+[Plaka: 22] Edirne           | Bölge: Marmara              | İlçe:  9 | Köy:  334 | Nüfus: 414.714
+[Plaka: 23] Elazığ           | Bölge: Doğu Anadolu         | İlçe: 11 | Köy:  649 | Nüfus: 591.497
+[Plaka: 24] Erzincan         | Bölge: Doğu Anadolu         | İlçe:  9 | Köy:  662 | Nüfus: 239.223
+[Plaka: 25] Erzurum          | Bölge: Doğu Anadolu         | İlçe: 20 | Köy: 1188 | Nüfus: 749.754
+[Plaka: 26] Eskişehir        | Bölge: İç Anadolu           | İlçe: 14 | Köy:  541 | Nüfus: 906.617
+[Plaka: 27] Gaziantep        | Bölge: Güneydoğu Anadolu    | İlçe:  9 | Köy:  786 | Nüfus: 2.154.051
+[Plaka: 28] Giresun          | Bölge: Karadeniz            | İlçe: 16 | Köy:  726 | Nüfus: 450.862
+[Plaka: 29] Gümüşhane        | Bölge: Karadeniz            | İlçe:  6 | Köy:  381 | Nüfus: 144.544
+[Plaka: 30] Hakkari          | Bölge: Doğu Anadolu         | İlçe:  5 | Köy:  174 | Nüfus: 275.333
+[Plaka: 31] Hatay            | Bölge: Akdeniz              | İlçe: 15 | Köy:  595 | Nüfus: 1.686.043
+[Plaka: 32] Isparta          | Bölge: Akdeniz              | İlçe: 13 | Köy:  394 | Nüfus: 445.678
+[Plaka: 33] Mersin           | Bölge: Akdeniz              | İlçe: 13 | Köy:  811 | Nüfus: 1.916.432
+[Plaka: 34] İstanbul         | Bölge: Marmara              | İlçe: 39 | Köy:  975 | Nüfus: 15.907.951
+[Plaka: 35] İzmir            | Bölge: Ege                  | İlçe: 30 | Köy: 1308 | Nüfus: 4.462.056
+[Plaka: 36] Kars             | Bölge: Doğu Anadolu         | İlçe:  8 | Köy:  439 | Nüfus: 274.882
+[Plaka: 37] Kastamonu        | Bölge: Karadeniz            | İlçe: 20 | Köy: 1242 | Nüfus: 378.115
+[Plaka: 38] Kayseri          | Bölge: İç Anadolu           | İlçe: 16 | Köy:  718 | Nüfus: 1.441.523
+[Plaka: 39] Kırklareli       | Bölge: Marmara              | İlçe:  8 | Köy:  252 | Nüfus: 369.347
+[Plaka: 40] Kırşehir         | Bölge: İç Anadolu           | İlçe:  7 | Köy:  306 | Nüfus: 247.179
+[Plaka: 41] Kocaeli          | Bölge: Marmara              | İlçe: 12 | Köy:  488 | Nüfus: 2.079.072
+[Plaka: 42] Konya            | Bölge: İç Anadolu           | İlçe: 31 | Köy: 1160 | Nüfus: 2.296.347
+[Plaka: 43] Kütahya          | Bölge: Ege                  | İlçe: 13 | Köy:  731 | Nüfus: 575.670
+[Plaka: 44] Malatya          | Bölge: Doğu Anadolu         | İlçe: 13 | Köy:  721 | Nüfus: 812.580
+[Plaka: 45] Manisa           | Bölge: Ege                  | İlçe: 17 | Köy: 1093 | Nüfus: 1.468.279
+[Plaka: 46] Kahramanmaraş    | Bölge: Akdeniz              | İlçe: 11 | Köy:  715 | Nüfus: 1.177.436
+[Plaka: 47] Mardin           | Bölge: Güneydoğu Anadolu    | İlçe: 10 | Köy:  705 | Nüfus: 870.374
+[Plaka: 48] Muğla            | Bölge: Ege                  | İlçe: 13 | Köy:  566 | Nüfus: 1.048.185
+[Plaka: 49] Muş              | Bölge: Doğu Anadolu         | İlçe:  6 | Köy:  441 | Nüfus: 399.202
+[Plaka: 50] Nevşehir         | Bölge: İç Anadolu           | İlçe:  8 | Köy:  243 | Nüfus: 310.011
+[Plaka: 51] Niğde            | Bölge: İç Anadolu           | İlçe:  6 | Köy:  227 | Nüfus: 365.419
+[Plaka: 52] Ordu             | Bölge: Karadeniz            | İlçe: 19 | Köy:  772 | Nüfus: 763.190
+[Plaka: 53] Rize             | Bölge: Karadeniz            | İlçe: 12 | Köy:  522 | Nüfus: 344.016
+[Plaka: 54] Sakarya          | Bölge: Marmara              | İlçe: 16 | Köy:  673 | Nüfus: 1.080.080
+[Plaka: 55] Samsun           | Bölge: Karadeniz            | İlçe: 17 | Köy: 1258 | Nüfus: 1.371.274
+[Plaka: 56] Siirt            | Bölge: Güneydoğu Anadolu    | İlçe:  7 | Köy:  337 | Nüfus: 331.311
+[Plaka: 57] Sinop            | Bölge: Karadeniz            | İlçe:  9 | Köy:  514 | Nüfus: 220.799
+[Plaka: 58] Sivas            | Bölge: İç Anadolu           | İlçe: 17 | Köy: 1474 | Nüfus: 634.924
+[Plaka: 59] Tekirdağ         | Bölge: Marmara              | İlçe: 11 | Köy:  381 | Nüfus: 1.142.451
+[Plaka: 60] Tokat            | Bölge: Karadeniz            | İlçe: 12 | Köy:  828 | Nüfus: 596.454
+[Plaka: 61] Trabzon          | Bölge: Karadeniz            | İlçe: 18 | Köy:  710 | Nüfus: 818.023
+[Plaka: 62] Tunceli          | Bölge: Doğu Anadolu         | İlçe:  8 | Köy:  409 | Nüfus: 84.366
+[Plaka: 63] Şanlıurfa        | Bölge: Güneydoğu Anadolu    | İlçe: 13 | Köy: 1444 | Nüfus: 2.170.110
+[Plaka: 64] Uşak             | Bölge: Ege                  | İlçe:  6 | Köy:  319 | Nüfus: 375.454
+[Plaka: 65] Van              | Bölge: Doğu Anadolu         | İlçe: 13 | Köy:  694 | Nüfus: 1.128.749
+[Plaka: 66] Yozgat           | Bölge: İç Anadolu           | İlçe: 14 | Köy:  734 | Nüfus: 418.442
+[Plaka: 67] Zonguldak        | Bölge: Karadeniz            | İlçe:  8 | Köy:  497 | Nüfus: 588.510
+[Plaka: 68] Aksaray          | Bölge: İç Anadolu           | İlçe:  8 | Köy:  294 | Nüfus: 433.055
+[Plaka: 69] Bayburt          | Bölge: Karadeniz            | İlçe:  3 | Köy:  194 | Nüfus: 84.241
+[Plaka: 70] Karaman          | Bölge: İç Anadolu           | İlçe:  6 | Köy:  264 | Nüfus: 260.838
+[Plaka: 71] Kırıkkale        | Bölge: İç Anadolu           | İlçe:  9 | Köy:  267 | Nüfus: 277.046
+[Plaka: 72] Batman           | Bölge: Güneydoğu Anadolu    | İlçe:  6 | Köy:  406 | Nüfus: 634.491
+[Plaka: 73] Şırnak           | Bölge: Güneydoğu Anadolu    | İlçe:  7 | Köy:  262 | Nüfus: 557.605
+[Plaka: 74] Bartın           | Bölge: Karadeniz            | İlçe:  4 | Köy:  301 | Nüfus: 203.351
+[Plaka: 75] Ardahan          | Bölge: Doğu Anadolu         | İlçe:  6 | Köy:  273 | Nüfus: 92.481
+[Plaka: 76] Iğdır            | Bölge: Doğu Anadolu         | İlçe:  4 | Köy:  192 | Nüfus: 203.594
+[Plaka: 77] Yalova           | Bölge: Marmara              | İlçe:  6 | Köy:   84 | Nüfus: 296.333
+[Plaka: 78] Karabük          | Bölge: Karadeniz            | İlçe:  6 | Köy:  351 | Nüfus: 252.058
+[Plaka: 79] Kilis            | Bölge: Güneydoğu Anadolu    | İlçe:  4 | Köy:  227 | Nüfus: 147.919
+[Plaka: 80] Osmaniye         | Bölge: Akdeniz              | İlçe:  7 | Köy:  267 | Nüfus: 559.405
+[Plaka: 81] Düzce            | Bölge: Karadeniz            | İlçe:  8 | Köy:  380 | Nüfus: 405.131

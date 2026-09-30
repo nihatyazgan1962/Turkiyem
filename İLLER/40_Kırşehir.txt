@@ -1,0 +1,21 @@
+=========================================================
+TÜRKİYE CUMHURİYETİ - 40 KIRŞEHIR İLİ KÖY DAĞILIMI
+Geliştirici: Nihat Yazgan
+=========================================================
+
+Plaka Kodu    : 40
+İl Adı        : Kırşehir
+Coğrafi Bölge : İç Anadolu
+Nüfus         : 247.179
+Telefon Kodu  : +90 (386)
+İlçe Sayısı   : 7
+Toplam Köy    : 153
+
+--- İLÇELERİ VE KÖY SAYILARI ---
+1. Akçakent (16 Köy)
+2. Akpınar (17 Köy)
+3. Boztepe (30 Köy)
+4. Çiçekdağı (27 Köy)
+5. Kaman (24 Köy)
+6. Merkez (21 Köy)
+7. Mucur (18 Köy)

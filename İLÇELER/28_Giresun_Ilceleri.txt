@@ -1,0 +1,21 @@
+=================================================================
+28 - GIRESUN İLİ TÜM İLÇELERİ (16 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Alucra                 (44 Köy)
+   2. Bulancak               (79 Köy)
+   3. Çamoluk                (35 Köy)
+   4. Çanakçı                (19 Köy)
+   5. Dereli                 (42 Köy)
+   6. Doğankent              (14 Köy)
+   7. Espiye                 (41 Köy)
+   8. Eynesil                (17 Köy)
+   9. Görele                 (77 Köy)
+  10. Güce                   (20 Köy)
+  11. Keşap                  (55 Köy)
+  12. Merkez                 (82 Köy)
+  13. Piraziz                (31 Köy)
+  14. Şebinkarahisar         (77 Köy)
+  15. Tirebolu               (59 Köy)
+  16. Yağlıdere              (34 Köy)

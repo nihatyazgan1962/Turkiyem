@@ -1,0 +1,1140 @@
+=================================================================
+TÜRKİYE CUMHURİYETİ TÜM İLÇELER LİSTESİ (973 İLÇE)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+
+=== 01 - ADANA (15 İlçe) ===
+   1. Aladağ               -> 31 Köy
+   2. Ceyhan               -> 113 Köy
+   3. Çukurova             -> 27 Köy
+   4. Feke                 -> 48 Köy
+   5. İmamoğlu             -> 27 Köy
+   6. Karaisalı            -> 62 Köy
+   7. Karataş              -> 43 Köy
+   8. Kozan                -> 103 Köy
+   9. Pozantı              -> 21 Köy
+  10. Saimbeyli            -> 28 Köy
+  11. Sarıçam              -> 69 Köy
+  12. Seyhan               -> 96 Köy
+  13. Tufanbeyli           -> 33 Köy
+  14. Yumurtalık           -> 24 Köy
+  15. Yüreğir              -> 107 Köy
+
+=== 02 - ADIYAMAN (9 İlçe) ===
+   1. Besni                -> 85 Köy
+   2. Çelikhan             -> 29 Köy
+   3. Gerger               -> 52 Köy
+   4. Gölbaşı              -> 42 Köy
+   5. Kahta                -> 120 Köy
+   6. Merkez               -> 183 Köy
+   7. Samsat               -> 20 Köy
+   8. Sincik               -> 32 Köy
+   9. Tut                  -> 21 Köy
+
+=== 03 - AFYONKARAHISAR (18 İlçe) ===
+   1. Başmakçı             -> 22 Köy
+   2. Bayat                -> 16 Köy
+   3. Bolvadin             -> 65 Köy
+   4. Çay                  -> 39 Köy
+   5. Çobanlar             -> 13 Köy
+   6. Dazkırı              -> 23 Köy
+   7. Dinar                -> 89 Köy
+   8. Emirdağ              -> 81 Köy
+   9. Evciler              -> 13 Köy
+  10. Hocalar              -> 18 Köy
+  11. İhsaniye             -> 38 Köy
+  12. İscehisar            -> 25 Köy
+  13. Kızılören            -> 6 Köy
+  14. Merkez               -> 94 Köy
+  15. Sandıklı             -> 71 Köy
+  16. Sinanpaşa            -> 42 Köy
+  17. Sultandağı           -> 19 Köy
+  18. Şuhut                -> 50 Köy
+
+=== 04 - AĞRI (8 İlçe) ===
+   1. Diyadin              -> 68 Köy
+   2. Doğubayazıt          -> 99 Köy
+   3. Eleşkirt             -> 65 Köy
+   4. Hamur                -> 50 Köy
+   5. Merkez               -> 123 Köy
+   6. Patnos               -> 114 Köy
+   7. Taşlıçay             -> 41 Köy
+   8. Tutak                -> 85 Köy
+
+=== 05 - AMASYA (7 İlçe) ===
+   1. Göynücek             -> 41 Köy
+   2. Gümüşhacıköy         -> 57 Köy
+   3. Hamamözü             -> 21 Köy
+   4. Merkez               -> 138 Köy
+   5. Merzifon             -> 91 Köy
+   6. Suluova              -> 61 Köy
+   7. Taşova               -> 70 Köy
+
+=== 06 - ANKARA (25 İlçe) ===
+   1. Akyurt               -> 26 Köy
+   2. Altındağ             -> 26 Köy
+   3. Ayaş                 -> 33 Köy
+   4. Bala                 -> 55 Köy
+   5. Beypazarı            -> 78 Köy
+   6. Çamlıdere            -> 48 Köy
+   7. Çankaya              -> 124 Köy
+   8. Çubuk                -> 85 Köy
+   9. Elmadağ              -> 30 Köy
+  10. Etimesgut            -> 38 Köy
+  11. Evren                -> 13 Köy
+  12. Gölbaşı              -> 54 Köy
+  13. Güdül                -> 31 Köy
+  14. Haymana              -> 78 Köy
+  15. Kahramankazan        -> 49 Köy
+  16. Kalecik              -> 57 Köy
+  17. Keçiören             -> 51 Köy
+  18. Kızılcahamam         -> 109 Köy
+  19. Mamak                -> 64 Köy
+  20. Nallıhan             -> 84 Köy
+  21. Polatlı              -> 96 Köy
+  22. Pursaklar            -> 21 Köy
+  23. Sincan               -> 62 Köy
+  24. Şereflikoçhisar      -> 65 Köy
+  25. Yenimahalle          -> 57 Köy
+
+=== 07 - ANTALYA (19 İlçe) ===
+   1. Akseki               -> 51 Köy
+   2. Aksu                 -> 35 Köy
+   3. Alanya               -> 102 Köy
+   4. Demre                -> 17 Köy
+   5. Döşemealtı           -> 35 Köy
+   6. Elmalı               -> 60 Köy
+   7. Finike               -> 26 Köy
+   8. Gazipaşa             -> 53 Köy
+   9. Gündoğmuş            -> 29 Köy
+  10. İbradı               -> 9 Köy
+  11. Kaş                  -> 54 Köy
+  12. Kemer                -> 12 Köy
+  13. Kepez                -> 68 Köy
+  14. Konyaaltı            -> 40 Köy
+  15. Korkuteli            -> 58 Köy
+  16. Kumluca              -> 41 Köy
+  17. Manavgat             -> 106 Köy
+  18. Muratpaşa            -> 55 Köy
+  19. Serik                -> 66 Köy
+
+=== 08 - ARTVIN (9 İlçe) ===
+   1. Ardanuç              -> 50 Köy
+   2. Arhavi               -> 37 Köy
+   3. Borçka               -> 43 Köy
+   4. Hopa                 -> 23 Köy
+   5. Kemalpaşa            -> 15 Köy
+   6. Merkez               -> 49 Köy
+   7. Murgul               -> 11 Köy
+   8. Şavşat               -> 70 Köy
+   9. Yusufeli             -> 113 Köy
+
+=== 09 - AYDIN (17 İlçe) ===
+   1. Bozdoğan             -> 55 Köy
+   2. Buharkent            -> 14 Köy
+   3. Çine                 -> 72 Köy
+   4. Didim                -> 16 Köy
+   5. Efeler               -> 84 Köy
+   6. Germencik            -> 36 Köy
+   7. İncirliova           -> 28 Köy
+   8. Karacasu             -> 38 Köy
+   9. Karpuzlu             -> 23 Köy
+  10. Koçarlı              -> 52 Köy
+  11. Köşk                 -> 28 Köy
+  12. Kuşadası             -> 23 Köy
+  13. Kuyucak              -> 35 Köy
+  14. Nazilli              -> 83 Köy
+  15. Söke                 -> 50 Köy
+  16. Sultanhisar          -> 18 Köy
+  17. Yenipazar            -> 18 Köy
+
+=== 10 - BALIKESIR (20 İlçe) ===
+   1. Altıeylül            -> 96 Köy
+   2. Ayvalık              -> 34 Köy
+   3. Balya                -> 46 Köy
+   4. Bandırma             -> 55 Köy
+   5. Bigadiç              -> 80 Köy
+   6. Burhaniye            -> 40 Köy
+   7. Dursunbey            -> 111 Köy
+   8. Edremit              -> 47 Köy
+   9. Erdek                -> 28 Köy
+  10. Gömeç                -> 13 Köy
+  11. Gönen                -> 101 Köy
+  12. Havran               -> 34 Köy
+  13. İvrindi              -> 69 Köy
+  14. Karesi               -> 70 Köy
+  15. Kepsut               -> 69 Köy
+  16. Manyas               -> 50 Köy
+  17. Marmara              -> 14 Köy
+  18. Savaştepe            -> 50 Köy
+  19. Sındırgı             -> 75 Köy
+  20. Susurluk             -> 54 Köy
+
+=== 11 - BILECIK (8 İlçe) ===
+   1. Bozüyük              -> 55 Köy
+   2. Gölpazarı            -> 53 Köy
+   3. İnhisar              -> 13 Köy
+   4. Merkez               -> 62 Köy
+   5. Osmaneli             -> 31 Köy
+   6. Pazaryeri            -> 31 Köy
+   7. Söğüt                -> 28 Köy
+   8. Yenipazar            -> 27 Köy
+
+=== 12 - BINGÖL (8 İlçe) ===
+   1. Adaklı               -> 39 Köy
+   2. Genç                 -> 73 Köy
+   3. Karlıova             -> 53 Köy
+   4. Kiğı                 -> 28 Köy
+   5. Merkez               -> 105 Köy
+   6. Solhan               -> 32 Köy
+   7. Yayladere            -> 26 Köy
+   8. Yedisu               -> 18 Köy
+
+=== 13 - BITLIS (7 İlçe) ===
+   1. Adilcevaz            -> 37 Köy
+   2. Ahlat                -> 37 Köy
+   3. Güroymak             -> 43 Köy
+   4. Hizan                -> 86 Köy
+   5. Merkez               -> 92 Köy
+   6. Mutki                -> 65 Köy
+   7. Tatvan               -> 79 Köy
+
+=== 14 - BOLU (9 İlçe) ===
+   1. Dörtdivan            -> 32 Köy
+   2. Gerede               -> 102 Köy
+   3. Göynük               -> 72 Köy
+   4. Kıbrıscık            -> 24 Köy
+   5. Mengen               -> 61 Köy
+   6. Merkez               -> 156 Köy
+   7. Mudurnu              -> 87 Köy
+   8. Seben                -> 31 Köy
+   9. Yeniçağa             -> 19 Köy
+
+=== 15 - BURDUR (11 İlçe) ===
+   1. Ağlasun              -> 15 Köy
+   2. Altınyayla           -> 9 Köy
+   3. Bucak                -> 58 Köy
+   4. Çavdır               -> 18 Köy
+   5. Çeltikçi             -> 8 Köy
+   6. Gölhisar             -> 22 Köy
+   7. Karamanlı            -> 20 Köy
+   8. Kemer                -> 10 Köy
+   9. Merkez               -> 87 Köy
+  10. Tefenni              -> 23 Köy
+  11. Yeşilova             -> 43 Köy
+
+=== 16 - BURSA (17 İlçe) ===
+   1. Büyükorhan           -> 43 Köy
+   2. Gemlik               -> 36 Köy
+   3. Gürsu                -> 17 Köy
+   4. Harmancık            -> 31 Köy
+   5. İnegöl               -> 118 Köy
+   6. İznik                -> 46 Köy
+   7. Karacabey            -> 85 Köy
+   8. Keles                -> 42 Köy
+   9. Kestel               -> 37 Köy
+  10. Mudanya              -> 47 Köy
+  11. Mustafakemalpaşa     -> 131 Köy
+  12. Nilüfer              -> 70 Köy
+  13. Orhaneli             -> 61 Köy
+  14. Orhangazi            -> 31 Köy
+  15. Osmangazi            -> 137 Köy
+  16. Yenişehir            -> 71 Köy
+  17. Yıldırım             -> 69 Köy
+
+=== 17 - ÇANAKKALE (12 İlçe) ===
+   1. Ayvacık              -> 68 Köy
+   2. Bayramiç             -> 79 Köy
+   3. Biga                 -> 120 Köy
+   4. Bozcaada             -> 2 Köy
+   5. Çan                  -> 73 Köy
+   6. Eceabat              -> 14 Köy
+   7. Ezine                -> 55 Köy
+   8. Gelibolu             -> 33 Köy
+   9. Gökçeada             -> 14 Köy
+  10. Lapseki              -> 45 Köy
+  11. Merkez               -> 60 Köy
+  12. Yenice               -> 81 Köy
+
+=== 18 - ÇANKIRI (12 İlçe) ===
+   1. Atkaracalar          -> 15 Köy
+   2. Bayramören           -> 30 Köy
+   3. Çerkeş               -> 61 Köy
+   4. Eldivan              -> 22 Köy
+   5. Ilgaz                -> 84 Köy
+   6. Kızılırmak           -> 29 Köy
+   7. Korgun               -> 16 Köy
+   8. Kurşunlu             -> 38 Köy
+   9. Merkez               -> 64 Köy
+  10. Orta                 -> 30 Köy
+  11. Şabanözü             -> 26 Köy
+  12. Yapraklı             -> 44 Köy
+
+=== 19 - ÇORUM (14 İlçe) ===
+   1. Alaca                -> 108 Köy
+   2. Bayat                -> 45 Köy
+   3. Boğazkale            -> 17 Köy
+   4. Dodurga              -> 18 Köy
+   5. İskilip              -> 78 Köy
+   6. Kargı                -> 66 Köy
+   7. Laçin                -> 17 Köy
+   8. Mecitözü             -> 62 Köy
+   9. Merkez               -> 214 Köy
+  10. Oğuzlar              -> 13 Köy
+  11. Ortaköy              -> 18 Köy
+  12. Osmancık             -> 73 Köy
+  13. Sungurlu             -> 125 Köy
+  14. Uğurludağ            -> 25 Köy
+
+=== 20 - DENIZLI (19 İlçe) ===
+   1. Acıpayam             -> 56 Köy
+   2. Babadağ              -> 12 Köy
+   3. Baklan               -> 14 Köy
+   4. Bekilli              -> 15 Köy
+   5. Beyağaç              -> 15 Köy
+   6. Bozkurt              -> 20 Köy
+   7. Buldan               -> 45 Köy
+   8. Çal                  -> 34 Köy
+   9. Çameli               -> 31 Köy
+  10. Çardak               -> 17 Köy
+  11. Çivril               -> 77 Köy
+  12. Güney                -> 24 Köy
+  13. Honaz                -> 23 Köy
+  14. Kale                 -> 32 Köy
+  15. Merkezefendi         -> 50 Köy
+  16. Pamukkale            -> 61 Köy
+  17. Sarayköy             -> 33 Köy
+  18. Serinhisar           -> 11 Köy
+  19. Tavas                -> 50 Köy
+
+=== 21 - DIYARBAKIR (17 İlçe) ===
+   1. Bağlar               -> 48 Köy
+   2. Bismil               -> 122 Köy
+   3. Çermik               -> 81 Köy
+   4. Çınar                -> 101 Köy
+   5. Çüngüş               -> 40 Köy
+   6. Dicle                -> 48 Köy
+   7. Eğil                 -> 31 Köy
+   8. Ergani               -> 102 Köy
+   9. Hani                 -> 26 Köy
+  10. Hazro                -> 31 Köy
+  11. Kayapınar            -> 34 Köy
+  12. Kocaköy              -> 22 Köy
+  13. Kulp                 -> 58 Köy
+  14. Lice                 -> 70 Köy
+  15. Silvan               -> 93 Köy
+  16. Sur                  -> 100 Köy
+  17. Yenişehir            -> 42 Köy
+
+=== 22 - EDIRNE (9 İlçe) ===
+   1. Enez                 -> 22 Köy
+   2. Havsa                -> 28 Köy
+   3. İpsala               -> 27 Köy
+   4. Keşan                -> 58 Köy
+   5. Lalapaşa             -> 28 Köy
+   6. Meriç                -> 25 Köy
+   7. Merkez               -> 61 Köy
+   8. Süloğlu              -> 15 Köy
+   9. Uzunköprü            -> 70 Köy
+
+=== 23 - ELAZIĞ (11 İlçe) ===
+   1. Ağın                 -> 21 Köy
+   2. Alacakaya            -> 16 Köy
+   3. Arıcak               -> 21 Köy
+   4. Baskil               -> 66 Köy
+   5. Karakoçan            -> 96 Köy
+   6. Keban                -> 34 Köy
+   7. Kovancılar           -> 89 Köy
+   8. Maden                -> 40 Köy
+   9. Merkez               -> 161 Köy
+  10. Palu                 -> 48 Köy
+  11. Sivrice              -> 57 Köy
+
+=== 24 - ERZINCAN (9 İlçe) ===
+   1. Çayırlı              -> 50 Köy
+   2. İliç                 -> 62 Köy
+   3. Kemah                -> 83 Köy
+   4. Kemaliye             -> 72 Köy
+   5. Merkez               -> 134 Köy
+   6. Otlukbeli            -> 13 Köy
+   7. Refahiye             -> 126 Köy
+   8. Tercan               -> 82 Köy
+   9. Üzümlü               -> 40 Köy
+
+=== 25 - ERZURUM (20 İlçe) ===
+   1. Aşkale               -> 76 Köy
+   2. Aziziye              -> 73 Köy
+   3. Çat                  -> 45 Köy
+   4. Hınıs                -> 98 Köy
+   5. Horasan              -> 87 Köy
+   6. İspir                -> 100 Köy
+   7. Karaçoban            -> 27 Köy
+   8. Karayazı             -> 75 Köy
+   9. Köprüköy             -> 42 Köy
+  10. Narman               -> 46 Köy
+  11. Oltu                 -> 72 Köy
+  12. Olur                 -> 43 Köy
+  13. Palandöken           -> 26 Köy
+  14. Pasinler             -> 72 Köy
+  15. Pazaryolu            -> 44 Köy
+  16. Şenkaya              -> 71 Köy
+  17. Tekman               -> 71 Köy
+  18. Tortum               -> 58 Köy
+  19. Uzundere             -> 18 Köy
+  20. Yakutiye             -> 44 Köy
+
+=== 26 - ESKIŞEHIR (14 İlçe) ===
+   1. Alpu                 -> 33 Köy
+   2. Beylikova            -> 26 Köy
+   3. Çifteler             -> 28 Köy
+   4. Günyüzü              -> 22 Köy
+   5. Han                  -> 15 Köy
+   6. İnönü                -> 16 Köy
+   7. Mahmudiye            -> 19 Köy
+   8. Mihalgazi            -> 9 Köy
+   9. Mihalıççık           -> 53 Köy
+  10. Odunpazarı           -> 85 Köy
+  11. Sarıcakaya           -> 14 Köy
+  12. Seyitgazi            -> 51 Köy
+  13. Sivrihisar           -> 78 Köy
+  14. Tepebaşı             -> 92 Köy
+
+=== 27 - GAZIANTEP (9 İlçe) ===
+   1. Araban               -> 49 Köy
+   2. İslahiye             -> 71 Köy
+   3. Karkamış             -> 39 Köy
+   4. Nizip                -> 111 Köy
+   5. Nurdağı              -> 48 Köy
+   6. Oğuzeli              -> 92 Köy
+   7. Şahinbey             -> 183 Köy
+   8. Şehitkamil           -> 149 Köy
+   9. Yavuzeli             -> 44 Köy
+
+=== 28 - GIRESUN (16 İlçe) ===
+   1. Alucra               -> 44 Köy
+   2. Bulancak             -> 79 Köy
+   3. Çamoluk              -> 35 Köy
+   4. Çanakçı              -> 19 Köy
+   5. Dereli               -> 42 Köy
+   6. Doğankent            -> 14 Köy
+   7. Espiye               -> 41 Köy
+   8. Eynesil              -> 17 Köy
+   9. Görele               -> 77 Köy
+  10. Güce                 -> 20 Köy
+  11. Keşap                -> 55 Köy
+  12. Merkez               -> 82 Köy
+  13. Piraziz              -> 31 Köy
+  14. Şebinkarahisar       -> 77 Köy
+  15. Tirebolu             -> 59 Köy
+  16. Yağlıdere            -> 34 Köy
+
+=== 29 - GÜMÜŞHANE (6 İlçe) ===
+   1. Kelkit               -> 91 Köy
+   2. Köse                 -> 19 Köy
+   3. Kürtün               -> 41 Köy
+   4. Merkez               -> 107 Köy
+   5. Şiran                -> 74 Köy
+   6. Torul                -> 49 Köy
+
+=== 30 - HAKKARI (5 İlçe) ===
+   1. Çukurca              -> 12 Köy
+   2. Derecik              -> 13 Köy
+   3. Merkez               -> 52 Köy
+   4. Şemdinli             -> 24 Köy
+   5. Yüksekova            -> 73 Köy
+
+=== 31 - HATAY (15 İlçe) ===
+   1. Altınözü             -> 48 Köy
+   2. Antakya              -> 95 Köy
+   3. Arsuz                -> 38 Köy
+   4. Belen                -> 19 Köy
+   5. Defne                -> 37 Köy
+   6. Dörtyol              -> 15 Köy
+   7. Erzin                -> 20 Köy
+   8. Hassa                -> 39 Köy
+   9. İskenderun           -> 46 Köy
+  10. Kırıkhan             -> 73 Köy
+  11. Kumlu                -> 16 Köy
+  12. Payas                -> 13 Köy
+  13. Reyhanlı             -> 47 Köy
+  14. Samandağ             -> 42 Köy
+  15. Yayladağı            -> 47 Köy
+
+=== 32 - ISPARTA (13 İlçe) ===
+   1. Aksu                 -> 22 Köy
+   2. Atabey               -> 14 Köy
+   3. Eğirdir              -> 54 Köy
+   4. Gelendost            -> 23 Köy
+   5. Gönen                -> 12 Köy
+   6. Keçiborlu            -> 26 Köy
+   7. Merkez               -> 68 Köy
+   8. Senirkent            -> 17 Köy
+   9. Sütçüler             -> 37 Köy
+  10. Şarkikaraağaç        -> 36 Köy
+  11. Uluborlu             -> 15 Köy
+  12. Yalvaç               -> 65 Köy
+  13. Yenişarbademli       -> 5 Köy
+
+=== 33 - MERSIN (13 İlçe) ===
+   1. Akdeniz              -> 69 Köy
+   2. Anamur               -> 56 Köy
+   3. Aydıncık             -> 15 Köy
+   4. Bozyazı              -> 26 Köy
+   5. Çamlıyayla           -> 14 Köy
+   6. Erdemli              -> 71 Köy
+   7. Gülnar               -> 50 Köy
+   8. Mezitli              -> 40 Köy
+   9. Mut                  -> 102 Köy
+  10. Silifke              -> 89 Köy
+  11. Tarsus               -> 180 Köy
+  12. Toroslar             -> 67 Köy
+  13. Yenişehir            -> 32 Köy
+
+=== 34 - İSTANBUL (39 İlçe) ===
+   1. Adalar               -> 5 Köy
+   2. Arnavutköy           -> 38 Köy
+   3. Ataşehir             -> 17 Köy
+   4. Avcılar              -> 10 Köy
+   5. Bağcılar             -> 22 Köy
+   6. Bahçelievler         -> 11 Köy
+   7. Bakırköy             -> 16 Köy
+   8. Başakşehir           -> 11 Köy
+   9. Bayrampaşa           -> 11 Köy
+  10. Beşiktaş             -> 23 Köy
+  11. Beykoz               -> 45 Köy
+  12. Beylikdüzü           -> 11 Köy
+  13. Beyoğlu              -> 45 Köy
+  14. Büyükçekmece         -> 24 Köy
+  15. Çatalca              -> 40 Köy
+  16. Çekmeköy             -> 21 Köy
+  17. Esenler              -> 17 Köy
+  18. Esenyurt             -> 43 Köy
+  19. Eyüpsultan           -> 29 Köy
+  20. Fatih                -> 57 Köy
+  21. Gaziosmanpaşa        -> 16 Köy
+  22. Güngören             -> 11 Köy
+  23. Kadıköy              -> 21 Köy
+  24. Kağıthane            -> 19 Köy
+  25. Kartal               -> 20 Köy
+  26. Küçükçekmece         -> 22 Köy
+  27. Maltepe              -> 18 Köy
+  28. Pendik               -> 36 Köy
+  29. Sancaktepe           -> 19 Köy
+  30. Sarıyer              -> 38 Köy
+  31. Silivri              -> 35 Köy
+  32. Sultanbeyli          -> 15 Köy
+  33. Sultangazi           -> 15 Köy
+  34. Şile                 -> 62 Köy
+  35. Şişli                -> 25 Köy
+  36. Tuzla                -> 23 Köy
+  37. Ümraniye             -> 38 Köy
+  38. Üsküdar              -> 33 Köy
+  39. Zeytinburnu          -> 13 Köy
+
+=== 35 - İZMIR (30 İlçe) ===
+   1. Aliağa               -> 30 Köy
+   2. Balçova              -> 8 Köy
+   3. Bayındır             -> 59 Köy
+   4. Bayraklı             -> 24 Köy
+   5. Bergama              -> 138 Köy
+   6. Beydağ               -> 25 Köy
+   7. Bornova              -> 45 Köy
+   8. Buca                 -> 48 Köy
+   9. Çeşme                -> 25 Köy
+  10. Çiğli                -> 27 Köy
+  11. Dikili               -> 30 Köy
+  12. Foça                 -> 16 Köy
+  13. Gaziemir             -> 17 Köy
+  14. Güzelbahçe           -> 12 Köy
+  15. Karabağlar           -> 58 Köy
+  16. Karaburun            -> 16 Köy
+  17. Karşıyaka            -> 27 Köy
+  18. Kemalpaşa            -> 51 Köy
+  19. Kınık                -> 38 Köy
+  20. Kiraz                -> 56 Köy
+  21. Konak                -> 113 Köy
+  22. Menderes             -> 45 Köy
+  23. Menemen              -> 67 Köy
+  24. Narlıdere            -> 11 Köy
+  25. Ödemiş               -> 99 Köy
+  26. Seferihisar          -> 21 Köy
+  27. Selçuk               -> 14 Köy
+  28. Tire                 -> 89 Köy
+  29. Torbalı              -> 62 Köy
+  30. Urla                 -> 37 Köy
+
+=== 36 - KARS (8 İlçe) ===
+   1. Akyaka               -> 30 Köy
+   2. Arpaçay              -> 52 Köy
+   3. Digor                -> 39 Köy
+   4. Kağızman             -> 71 Köy
+   5. Merkez               -> 96 Köy
+   6. Sarıkamış            -> 64 Köy
+   7. Selim                -> 56 Köy
+   8. Susuz                -> 31 Köy
+
+=== 37 - KASTAMONU (20 İlçe) ===
+   1. Abana                -> 18 Köy
+   2. Ağlı                 -> 22 Köy
+   3. Araç                 -> 125 Köy
+   4. Azdavay              -> 53 Köy
+   5. Bozkurt              -> 39 Köy
+   6. Cide                 -> 91 Köy
+   7. Çatalzeytin          -> 43 Köy
+   8. Daday                -> 66 Köy
+   9. Devrekani            -> 65 Köy
+  10. Doğanyurt            -> 30 Köy
+  11. Hanönü               -> 23 Köy
+  12. İhsangazi            -> 33 Köy
+  13. İnebolu              -> 91 Köy
+  14. Küre                 -> 38 Köy
+  15. Merkez               -> 199 Köy
+  16. Pınarbaşı            -> 33 Köy
+  17. Seydiler             -> 26 Köy
+  18. Şenpazar             -> 30 Köy
+  19. Taşköprü             -> 140 Köy
+  20. Tosya                -> 77 Köy
+
+=== 38 - KAYSERI (16 İlçe) ===
+   1. Akkışla              -> 15 Köy
+   2. Bünyan               -> 46 Köy
+   3. Develi               -> 77 Köy
+   4. Felahiye             -> 17 Köy
+   5. Hacılar              -> 12 Köy
+   6. İncesu               -> 31 Köy
+   7. Kocasinan            -> 93 Köy
+   8. Melikgazi            -> 61 Köy
+   9. Özvatan              -> 13 Köy
+  10. Pınarbaşı            -> 122 Köy
+  11. Sarıoğlan            -> 27 Köy
+  12. Sarız                -> 44 Köy
+  13. Talas                -> 30 Köy
+  14. Tomarza              -> 54 Köy
+  15. Yahyalı              -> 41 Köy
+  16. Yeşilhisar           -> 35 Köy
+
+=== 39 - KIRKLARELI (8 İlçe) ===
+   1. Babaeski             -> 42 Köy
+   2. Demirköy             -> 18 Köy
+   3. Kofçaz               -> 18 Köy
+   4. Lüleburgaz           -> 57 Köy
+   5. Merkez               -> 55 Köy
+   6. Pehlivanköy          -> 11 Köy
+   7. Pınarhisar           -> 19 Köy
+   8. Vize                 -> 32 Köy
+
+=== 40 - KIRŞEHIR (7 İlçe) ===
+   1. Akçakent             -> 23 Köy
+   2. Akpınar              -> 32 Köy
+   3. Boztepe              -> 17 Köy
+   4. Çiçekdağı            -> 53 Köy
+   5. Kaman                -> 61 Köy
+   6. Merkez               -> 69 Köy
+   7. Mucur                -> 51 Köy
+
+=== 41 - KOCAELI (12 İlçe) ===
+   1. Başiskele            -> 38 Köy
+   2. Çayırova             -> 11 Köy
+   3. Darıca               -> 14 Köy
+   4. Derince              -> 17 Köy
+   5. Dilovası             -> 17 Köy
+   6. Gebze                -> 45 Köy
+   7. Gölcük               -> 50 Köy
+   8. İzmit                -> 104 Köy
+   9. Kandıra              -> 96 Köy
+  10. Karamürsel           -> 27 Köy
+  11. Kartepe              -> 33 Köy
+  12. Körfez               -> 36 Köy
+
+=== 42 - KONYA (31 İlçe) ===
+   1. Ahırlı               -> 15 Köy
+   2. Akören               -> 14 Köy
+   3. Akşehir              -> 55 Köy
+   4. Altınekin            -> 20 Köy
+   5. Beyşehir             -> 67 Köy
+   6. Bozkır               -> 52 Köy
+   7. Cihanbeyli           -> 47 Köy
+   8. Çeltik               -> 14 Köy
+   9. Çumra                -> 54 Köy
+  10. Derbent              -> 13 Köy
+  11. Derebucak            -> 12 Köy
+  12. Doğanhisar           -> 24 Köy
+  13. Emirgazi             -> 16 Köy
+  14. Ereğli               -> 87 Köy
+  15. Güneysınır           -> 18 Köy
+  16. Hadim                -> 32 Köy
+  17. Halkapınar           -> 17 Köy
+  18. Hüyük                -> 23 Köy
+  19. Ilgın                -> 56 Köy
+  20. Kadınhanı            -> 53 Köy
+  21. Karapınar            -> 43 Köy
+  22. Karatay              -> 81 Köy
+  23. Kulu                 -> 46 Köy
+  24. Meram                -> 69 Köy
+  25. Sarayönü             -> 26 Köy
+  26. Selçuklu             -> 75 Köy
+  27. Seydişehir           -> 55 Köy
+  28. Taşkent              -> 15 Köy
+  29. Tuzlukçu             -> 15 Köy
+  30. Yalıhüyük            -> 4 Köy
+  31. Yunak                -> 42 Köy
+
+=== 43 - KÜTAHYA (13 İlçe) ===
+   1. Altıntaş             -> 40 Köy
+   2. Aslanapa             -> 36 Köy
+   3. Çavdarhisar          -> 27 Köy
+   4. Domaniç              -> 35 Köy
+   5. Dumlupınar           -> 14 Köy
+   6. Emet                 -> 45 Köy
+   7. Gediz                -> 73 Köy
+   8. Hisarcık             -> 31 Köy
+   9. Merkez               -> 178 Köy
+  10. Pazarlar             -> 15 Köy
+  11. Simav                -> 107 Köy
+  12. Şaphane              -> 19 Köy
+  13. Tavşanlı             -> 111 Köy
+
+=== 44 - MALATYA (13 İlçe) ===
+   1. Akçadağ              -> 77 Köy
+   2. Arapgir              -> 63 Köy
+   3. Arguvan              -> 49 Köy
+   4. Battalgazi           -> 103 Köy
+   5. Darende              -> 68 Köy
+   6. Doğanşehir           -> 39 Köy
+   7. Doğanyol             -> 16 Köy
+   8. Hekimhan             -> 65 Köy
+   9. Kale                 -> 28 Köy
+  10. Kuluncak             -> 28 Köy
+  11. Pütürge              -> 68 Köy
+  12. Yazıhan              -> 33 Köy
+  13. Yeşilyurt            -> 84 Köy
+
+=== 45 - MANISA (17 İlçe) ===
+   1. Ahmetli              -> 23 Köy
+   2. Akhisar              -> 110 Köy
+   3. Alaşehir             -> 87 Köy
+   4. Demirci              -> 101 Köy
+   5. Gölmarmara           -> 21 Köy
+   6. Gördes               -> 64 Köy
+   7. Kırkağaç             -> 47 Köy
+   8. Köprübaşı            -> 46 Köy
+   9. Kula                 -> 60 Köy
+  10. Salihli              -> 104 Köy
+  11. Sarıgöl              -> 35 Köy
+  12. Saruhanlı            -> 50 Köy
+  13. Selendi              -> 57 Köy
+  14. Soma                 -> 71 Köy
+  15. Şehzadeler           -> 67 Köy
+  16. Turgutlu             -> 62 Köy
+  17. Yunusemre            -> 88 Köy
+
+=== 46 - KAHRAMANMARAŞ (11 İlçe) ===
+   1. Afşin                -> 66 Köy
+   2. Andırın              -> 57 Köy
+   3. Çağlayancerit        -> 19 Köy
+   4. Dulkadiroğlu         -> 103 Köy
+   5. Ekinözü              -> 21 Köy
+   6. Elbistan             -> 93 Köy
+   7. Göksun               -> 73 Köy
+   8. Nurhak               -> 16 Köy
+   9. Onikişubat           -> 138 Köy
+  10. Pazarcık             -> 84 Köy
+  11. Türkoğlu             -> 45 Köy
+
+=== 47 - MARDIN (10 İlçe) ===
+   1. Artuklu              -> 91 Köy
+   2. Dargeçit             -> 41 Köy
+   3. Derik                -> 80 Köy
+   4. Kızıltepe            -> 184 Köy
+   5. Mazıdağı             -> 53 Köy
+   6. Midyat               -> 72 Köy
+   7. Nusaybin             -> 83 Köy
+   8. Ömerli               -> 46 Köy
+   9. Savur                -> 41 Köy
+  10. Yeşilli              -> 14 Köy
+
+=== 48 - MUĞLA (13 İlçe) ===
+   1. Bodrum               -> 54 Köy
+   2. Dalaman              -> 25 Köy
+   3. Datça                -> 12 Köy
+   4. Fethiye              -> 41 Köy
+   5. Kavaklıdere          -> 15 Köy
+   6. Köyceğiz             -> 25 Köy
+   7. Marmaris             -> 25 Köy
+   8. Menteşe              -> 65 Köy
+   9. Milas                -> 132 Köy
+  10. Ortaca               -> 27 Köy
+  11. Seydikemer           -> 65 Köy
+  12. Ula                  -> 30 Köy
+  13. Yatağan              -> 50 Köy
+
+=== 49 - MUŞ (6 İlçe) ===
+   1. Bulanık              -> 71 Köy
+   2. Hasköy               -> 27 Köy
+   3. Korkut               -> 34 Köy
+   4. Malazgirt            -> 87 Köy
+   5. Merkez               -> 122 Köy
+   6. Varto                -> 100 Köy
+
+=== 50 - NEVŞEHIR (8 İlçe) ===
+   1. Acıgöl               -> 17 Köy
+   2. Avanos               -> 26 Köy
+   3. Derinkuyu            -> 16 Köy
+   4. Gülşehir             -> 41 Köy
+   5. Hacıbektaş           -> 33 Köy
+   6. Kozaklı              -> 37 Köy
+   7. Merkez               -> 39 Köy
+   8. Ürgüp                -> 34 Köy
+
+=== 51 - NIĞDE (6 İlçe) ===
+   1. Altunhisar           -> 13 Köy
+   2. Bor                  -> 47 Köy
+   3. Çamardı              -> 25 Köy
+   4. Çiftlik              -> 16 Köy
+   5. Merkez               -> 75 Köy
+   6. Ulukışla             -> 51 Köy
+
+=== 52 - ORDU (19 İlçe) ===
+   1. Akkuş                -> 44 Köy
+   2. Altınordu            -> 91 Köy
+   3. Aybastı              -> 21 Köy
+   4. Çamaş                -> 23 Köy
+   5. Çatalpınar           -> 23 Köy
+   6. Çaybaşı              -> 26 Köy
+   7. Fatsa                -> 90 Köy
+   8. Gölköy               -> 30 Köy
+   9. Gülyalı              -> 13 Köy
+  10. Gürgentepe           -> 23 Köy
+  11. İkizce               -> 32 Köy
+  12. Kabadüz              -> 19 Köy
+  13. Kabataş              -> 18 Köy
+  14. Korgan               -> 29 Köy
+  15. Kumru                -> 40 Köy
+  16. Mesudiye             -> 70 Köy
+  17. Perşembe             -> 54 Köy
+  18. Ulubey               -> 41 Köy
+  19. Ünye                 -> 85 Köy
+
+=== 53 - RIZE (12 İlçe) ===
+   1. Ardeşen              -> 65 Köy
+   2. Çamlıhemşin          -> 34 Köy
+   3. Çayeli               -> 73 Köy
+   4. Derepazarı           -> 18 Köy
+   5. Fındıklı             -> 31 Köy
+   6. Güneysu              -> 31 Köy
+   7. Hemşin               -> 12 Köy
+   8. İkizdere             -> 36 Köy
+   9. İyidere              -> 16 Köy
+  10. Kalkandere           -> 34 Köy
+  11. Merkez               -> 112 Köy
+  12. Pazar                -> 60 Köy
+
+=== 54 - SAKARYA (16 İlçe) ===
+   1. Adapazarı            -> 84 Köy
+   2. Akyazı               -> 73 Köy
+   3. Arifiye              -> 25 Köy
+   4. Erenler              -> 33 Köy
+   5. Ferizli              -> 25 Köy
+   6. Geyve                -> 73 Köy
+   7. Hendek               -> 92 Köy
+   8. Karapürçek           -> 14 Köy
+   9. Karasu               -> 41 Köy
+  10. Kaynarca             -> 45 Köy
+  11. Kocaali              -> 36 Köy
+  12. Pamukova             -> 33 Köy
+  13. Sapanca              -> 29 Köy
+  14. Serdivan             -> 24 Köy
+  15. Söğütlü              -> 24 Köy
+  16. Taraklı              -> 22 Köy
+
+=== 55 - SAMSUN (17 İlçe) ===
+   1. 19 Mayıs             -> 38 Köy
+   2. Alaçam               -> 65 Köy
+   3. Asarcık              -> 32 Köy
+   4. Atakum               -> 56 Köy
+   5. Ayvacık              -> 43 Köy
+   6. Bafra                -> 139 Köy
+   7. Canik                -> 53 Köy
+   8. Çarşamba             -> 143 Köy
+   9. Havza                -> 98 Köy
+  10. İlkadım              -> 62 Köy
+  11. Kavak                -> 92 Köy
+  12. Ladik                -> 67 Köy
+  13. Salıpazarı           -> 44 Köy
+  14. Tekkeköy             -> 66 Köy
+  15. Terme                -> 82 Köy
+  16. Vezirköprü           -> 161 Köy
+  17. Yakakent             -> 17 Köy
+
+=== 56 - SIIRT (7 İlçe) ===
+   1. Baykan               -> 37 Köy
+   2. Eruh                 -> 59 Köy
+   3. Kurtalan             -> 69 Köy
+   4. Merkez               -> 56 Köy
+   5. Pervari              -> 42 Köy
+   6. Şirvan               -> 65 Köy
+   7. Tillo                -> 9 Köy
+
+=== 57 - SINOP (9 İlçe) ===
+   1. Ayancık              -> 76 Köy
+   2. Boyabat              -> 115 Köy
+   3. Dikmen               -> 31 Köy
+   4. Durağan              -> 74 Köy
+   5. Erfelek              -> 49 Köy
+   6. Gerze                -> 49 Köy
+   7. Merkez               -> 52 Köy
+   8. Saraydüzü            -> 32 Köy
+   9. Türkeli              -> 36 Köy
+
+=== 58 - SIVAS (17 İlçe) ===
+   1. Akıncılar            -> 37 Köy
+   2. Altınyayla           -> 17 Köy
+   3. Divriği              -> 133 Köy
+   4. Doğanşar             -> 32 Köy
+   5. Gemerek              -> 47 Köy
+   6. Gölova               -> 33 Köy
+   7. Gürün                -> 79 Köy
+   8. Hafik                -> 79 Köy
+   9. İmranlı              -> 109 Köy
+  10. Kangal               -> 120 Köy
+  11. Koyulhisar           -> 53 Köy
+  12. Merkez               -> 221 Köy
+  13. Suşehri              -> 84 Köy
+  14. Şarkışla             -> 110 Köy
+  15. Ulaş                 -> 42 Köy
+  16. Yıldızeli            -> 128 Köy
+  17. Zara                 -> 150 Köy
+
+=== 59 - TEKIRDAĞ (11 İlçe) ===
+   1. Çerkezköy            -> 17 Köy
+   2. Çorlu                -> 27 Köy
+   3. Ergene               -> 21 Köy
+   4. Hayrabolu            -> 53 Köy
+   5. Kapaklı              -> 17 Köy
+   6. Malkara              -> 77 Köy
+   7. Marmaraereğlisi      -> 10 Köy
+   8. Muratlı              -> 21 Köy
+   9. Saray                -> 29 Köy
+  10. Süleymanpaşa         -> 78 Köy
+  11. Şarköy               -> 31 Köy
+
+=== 60 - TOKAT (12 İlçe) ===
+   1. Almus                -> 43 Köy
+   2. Artova               -> 33 Köy
+   3. Başçiftlik           -> 13 Köy
+   4. Erbaa                -> 103 Köy
+   5. Merkez               -> 154 Köy
+   6. Niksar               -> 113 Köy
+   7. Pazar                -> 23 Köy
+   8. Reşadiye             -> 87 Köy
+   9. Sulusaray            -> 18 Köy
+  10. Turhal               -> 85 Köy
+  11. Yeşilyurt            -> 22 Köy
+  12. Zile                 -> 134 Köy
+
+=== 61 - TRABZON (18 İlçe) ===
+   1. Akçaabat             -> 74 Köy
+   2. Araklı               -> 50 Köy
+   3. Arsin                -> 36 Köy
+   4. Beşikdüzü            -> 34 Köy
+   5. Çarşıbaşı            -> 23 Köy
+   6. Çaykara              -> 32 Köy
+   7. Dernekpazarı         -> 14 Köy
+   8. Düzköy               -> 22 Köy
+   9. Hayrat               -> 34 Köy
+  10. Köprübaşı            -> 10 Köy
+  11. Maçka                -> 66 Köy
+  12. Of                   -> 68 Köy
+  13. Ortahisar            -> 87 Köy
+  14. Sürmene              -> 37 Köy
+  15. Şalpazarı            -> 30 Köy
+  16. Tonya                -> 22 Köy
+  17. Vakfıkebir           -> 46 Köy
+  18. Yomra                -> 25 Köy
+
+=== 62 - TUNCELI (8 İlçe) ===
+   1. Çemişgezek           -> 41 Köy
+   2. Hozat                -> 35 Köy
+   3. Mazgirt              -> 71 Köy
+   4. Merkez               -> 66 Köy
+   5. Nazımiye             -> 26 Köy
+   6. Ovacık               -> 66 Köy
+   7. Pertek               -> 50 Köy
+   8. Pülümür              -> 54 Köy
+
+=== 63 - ŞANLIURFA (13 İlçe) ===
+   1. Akçakale             -> 120 Köy
+   2. Birecik              -> 83 Köy
+   3. Bozova               -> 88 Köy
+   4. Ceylanpınar          -> 52 Köy
+   5. Eyyübiye             -> 163 Köy
+   6. Halfeti              -> 49 Köy
+   7. Haliliye             -> 170 Köy
+   8. Harran               -> 126 Köy
+   9. Hilvan               -> 70 Köy
+  10. Karaköprü            -> 100 Köy
+  11. Siverek              -> 180 Köy
+  12. Suruç                -> 95 Köy
+  13. Viranşehir           -> 148 Köy
+
+=== 64 - UŞAK (6 İlçe) ===
+   1. Banaz                -> 53 Köy
+   2. Eşme                 -> 66 Köy
+   3. Karahallı            -> 20 Köy
+   4. Merkez               -> 121 Köy
+   5. Sivaslı              -> 26 Köy
+   6. Ulubey               -> 33 Köy
+
+=== 65 - VAN (13 İlçe) ===
+   1. Bahçesaray           -> 20 Köy
+   2. Başkale              -> 69 Köy
+   3. Çaldıran             -> 70 Köy
+   4. Çatak                -> 33 Köy
+   5. Edremit              -> 30 Köy
+   6. Erciş                -> 101 Köy
+   7. Gevaş                -> 41 Köy
+   8. Gürpınar             -> 79 Köy
+   9. İpekyolu             -> 50 Köy
+  10. Muradiye             -> 48 Köy
+  11. Özalp                -> 58 Köy
+  12. Saray                -> 27 Köy
+  13. Tuşba                -> 68 Köy
+
+=== 66 - YOZGAT (14 İlçe) ===
+   1. Akdağmadeni          -> 92 Köy
+   2. Aydıncık             -> 27 Köy
+   3. Boğazlıyan           -> 38 Köy
+   4. Çandır               -> 14 Köy
+   5. Çayıralan            -> 31 Köy
+   6. Çekerek              -> 48 Köy
+   7. Kadışehri            -> 30 Köy
+   8. Merkez               -> 123 Köy
+   9. Saraykent            -> 24 Köy
+  10. Sarıkaya             -> 73 Köy
+  11. Sorgun               -> 96 Köy
+  12. Şefaatli             -> 52 Köy
+  13. Yenifakılı           -> 12 Köy
+  14. Yerköy               -> 74 Köy
+
+=== 67 - ZONGULDAK (8 İlçe) ===
+   1. Alaplı               -> 58 Köy
+   2. Çaycuma              -> 98 Köy
+   3. Devrek               -> 89 Köy
+   4. Ereğli               -> 132 Köy
+   5. Gökçebey             -> 27 Köy
+   6. Kilimli              -> 16 Köy
+   7. Kozlu                -> 32 Köy
+   8. Merkez               -> 45 Köy
+
+=== 68 - AKSARAY (8 İlçe) ===
+   1. Ağaçören             -> 33 Köy
+   2. Eskil                -> 25 Köy
+   3. Gülağaç              -> 18 Köy
+   4. Güzelyurt            -> 14 Köy
+   5. Merkez               -> 140 Köy
+   6. Ortaköy              -> 42 Köy
+   7. Sarıyahşi            -> 14 Köy
+   8. Sultanhanı           -> 8 Köy
+
+=== 69 - BAYBURT (3 İlçe) ===
+   1. Aydıntepe            -> 28 Köy
+   2. Demirözü             -> 31 Köy
+   3. Merkez               -> 135 Köy
+
+=== 70 - KARAMAN (6 İlçe) ===
+   1. Ayrancı              -> 26 Köy
+   2. Başyayla             -> 9 Köy
+   3. Ermenek              -> 44 Köy
+   4. Kazımkarabekir       -> 14 Köy
+   5. Merkez               -> 152 Köy
+   6. Sarıveliler          -> 19 Köy
+
+=== 71 - KIRIKKALE (9 İlçe) ===
+   1. Bahşılı              -> 10 Köy
+   2. Balışeyh             -> 32 Köy
+   3. Çelebi               -> 17 Köy
+   4. Delice               -> 49 Köy
+   5. Karakeçili           -> 10 Köy
+   6. Keskin               -> 61 Köy
+   7. Merkez               -> 38 Köy
+   8. Sulakyurt            -> 33 Köy
+   9. Yahşihan             -> 17 Köy
+
+=== 72 - BATMAN (6 İlçe) ===
+   1. Beşiri               -> 60 Köy
+   2. Gercüş               -> 63 Köy
+   3. Hasankeyf            -> 27 Köy
+   4. Kozluk               -> 94 Köy
+   5. Merkez               -> 79 Köy
+   6. Sason                -> 83 Köy
+
+=== 73 - ŞIRNAK (7 İlçe) ===
+   1. Beytüşşebap          -> 30 Köy
+   2. Cizre                -> 42 Köy
+   3. Güçlükonak           -> 23 Köy
+   4. İdil                 -> 70 Köy
+   5. Merkez               -> 35 Köy
+   6. Silopi               -> 39 Köy
+   7. Uludere              -> 23 Köy
+
+=== 74 - BARTIN (4 İlçe) ===
+   1. Amasra               -> 35 Köy
+   2. Kurucaşile           -> 31 Köy
+   3. Merkez               -> 160 Köy
+   4. Ulus                 -> 75 Köy
+
+=== 75 - ARDAHAN (6 İlçe) ===
+   1. Çıldır               -> 43 Köy
+   2. Damal                -> 19 Köy
+   3. Göle                 -> 54 Köy
+   4. Hanak                -> 32 Köy
+   5. Merkez               -> 69 Köy
+   6. Posof                -> 56 Köy
+
+=== 76 - IĞDIR (4 İlçe) ===
+   1. Aralık               -> 27 Köy
+   2. Karakoyunlu          -> 21 Köy
+   3. Merkez               -> 58 Köy
+   4. Tuzluca              -> 86 Köy
+
+=== 77 - YALOVA (6 İlçe) ===
+   1. Altınova             -> 18 Köy
+   2. Armutlu              -> 8 Köy
+   3. Çınarcık             -> 12 Köy
+   4. Çiftlikköy           -> 16 Köy
+   5. Merkez               -> 26 Köy
+   6. Termal               -> 4 Köy
+
+=== 78 - KARABÜK (6 İlçe) ===
+   1. Eflani               -> 60 Köy
+   2. Eskipazar            -> 57 Köy
+   3. Merkez               -> 65 Köy
+   4. Ovacık               -> 43 Köy
+   5. Safranbolu           -> 81 Köy
+   6. Yenice               -> 45 Köy
+
+=== 79 - KILIS (4 İlçe) ===
+   1. Elbeyli              -> 27 Köy
+   2. Merkez               -> 129 Köy
+   3. Musabeyli            -> 49 Köy
+   4. Polateli             -> 22 Köy
+
+=== 80 - OSMANIYE (7 İlçe) ===
+   1. Bahçe                -> 26 Köy
+   2. Düziçi               -> 49 Köy
+   3. Hasanbeyli           -> 10 Köy
+   4. Kadirli              -> 80 Köy
+   5. Merkez               -> 73 Köy
+   6. Sumbas               -> 16 Köy
+   7. Toprakkale           -> 13 Köy
+
+=== 81 - DÜZCE (8 İlçe) ===
+   1. Akçakoca             -> 51 Köy
+   2. Cumayeri             -> 26 Köy
+   3. Çilimli              -> 27 Köy
+   4. Gölyaka              -> 30 Köy
+   5. Gümüşova             -> 24 Köy
+   6. Kaynaşlı             -> 27 Köy
+   7. Merkez               -> 153 Köy
+   8. Yığılca              -> 42 Köy

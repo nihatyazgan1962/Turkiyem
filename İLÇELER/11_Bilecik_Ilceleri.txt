@@ -1,0 +1,13 @@
+=================================================================
+11 - BILECIK İLİ TÜM İLÇELERİ (8 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Bozüyük                (55 Köy)
+   2. Gölpazarı              (53 Köy)
+   3. İnhisar                (13 Köy)
+   4. Merkez                 (62 Köy)
+   5. Osmaneli               (31 Köy)
+   6. Pazaryeri              (31 Köy)
+   7. Söğüt                  (28 Köy)
+   8. Yenipazar              (27 Köy)

@@ -1,0 +1,24 @@
+=================================================================
+07 - ANTALYA İLİ TÜM İLÇELERİ (19 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Akseki                 (51 Köy)
+   2. Aksu                   (35 Köy)
+   3. Alanya                 (102 Köy)
+   4. Demre                  (17 Köy)
+   5. Döşemealtı             (35 Köy)
+   6. Elmalı                 (60 Köy)
+   7. Finike                 (26 Köy)
+   8. Gazipaşa               (53 Köy)
+   9. Gündoğmuş              (29 Köy)
+  10. İbradı                 (9 Köy)
+  11. Kaş                    (54 Köy)
+  12. Kemer                  (12 Köy)
+  13. Kepez                  (68 Köy)
+  14. Konyaaltı              (40 Köy)
+  15. Korkuteli              (58 Köy)
+  16. Kumluca                (41 Köy)
+  17. Manavgat               (106 Köy)
+  18. Muratpaşa              (55 Köy)
+  19. Serik                  (66 Köy)

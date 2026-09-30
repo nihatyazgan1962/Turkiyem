@@ -1,0 +1,18 @@
+=================================================================
+32 - ISPARTA İLİ TÜM İLÇELERİ (13 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Aksu                   (22 Köy)
+   2. Atabey                 (14 Köy)
+   3. Eğirdir                (54 Köy)
+   4. Gelendost              (23 Köy)
+   5. Gönen                  (12 Köy)
+   6. Keçiborlu              (26 Köy)
+   7. Merkez                 (68 Köy)
+   8. Senirkent              (17 Köy)
+   9. Sütçüler               (37 Köy)
+  10. Şarkikaraağaç          (36 Köy)
+  11. Uluborlu               (15 Köy)
+  12. Yalvaç                 (65 Köy)
+  13. Yenişarbademli         (5 Köy)

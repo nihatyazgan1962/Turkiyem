@@ -1,0 +1,19 @@
+=================================================================
+19 - ÇORUM İLİ TÜM İLÇELERİ (14 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Alaca                  (108 Köy)
+   2. Bayat                  (45 Köy)
+   3. Boğazkale              (17 Köy)
+   4. Dodurga                (18 Köy)
+   5. İskilip                (78 Köy)
+   6. Kargı                  (66 Köy)
+   7. Laçin                  (17 Köy)
+   8. Mecitözü               (62 Köy)
+   9. Merkez                 (214 Köy)
+  10. Oğuzlar                (13 Köy)
+  11. Ortaköy                (18 Köy)
+  12. Osmancık               (73 Köy)
+  13. Sungurlu               (125 Köy)
+  14. Uğurludağ              (25 Köy)

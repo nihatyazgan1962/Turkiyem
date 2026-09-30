@@ -1,0 +1,13 @@
+=========================================================
+04 - AĞRI İLİ İLÇELERİ VE KÖYLERİ
+Geliştirici: Nihat Yazgan
+=========================================================
+
+1. Diyadin -> 16 Köy
+2. Doğubayazıt -> 17 Köy
+3. Eleşkirt -> 30 Köy
+4. Hamur -> 27 Köy
+5. Merkez -> 24 Köy
+6. Patnos -> 21 Köy
+7. Taşlıçay -> 18 Köy
+8. Tutak -> 35 Köy

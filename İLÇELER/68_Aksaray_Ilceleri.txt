@@ -1,0 +1,13 @@
+=================================================================
+68 - AKSARAY İLİ TÜM İLÇELERİ (8 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Ağaçören               (33 Köy)
+   2. Eskil                  (25 Köy)
+   3. Gülağaç                (18 Köy)
+   4. Güzelyurt              (14 Köy)
+   5. Merkez                 (140 Köy)
+   6. Ortaköy                (42 Köy)
+   7. Sarıyahşi              (14 Köy)
+   8. Sultanhanı             (8 Köy)

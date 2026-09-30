@@ -1,0 +1,23 @@
+=========================================================
+TÜRKİYE CUMHURİYETİ - 02 ADIYAMAN İLİ KÖY DAĞILIMI
+Geliştirici: Nihat Yazgan
+=========================================================
+
+Plaka Kodu    : 02
+İl Adı        : Adıyaman
+Coğrafi Bölge : Güneydoğu Anadolu
+Nüfus         : 635.169
+Telefon Kodu  : +90 (416)
+İlçe Sayısı   : 9
+Toplam Köy    : 242
+
+--- İLÇELERİ VE KÖY SAYILARI ---
+1. Besni (30 Köy)
+2. Çelikhan (27 Köy)
+3. Gerger (24 Köy)
+4. Gölbaşı (21 Köy)
+5. Kâhta (18 Köy)
+6. Merkez (35 Köy)
+7. Samsat (32 Köy)
+8. Sincik (29 Köy)
+9. Tut (26 Köy)

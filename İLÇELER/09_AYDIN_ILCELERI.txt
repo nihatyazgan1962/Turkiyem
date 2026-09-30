@@ -1,0 +1,22 @@
+=================================================================
+09 - AYDIN İLİ TÜM İLÇELERİ (17 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Bozdoğan               (55 Köy)
+   2. Buharkent              (14 Köy)
+   3. Çine                   (72 Köy)
+   4. Didim                  (16 Köy)
+   5. Efeler                 (84 Köy)
+   6. Germencik              (36 Köy)
+   7. İncirliova             (28 Köy)
+   8. Karacasu               (38 Köy)
+   9. Karpuzlu               (23 Köy)
+  10. Koçarlı                (52 Köy)
+  11. Köşk                   (28 Köy)
+  12. Kuşadası               (23 Köy)
+  13. Kuyucak                (35 Köy)
+  14. Nazilli                (83 Köy)
+  15. Söke                   (50 Köy)
+  16. Sultanhisar            (18 Köy)
+  17. Yenipazar              (18 Köy)

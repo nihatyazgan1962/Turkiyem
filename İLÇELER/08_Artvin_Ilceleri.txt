@@ -1,0 +1,14 @@
+=================================================================
+08 - ARTVIN İLİ TÜM İLÇELERİ (9 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Ardanuç                (50 Köy)
+   2. Arhavi                 (37 Köy)
+   3. Borçka                 (43 Köy)
+   4. Hopa                   (23 Köy)
+   5. Kemalpaşa              (15 Köy)
+   6. Merkez                 (49 Köy)
+   7. Murgul                 (11 Köy)
+   8. Şavşat                 (70 Köy)
+   9. Yusufeli               (113 Köy)

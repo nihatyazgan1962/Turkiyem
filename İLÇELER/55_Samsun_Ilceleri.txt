@@ -1,0 +1,22 @@
+=================================================================
+55 - SAMSUN İLİ TÜM İLÇELERİ (17 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. 19 Mayıs               (38 Köy)
+   2. Alaçam                 (65 Köy)
+   3. Asarcık                (32 Köy)
+   4. Atakum                 (56 Köy)
+   5. Ayvacık                (43 Köy)
+   6. Bafra                  (139 Köy)
+   7. Canik                  (53 Köy)
+   8. Çarşamba               (143 Köy)
+   9. Havza                  (98 Köy)
+  10. İlkadım                (62 Köy)
+  11. Kavak                  (92 Köy)
+  12. Ladik                  (67 Köy)
+  13. Salıpazarı             (44 Köy)
+  14. Tekkeköy               (66 Köy)
+  15. Terme                  (82 Köy)
+  16. Vezirköprü             (161 Köy)
+  17. Yakakent               (17 Köy)

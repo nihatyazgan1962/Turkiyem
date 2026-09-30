@@ -1,0 +1,501 @@
+=================================================================
+18 - ÇANKIRI İLİ TÜM RESMİ KÖYLERİ (459 Köy)
+(Mahalleler tamamen temizlenmiş, sadece Köyler listelenmiştir)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+
+[ ATKARACALAR İLÇESİ KÖYLERİ (15 Köy) ]
+-----------------------------------------------------------------
+    1. Budakpınar Köyü
+    2. Çardaklı Beldesi Köyü
+    3. Demirli Köyü
+    4. Eyüpözü Köyü
+    5. Gazibey Köyü
+    6. Hoca Köyü
+    7. Hüyükköy Köyü
+    8. Ilıpınar Köyü
+    9. İlker Köyü
+   10. Kıran Köyü
+   11. Kızılibrik Köyü
+   12. Kükürt Köyü
+   13. Mollaosman Köyü
+   14. Susuz Köyü
+   15. Yakalı Köyü
+
+[ BAYRAMÖREN İLÇESİ KÖYLERİ (30 Köy) ]
+-----------------------------------------------------------------
+    1. Akgüney Köyü
+    2. Akseki Köyü
+    3. Belenli Köyü
+    4. Boğazkaya Köyü
+    5. Çakırbağ Köyü
+    6. Çayırcık Köyü
+    7. Dalkoz Köyü
+    8. Dereköy Köyü
+    9. Dolaşlar Köyü
+   10. Erenler Köyü
+   11. Feriz Köyü
+   12. Göynükören Köyü
+   13. Harmancık Köyü
+   14. İncekaya Köyü
+   15. Karakuzu Köyü
+   16. Karataş Köyü
+   17. Kavakköy Köyü
+   18. Koçlu Köyü
+   19. Köprülübey Köyü
+   20. Merkez Köyü
+   21. Oluklu Köyü
+   22. Oymaağaç Köyü
+   23. Sarıkaya Köyü
+   24. Topçu Köyü
+   25. Üçgazi Köyü
+   26. Yaylatepesi Köyü
+   27. Yazıören Köyü
+   28. Yurtpınar Köyü
+   29. Yusufoğlu Köyü
+   30. Zübeyde Hanım Köyü
+
+[ ÇERKEŞ İLÇESİ KÖYLERİ (61 Köy) ]
+-----------------------------------------------------------------
+    1. Afşar Köyü
+    2. Ağaca Köyü
+    3. Akbaş Köyü
+    4. Akhasan Köyü
+    5. Aliözü Köyü
+    6. Aydınlar Köyü
+    7. Bayındır Köyü
+    8. Bedil Köyü
+    9. Belkavak Köyü
+   10. Beymelik Köyü
+   11. Bozoğlu Köyü
+   12. Cumhuriyet Köyü
+   13. Çakmak Köyü
+   14. Çalcıören Köyü
+   15. Çaylı Köyü
+   16. Çerkeş Osb Köyü
+   17. Çördük Köyü
+   18. Dağçukurören Köyü
+   19. Dikenli Köyü
+   20. Dodurga Köyü
+   21. Fındıcak Köyü
+   22. Gelik Ovacık Köyü
+   23. Gökçeler Köyü
+   24. Göynükçukuru Köyü
+   25. Hacılar Köyü
+   26. Halkaoğlu Köyü
+   27. İdris Köyü
+   28. İstasyon Köyü
+   29. Kabak Köyü
+   30. Kadıköy Köyü
+   31. Kadıözü Köyü
+   32. Karacahöyük Köyü
+   33. Karalar Köyü
+   34. Karamuklu Köyü
+   35. Karamustafa Köyü
+   36. Karaşar Köyü
+   37. Karga Köyü
+   38. Kısaç Köyü
+   39. Kiremitçi Köyü
+   40. Kurtlar Köyü
+   41. Kuzdere Köyü
+   42. Kuzören Köyü
+   43. Meydan Köyü
+   44. Okçular Köyü
+   45. Örenköy Köyü
+   46. Örenli Köyü
+   47. Saçak Beldesi Köyü
+   48. Saraycık Köyü
+   49. Şeyhdoğan Köyü
+   50. Taşanlar Köyü
+   51. Türbaşı Köyü
+   52. Uluköy Köyü
+   53. Ulusu Köyü
+   54. Yakuplar Köyü
+   55. Yeni Kent Köyü
+   56. Yeni Köyü
+   57. Yeniköy Köyü
+   58. Yeşilöz Köyü
+   59. Yıprak Köyü
+   60. Yoncalı Köyü
+   61. Yumaklı Köyü
+
+[ ELDIVAN İLÇESİ KÖYLERİ (22 Köy) ]
+-----------------------------------------------------------------
+    1. Akbulut Köyü
+    2. Akçalı Köyü
+    3. Alva Köyü
+    4. Bahçelievler Köyü
+    5. Beydere Köyü
+    6. Büyükhacıbey Köyü
+    7. Cami Köyü
+    8. Çay Köyü
+    9. Çiftlikköy Köyü
+   10. Çukuröz Köyü
+   11. Dere Köyü
+   12. Elmacı Köyü
+   13. Gölez Köyü
+   14. Gölezkayı Köyü
+   15. Hisarcık Köyü
+   16. Hisarcıkkayı Köyü
+   17. Küçükhacıbey Köyü
+   18. Sarayköy Köyü
+   19. Sarıtarla Köyü
+   20. Seydiköy Köyü
+   21. Topraklık Köyü
+   22. Yukarıyanlar Köyü
+
+[ ILGAZ İLÇESİ KÖYLERİ (84 Köy) ]
+-----------------------------------------------------------------
+    1. Akcaören Köyü
+    2. Aktaş Köyü
+    3. Alıç Köyü
+    4. Alibey Köyü
+    5. Alpagut Köyü
+    6. Arpayeri Köyü
+    7. Aşağıbozan Köyü
+    8. Aşağıdere Köyü
+    9. Aşağımeydan Köyü
+   10. Aşıklar Köyü
+   11. Balcı Köyü
+   12. Başdibek Köyü
+   13. Belören Köyü
+   14. Belören Yenice Köyü
+   15. Belsöğüt Köyü
+   16. Beyköy Köyü
+   17. Bozatlı Köyü
+   18. Bükcük Köyü
+   19. Candere Köyü
+   20. Cömert Köyü
+   21. Çaltıpınar Köyü
+   22. Çatak Köyü
+   23. Çeltikbaşı Köyü
+   24. Çörekçiler Köyü
+   25. Danişment Köyü
+   26. Eksik Köyü
+   27. Ericek Köyü
+   28. Eskice Köyü
+   29. Fatih Köyü
+   30. Gazi Dede Köyü
+   31. Gaziler Köyü
+   32. Gökceyazı Köyü
+   33. Güneyköy Köyü
+   34. Hacıhasan Köyü
+   35. Ilısılık Köyü
+   36. İkikavak Köyü
+   37. İnköy Köyü
+   38. Kaleköy Köyü
+   39. Karataş Köyü
+   40. Kavaklı Köyü
+   41. Kayı Köyü
+   42. Kazancı Köyü
+   43. Keseköy Köyü
+   44. Kırışlar Köyü
+   45. Kıyısın Köyü
+   46. Kızılıbrık Köyü
+   47. Kurmalar Köyü
+   48. Kuşçayırı Köyü
+   49. Kuyupınar Köyü
+   50. Mesutören Köyü
+   51. Musaköy Köyü
+   52. Mülayım Köyü
+   53. Mülayim Yenice Köyü
+   54. Okcular Köyü
+   55. Onaç Köyü
+   56. Ödemiş Köyü
+   57. Ömerli Köyü
+   58. Sağırlar Köyü
+   59. Saraycık Köyü
+   60. Sarmaşık Köyü
+   61. Satılar Köyü
+   62. Sazak Köyü
+   63. Seki Köyü
+   64. Serçeler Köyü
+   65. Söğütcük Köyü
+   66. Süleymanhacılar Köyü
+   67. Şentepe Köyü
+   68. Şeyhyunus Köyü
+   69. Ulupınar Köyü
+   70. Yalaycık Köyü
+   71. Yavuz Köyü
+   72. Yaylaören Köyü
+   73. Yazıköy Köyü
+   74. Yeni Köyü
+   75. Yenidemirciler Köyü
+   76. Yerkuyu Köyü
+   77. Yeşildumlupınar Köyü
+   78. Yukarı Köyü
+   79. Yukarıbozan Köyü
+   80. Yukarıdere Köyü
+   81. Yukarımeydan Köyü
+   82. Yuvademirciler Köyü
+   83. Yuvasaray Köyü
+   84. Ziraat Köyü
+
+[ KIZILIRMAK İLÇESİ KÖYLERİ (29 Köy) ]
+-----------------------------------------------------------------
+    1. Aşağıalegöz Köyü
+    2. Aşağıovacık Köyü
+    3. Bayanpınar Köyü
+    4. Bostanlı Köyü
+    5. Boyacıoğlu Köyü
+    6. Büyükbahçeli Köyü
+    7. Cacıklar Köyü
+    8. Güneykışla Köyü
+    9. Hacılar Köyü
+   10. Hallaçlı Köyü
+   11. Hüseyinli Köyü
+   12. Kahyalı Köyü
+   13. Kapaklı Köyü
+   14. Karadibek Köyü
+   15. Karallı Köyü
+   16. Karamürsel Köyü
+   17. Karaömer Köyü
+   18. Kavlaklı Köyü
+   19. Kemallı Köyü
+   20. Korçullu Köyü
+   21. Kuzeykışla Köyü
+   22. Osmanlı Köyü
+   23. Sakarca Köyü
+   24. Saraycık Köyü
+   25. Tepealegöz Köyü
+   26. Tımarlı Köyü
+   27. Yeni Köyü
+   28. Yeniyapan Köyü
+   29. Yukarıalegöz Köyü
+
+[ KORGUN İLÇESİ KÖYLERİ (16 Köy) ]
+-----------------------------------------------------------------
+    1. Alpsarı Köyü
+    2. Buğay Köyü
+    3. Büyük Köyü
+    4. Büyükosb Köyü
+    5. Çukurören Köyü
+    6. Dikenli Köyü
+    7. Doğu Köyü
+    8. Hıcıp Köyü
+    9. Ildızım Köyü
+   10. İkiçam Köyü
+   11. Karatekin Köyü
+   12. Kayıçivi Köyü
+   13. Kesecik Köyü
+   14. Maruf Köyü
+   15. Şıhlar Köyü
+   16. Uludağ Köyü
+
+[ KURŞUNLU İLÇESİ KÖYLERİ (38 Köy) ]
+-----------------------------------------------------------------
+    1. Ağılözü Köyü
+    2. Başovacık Köyü
+    3. Bereket Köyü
+    4. Beşpınar Köyü
+    5. Cömertler Köyü
+    6. Çal Köyü
+    7. Çatkese Köyü
+    8. Çavundur Köyü
+    9. Çaylıca Köyü
+   10. Çırdak Köyü
+   11. Çiyni Köyü
+   12. Çukurca Köyü
+   13. Dağören Köyü
+   14. Demirciören Köyü
+   15. Dumanlı Köyü
+   16. Erenler Köyü
+   17. Eskiahır Köyü
+   18. Göllüce Köyü
+   19. Hacı Bekir Köyü
+   20. Hacımuslu Köyü
+   21. Hocahasan Köyü
+   22. İğdir Köyü
+   23. Kale Köyü
+   24. Kalekapu Köyü
+   25. Kapaklı Köyü
+   26. Kızılca Köyü
+   27. Köpürlü Köyü
+   28. Madenli Köyü
+   29. Müslüm Köyü
+   30. Sarıalan Köyü
+   31. Sivricek Köyü
+   32. Sumucak Köyü
+   33. Sünürlü Köyü
+   34. Taşkaracalar Köyü
+   35. Yeni Köyü
+   36. Yeşil Köyü
+   37. Yeşilören Köyü
+   38. Yeşilöz Köyü
+
+[ MERKEZ İLÇESİ KÖYLERİ (64 Köy) ]
+-----------------------------------------------------------------
+    1. Abdulhalik Renda Köyü
+    2. Ağzıbüyük Köyü
+    3. Ahlat Köyü
+    4. Akçavakıf Köyü
+    5. Akören Köyü
+    6. Aksu Köyü
+    7. Alaçat Köyü
+    8. Alıca Köyü
+    9. Alibey Köyü
+   10. Altınlı Köyü
+   11. Aşağıçavuş Köyü
+   12. Aşağıpelitözü Köyü
+   13. Aşağıyanlar Köyü
+   14. Ayan Köyü
+   15. Balıbağı Köyü
+   16. Başeğmez Köyü
+   17. Bayındır Köyü
+   18. Beştut Köyü
+   19. Bozkır Köyü
+   20. Buğday Pazarı Köyü
+   21. Cumhuriyet Köyü
+   22. Çağabey Köyü
+   23. Çatalelma Köyü
+   24. Çayırpınar Köyü
+   25. Çırçır Köyü
+   26. Çivi Köyü
+   27. Danabaş Köyü
+   28. Dede Köyü
+   29. Değim Köyü
+   30. Doğantepe Köyü
+   31. Dutağaç Köyü
+   32. Esentepe Köyü
+   33. Fatih Köyü
+   34. Germece Köyü
+   35. Handırı Köyü
+   36. Hasakça Köyü
+   37. Hıdırlık Köyü
+   38. İçyenice Köyü
+   39. İnaç Köyü
+   40. İnandık Köyü
+   41. İncik Köyü
+   42. İncili Çeşme Köyü
+   43. Karadayı Köyü
+   44. Karaşeyh Köyü
+   45. Karataş Köyü
+   46. Karatekin Köyü
+   47. Kırkevler Köyü
+   48. Kuzu Köyü
+   49. Küçüklü Köyü
+   50. Merzi Köyü
+   51. Mimar Sinan Köyü
+   52. Ovacık Köyü
+   53. Paşa Köyü
+   54. Pehlivanlı Köyü
+   55. Satıyüzü Köyü
+   56. Süleymanlı Köyü
+   57. Tabakhane Köyü
+   58. Taytak Köyü
+   59. Tuzlu Köyü
+   60. Tüney Köyü
+   61. Ünür Köyü
+   62. Yeni Köyü
+   63. Yukarıçavuş Köyü
+   64. Yukarıpelitözü Köyü
+
+[ ORTA İLÇESİ KÖYLERİ (30 Köy) ]
+-----------------------------------------------------------------
+    1. Buğurören Köyü
+    2. Büğdüz Köyü
+    3. Cem Sultan Köyü
+    4. Derebayındır Köyü
+    5. Dodurga Beldesi Köyü
+    6. Doğanlar Köyü
+    7. Elden Köyü
+    8. Elmalık Köyü
+    9. Eski Yayla Köyü
+   10. Gökçeören Köyü
+   11. Hasanhacı Köyü
+   12. Hüyükköy Köyü
+   13. İncecik Köyü
+   14. Kalfat Köyü
+   15. Kanlıca Köyü
+   16. Karaağaç Köyü
+   17. Kayıören Köyü
+   18. Kırsakal Köyü
+   19. Kısaç Köyü
+   20. Ortabayındır Köyü
+   21. Özlü Köyü
+   22. Sakaeli Köyü
+   23. Sakarcaören Köyü
+   24. Salur Köyü
+   25. Sancar Köyü
+   26. Sultan Beyazıt Köyü
+   27. Tutmaçbayındır Köyü
+   28. Yaylakent Beldesi Köyü
+   29. Yenice Köyü
+   30. Yuva Köyü
+
+[ ŞABANÖZÜ İLÇESİ KÖYLERİ (26 Köy) ]
+-----------------------------------------------------------------
+    1. Bakırlı Köyü
+    2. Bulduk Köyü
+    3. Bulgurcu Köyü
+    4. Büyükyakalı Köyü
+    5. Cumhuriyet Köyü
+    6. Çapar Köyü
+    7. Çaparkayı Köyü
+    8. Çerçi Köyü
+    9. Göldağı Köyü
+   10. Gümerdiğin Köyü
+   11. Gündoğmuş Köyü
+   12. Gürpınar Köyü
+   13. Kamışköy Köyü
+   14. Karahacı Köyü
+   15. Karakoçaş Köyü
+   16. Karamusa Köyü
+   17. Karaören Köyü
+   18. Kutluşar Köyü
+   19. Küçükyakalı Köyü
+   20. Mahmudiye Köyü
+   21. Martköy Köyü
+   22. Ödek Köyü
+   23. Özbek Köyü
+   24. Sağlık Köyü
+   25. Yeni Köyü
+   26. Yeniosb Köyü
+
+[ YAPRAKLI İLÇESİ KÖYLERİ (44 Köy) ]
+-----------------------------------------------------------------
+    1. Akyazı Köyü
+    2. Aşağı Köyü
+    3. Aşağıöz Köyü
+    4. Ayseki Köyü
+    5. Ayva Köyü
+    6. Bademçay Köyü
+    7. Balıbıdık Köyü
+    8. Belibedir Köyü
+    9. Buğay Köyü
+   10. Buluca Köyü
+   11. Büyükakseki Köyü
+   12. Camikebir Köyü
+   13. Çakırlar Köyü
+   14. Çevrecik Köyü
+   15. Çiçek Köyü
+   16. Davutlar Köyü
+   17. Doğanbey Köyü
+   18. Gürmeç Köyü
+   19. İğdir Köyü
+   20. İkizören Köyü
+   21. Karacaözü Köyü
+   22. Kavak Köyü
+   23. Kayacık Köyü
+   24. Kaymaz Köyü
+   25. Kıvcak Köyü
+   26. Kirliakça Köyü
+   27. Kullar Köyü
+   28. Müsellim Köyü
+   29. Ovacık Köyü
+   30. Sarıkaya Köyü
+   31. Sazcağız Köyü
+   32. Sofuoğlu Köyü
+   33. Subaşı Köyü
+   34. Şeyh Osman Köyü
+   35. Topuzsaray Köyü
+   36. Yaka Köyü
+   37. Yakadere Köyü
+   38. Yamaçbaşı Köyü
+   39. Yenice Köyü
+   40. Yeşilyayla Köyü
+   41. Yukarı Köyü
+   42. Yukarıöz Köyü
+   43. Yüklü Köyü
+   44. Zekeriya Köyü

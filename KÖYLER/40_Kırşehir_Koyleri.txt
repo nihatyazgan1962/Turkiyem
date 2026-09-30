@@ -1,0 +1,179 @@
+=================================================================
+40 - KIRŞEHIR İLİ TÜM RESMİ KÖYLERİ (Mahallesiz)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+
+[ AKÇAKENT İLÇESİ KÖYLERİ (16 Köy) ]
+-----------------------------------------------------------------
+   1. Civanyurdu Köyü
+   2. Çağlayan Köyü
+   3. Çakıllar Köyü
+   4. Çakırlar Köyü
+   5. Gölköy Köyü
+   6. Gözeleri Köyü
+   7. Gözlek Köyü
+   8. Kızıldağ Köyü
+   9. Kızılkaya Köyü
+  10. Kızılören Köyü
+  11. Sarıhasan Köyü
+  12. Sarılar Köyü
+  13. Sarımazı Köyü
+  14. Yalçınkaya Köyü
+  15. Yalı Köyü
+  16. Yalıköy Köyü
+
+[ AKPINAR İLÇESİ KÖYLERİ (17 Köy) ]
+-----------------------------------------------------------------
+   1. Alacami Köyü
+   2. Beyreli Köyü
+   3. Çavdarlı Köyü
+   4. Derebaşı Köyü
+   5. Esenkıyı Köyü
+   6. Güllüce Köyü
+   7. Ilıca Köyü
+   8. Karacaağaç Köyü
+   9. Kınık Köyü
+  10. Kurfallı Köyü
+  11. Nebiler Köyü
+  12. Rahmanlar Köyü
+  13. Sazak Köyü
+  14. Şahmuratlı Köyü
+  15. Topkaya Köyü
+  16. Yalak Köyü
+  17. Yeşilhisar Köyü
+
+[ BOZTEPE İLÇESİ KÖYLERİ (30 Köy) ]
+-----------------------------------------------------------------
+   1. Akoluk Köyü
+   2. Ayvalıköy Köyü
+   3. Başköy Köyü
+   4. Büyükköy Köyü
+   5. Çanakçı Köyü
+   6. Çayeli Köyü
+   7. Danagöz Köyü
+   8. Dikyamaç Köyü
+   9. Dutluca Köyü
+  10. Esenyurt Köyü
+  11. Gözübüyük Köyü
+  12. Güvenç Köyü
+  13. İlyaslar Köyü
+  14. Kapıkaya Köyü
+  15. Kayacık Köyü
+  16. Kızıldağ Köyü
+  17. Kovanlık Köyü
+  18. Kurucaova Köyü
+  19. Mescitli Köyü
+  20. Narlıdere Köyü
+  21. Ömerli Köyü
+  22. Rahmanlar Köyü
+  23. Sandallı Köyü
+  24. Sarnıç Köyü
+  25. Susuz Köyü
+  26. Taşalan Köyü
+  27. Tulumtaş Köyü
+  28. Üçtepe Köyü
+  29. Yayladere Köyü
+  30. Yeşilköy Köyü
+
+[ ÇIÇEKDAĞI İLÇESİ KÖYLERİ (27 Köy) ]
+-----------------------------------------------------------------
+   1. Akçaköy Köyü
+   2. Akçapınar Köyü
+   3. Bayındır Köyü
+   4. Çamlıca Köyü
+   5. Danagöz Köyü
+   6. Değirmenaltı Köyü
+   7. Düzköy Köyü
+   8. Gökbel Köyü
+   9. Güzelyurt Köyü
+  10. Hacılar Köyü
+  11. İnli Köyü
+  12. İslamlar Köyü
+  13. Karasu Köyü
+  14. Kocadere Köyü
+  15. Küçücek Köyü
+  16. Küçükköy Köyü
+  17. Ormanlı Köyü
+  18. Ortaca Köyü
+  19. Salavatlı Köyü
+  20. Senir Köyü
+  21. Seyfe Köyü
+  22. Şenköy Köyü
+  23. Şerefiye Köyü
+  24. Toptaş Köyü
+  25. Yakaköy Köyü
+  26. Yeşilbağ Köyü
+  27. Yeşilçiftlik Köyü
+
+[ KAMAN İLÇESİ KÖYLERİ (24 Köy) ]
+-----------------------------------------------------------------
+   1. Arıkköy Köyü
+   2. Beyköy Köyü
+   3. Çamlıbel Köyü
+   4. Çobansaray Köyü
+   5. Dikyamaç Köyü
+   6. Esenbel Köyü
+   7. Gözlek Köyü
+   8. Hamdilli Köyü
+   9. İncesu Köyü
+  10. Karahayıt Köyü
+  11. Keçiköy Köyü
+  12. Koyuneri Köyü
+  13. Kükürtlü Köyü
+  14. Oğuzeli Köyü
+  15. Ortaköy Köyü
+  16. Reşadiye Köyü
+  17. Sarısöğüt Köyü
+  18. Söğütcük Köyü
+  19. Taşburun Köyü
+  20. Toptaş Köyü
+  21. Varlık Köyü
+  22. Yayladere Köyü
+  23. Yenice Köyü
+  24. Yörükler Köyü
+
+[ MERKEZ İLÇESİ KÖYLERİ (21 Köy) ]
+-----------------------------------------------------------------
+   1. Çepni Köyü
+   2. Çimeli Köyü
+   3. Çukurca Köyü
+   4. Dağköy Köyü
+   5. Değirmenaltı Köyü
+   6. Deliler Köyü
+   7. Kadılar Köyü
+   8. Kaleköy Köyü
+   9. Kapıkaya Köyü
+  10. Karabey Köyü
+  11. Karacalar Köyü
+  12. Pınarcık Köyü
+  13. Posyağbası Köyü
+  14. Reşadiye Köyü
+  15. Sağlık Köyü
+  16. Salur Köyü
+  17. Yalıköy Köyü
+  18. Yamaçlı Köyü
+  19. Yassıbağ Köyü
+  20. Yassıtepe Köyü
+  21. Yaylacık Köyü
+
+[ MUCUR İLÇESİ KÖYLERİ (18 Köy) ]
+-----------------------------------------------------------------
+   1. Akçaköy Köyü
+   2. Bağdere Köyü
+   3. Çamköy Köyü
+   4. Demirciler Köyü
+   5. Dutağaç Köyü
+   6. Gökçeyurt Köyü
+   7. Gürlek Köyü
+   8. Hıdırlar Köyü
+   9. Kabakça Köyü
+  10. Kayadibi Köyü
+  11. Kocagöl Köyü
+  12. Meryemuşağı Köyü
+  13. Pekmezci Köyü
+  14. Saraycık Köyü
+  15. Subaşı Köyü
+  16. Tiryal Köyü
+  17. Uzunçam Köyü
+  18. Yazılı Köyü

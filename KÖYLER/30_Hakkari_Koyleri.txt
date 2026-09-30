@@ -1,0 +1,195 @@
+=================================================================
+30 - HAKKARI İLİ TÜM RESMİ KÖYLERİ (174 Köy)
+(Mahalleler tamamen temizlenmiş, sadece Köyler listelenmiştir)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+
+[ ÇUKURCA İLÇESİ KÖYLERİ (12 Köy) ]
+-----------------------------------------------------------------
+    1. Akkaya Köyü
+    2. Aşağı Akkaya Köyü
+    3. Cevizli Köyü
+    4. Cumhuriyet Köyü
+    5. Çığlı Köyü
+    6. Emirşaban Köyü
+    7. Gündeş Köyü
+    8. Kayalık Köyü
+    9. Kazan Köyü
+   10. Narlı Köyü
+   11. Üzümlü Köyü
+   12. Yeşil Çeşme Köyü
+
+[ DERECIK İLÇESİ KÖYLERİ (13 Köy) ]
+-----------------------------------------------------------------
+    1. Anadağ Köyü
+    2. Balkaya Köyü
+    3. Gelişen Köyü
+    4. Güney Köyü
+    5. Gürmeşe Köyü
+    6. Hacıbey Köyü
+    7. Merkez Köyü
+    8. Orta Köyü
+    9. Ortaklar Köyü
+   10. Rize Köyü
+   11. Uslu Köyü
+   12. Üçyan Köyü
+   13. Vapurtepe Köyü
+
+[ MERKEZ İLÇESİ KÖYLERİ (52 Köy) ]
+-----------------------------------------------------------------
+    1. Ağaçdibi Köyü
+    2. Akbulut Köyü
+    3. Akçalı Köyü
+    4. Akkuş Köyü
+    5. Aksu Köyü
+    6. Aşağı Derecik Köyü
+    7. Bağışlı Köyü
+    8. Bağlar Köyü
+    9. Bayköy Köyü
+   10. Berçelan Köyü
+   11. Biçer Köyü
+   12. Boybeyi Köyü
+   13. Bulak Köyü
+   14. Cevizdibi Köyü
+   15. Ceylanlı Köyü
+   16. Çaltıkoru Köyü
+   17. Çanaklı Köyü
+   18. Çimenli Köyü
+   19. Dağgöl Köyü
+   20. Demirtaş Köyü
+   21. Doğanyurt Köyü
+   22. Durankaya Beldesi Köyü
+   23. Elmacık Köyü
+   24. Gazi Köyü
+   25. Geçimli Köyü
+   26. Geçitli Köyü
+   27. Halife Derviş Köyü
+   28. Işık Köyü
+   29. Işıklar Köyü
+   30. Kamışlı Köyü
+   31. Karşıyaka Köyü
+   32. Kavaklı Köyü
+   33. Kavalköy Köyü
+   34. Kaymaklı Köyü
+   35. Keklikpınar Köyü
+   36. Kıran Köyü
+   37. Kırıkdağ Köyü
+   38. Konak Köyü
+   39. Medrese Köyü
+   40. Merzan Köyü
+   41. Oğul Köyü
+   42. Olgunlar Köyü
+   43. Otluca Köyü
+   44. Ördekli Köyü
+   45. Pehlivan Köyü
+   46. Pınarca Köyü
+   47. Sarıtaş Köyü
+   48. Sümbül Köyü
+   49. Taşbaşı Köyü
+   50. Üzümcü Köyü
+   51. Yeni Köyü
+   52. Yoncalı Köyü
+
+[ ŞEMDINLI İLÇESİ KÖYLERİ (24 Köy) ]
+-----------------------------------------------------------------
+    1. Alan Köyü
+    2. Altınsu Köyü
+    3. Bağlar Köyü
+    4. Beşevler Köyü
+    5. Beyyurdu Köyü
+    6. Boğazköy Köyü
+    7. Bozyamaç Köyü
+    8. Çalışkanlar Köyü
+    9. Çatalca Köyü
+   10. Çubuklu Köyü
+   11. Günyazı Köyü
+   12. Karşıyaka Köyü
+   13. Kayalar Köyü
+   14. Konur Köyü
+   15. Korgan Köyü
+   16. Moda Köyü
+   17. Öveç Köyü
+   18. Tekeli Köyü
+   19. Tütünlü Köyü
+   20. Uğuraçan Köyü
+   21. Yayla Köyü
+   22. Yaylapınar Köyü
+   23. Yeni Köyü
+   24. Yufkalı Köyü
+
+[ YÜKSEKOVA İLÇESİ KÖYLERİ (73 Köy) ]
+-----------------------------------------------------------------
+    1. Adaklı Köyü
+    2. Akalın Köyü
+    3. Akçalı Köyü
+    4. Akocak Köyü
+    5. Akpınar Köyü
+    6. Aksu Köyü
+    7. Altınoluk Köyü
+    8. Armutdüzü Köyü
+    9. Aşağıuluyol Köyü
+   10. Bağdaş Köyü
+   11. Bataklık Köyü
+   12. Beşatlı Köyü
+   13. Beşbulak Köyü
+   14. Birdik Köyü
+   15. Bostancık Köyü
+   16. Bölük Köyü
+   17. Bulaklı Köyü
+   18. Büyükçiftlik Beldesi Köyü
+   19. Cumhuriyet Köyü
+   20. Çatma Köyü
+   21. Çukurca Köyü
+   22. Dağlıca Köyü
+   23. Dedeler Köyü
+   24. Değerli Köyü
+   25. Demirkonak Köyü
+   26. Dibekli Köyü
+   27. Dilekli Köyü
+   28. Dilektaşı Köyü
+   29. Dize Köyü
+   30. Doğanlı Köyü
+   31. Esen Yurt Köyü
+   32. Esendere Beldesi Köyü
+   33. Esentepe Köyü
+   34. Eski Kışla Köyü
+   35. Gökyurt Köyü
+   36. Güçlü Köyü
+   37. Güldalı Köyü
+   38. Güllüce Köyü
+   39. Güngör Köyü
+   40. Gürdere Köyü
+   41. Gürkavak Köyü
+   42. İnanlı Köyü
+   43. İpek Köyü
+   44. Kadıköy Köyü
+   45. Kamışlı Köyü
+   46. Karabey Köyü
+   47. Karlı Köyü
+   48. Kazan Köyü
+   49. Keçili Köyü
+   50. Kısıklı Köyü
+   51. Kolbaşı Köyü
+   52. Köprücek Köyü
+   53. Köşkönü Köyü
+   54. Mezarlık Köyü
+   55. Onbaşılar Köyü
+   56. Ortaç Köyü
+   57. Örnekköy Köyü
+   58. Pınargözü Köyü
+   59. Salkımlı Köyü
+   60. Sarıtaş Köyü
+   61. Serindere Köyü
+   62. Suüstü Köyü
+   63. Sürekli Köyü
+   64. Tatlı Köyü
+   65. Tuğlu Köyü
+   66. Vezirli Köyü
+   67. Yazılı Köyü
+   68. Yeni Köyü
+   69. Yeniışık Köyü
+   70. Yeşildere Köyü
+   71. Yeşiltaş Köyü
+   72. Yoncalık Köyü
+   73. Yürekli Köyü

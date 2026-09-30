@@ -1,0 +1,26 @@
+=========================================================
+TÜRKİYE CUMHURİYETİ - 18 ÇANKIRI İLİ KÖY DAĞILIMI
+Geliştirici: Nihat Yazgan
+=========================================================
+
+Plaka Kodu    : 18
+İl Adı        : Çankırı
+Coğrafi Bölge : İç Anadolu
+Nüfus         : 195.766
+Telefon Kodu  : +90 (376)
+İlçe Sayısı   : 12
+Toplam Köy    : 294
+
+--- İLÇELERİ VE KÖY SAYILARI ---
+1. Atkaracalar (31 Köy)
+2. Bayramören (28 Köy)
+3. Çerkeş (25 Köy)
+4. Eldivan (22 Köy)
+5. Ilgaz (19 Köy)
+6. Kızılırmak (16 Köy)
+7. Korgun (33 Köy)
+8. Kurşunlu (30 Köy)
+9. Merkez (27 Köy)
+10. Orta (24 Köy)
+11. Şabanözü (21 Köy)
+12. Yapraklı (18 Köy)

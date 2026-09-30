@@ -1,0 +1,22 @@
+=========================================================
+TÜRKİYE CUMHURİYETİ - 39 KIRKLARELI İLİ KÖY DAĞILIMI
+Geliştirici: Nihat Yazgan
+=========================================================
+
+Plaka Kodu    : 39
+İl Adı        : Kırklareli
+Coğrafi Bölge : Marmara
+Nüfus         : 369.347
+Telefon Kodu  : +90 (288)
+İlçe Sayısı   : 8
+Toplam Köy    : 196
+
+--- İLÇELERİ VE KÖY SAYILARI ---
+1. Babaeski (20 Köy)
+2. Demirköy (17 Köy)
+3. Kofçaz (34 Köy)
+4. Lüleburgaz (31 Köy)
+5. Merkez (28 Köy)
+6. Pehlivanköy (25 Köy)
+7. Pınarhisar (22 Köy)
+8. Vize (19 Köy)

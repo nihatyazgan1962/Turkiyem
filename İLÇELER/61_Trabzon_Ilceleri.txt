@@ -1,0 +1,23 @@
+=================================================================
+61 - TRABZON İLİ TÜM İLÇELERİ (18 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Akçaabat               (74 Köy)
+   2. Araklı                 (50 Köy)
+   3. Arsin                  (36 Köy)
+   4. Beşikdüzü              (34 Köy)
+   5. Çarşıbaşı              (23 Köy)
+   6. Çaykara                (32 Köy)
+   7. Dernekpazarı           (14 Köy)
+   8. Düzköy                 (22 Köy)
+   9. Hayrat                 (34 Köy)
+  10. Köprübaşı              (10 Köy)
+  11. Maçka                  (66 Köy)
+  12. Of                     (68 Köy)
+  13. Ortahisar              (87 Köy)
+  14. Sürmene                (37 Köy)
+  15. Şalpazarı              (30 Köy)
+  16. Tonya                  (22 Köy)
+  17. Vakfıkebir             (46 Köy)
+  18. Yomra                  (25 Köy)

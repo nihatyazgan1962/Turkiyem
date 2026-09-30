@@ -1,0 +1,21 @@
+=================================================================
+38 - KAYSERI İLİ TÜM İLÇELERİ (16 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Akkışla                (15 Köy)
+   2. Bünyan                 (46 Köy)
+   3. Develi                 (77 Köy)
+   4. Felahiye               (17 Köy)
+   5. Hacılar                (12 Köy)
+   6. İncesu                 (31 Köy)
+   7. Kocasinan              (93 Köy)
+   8. Melikgazi              (61 Köy)
+   9. Özvatan                (13 Köy)
+  10. Pınarbaşı              (122 Köy)
+  11. Sarıoğlan              (27 Köy)
+  12. Sarız                  (44 Köy)
+  13. Talas                  (30 Köy)
+  14. Tomarza                (54 Köy)
+  15. Yahyalı                (41 Köy)
+  16. Yeşilhisar             (35 Köy)

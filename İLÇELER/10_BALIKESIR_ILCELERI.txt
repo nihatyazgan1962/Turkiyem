@@ -1,0 +1,25 @@
+=================================================================
+10 - BALIKESIR İLİ TÜM İLÇELERİ (20 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Altıeylül              (96 Köy)
+   2. Ayvalık                (34 Köy)
+   3. Balya                  (46 Köy)
+   4. Bandırma               (55 Köy)
+   5. Bigadiç                (80 Köy)
+   6. Burhaniye              (40 Köy)
+   7. Dursunbey              (111 Köy)
+   8. Edremit                (47 Köy)
+   9. Erdek                  (28 Köy)
+  10. Gömeç                  (13 Köy)
+  11. Gönen                  (101 Köy)
+  12. Havran                 (34 Köy)
+  13. İvrindi                (69 Köy)
+  14. Karesi                 (70 Köy)
+  15. Kepsut                 (69 Köy)
+  16. Manyas                 (50 Köy)
+  17. Marmara                (14 Köy)
+  18. Savaştepe              (50 Köy)
+  19. Sındırgı               (75 Köy)
+  20. Susurluk               (54 Köy)

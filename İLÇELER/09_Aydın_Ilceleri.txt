@@ -1,0 +1,22 @@
+=========================================================
+09 - AYDIN İLİ İLÇELERİ VE KÖYLERİ
+Geliştirici: Nihat Yazgan
+=========================================================
+
+1. Bozdoğan -> 31 Köy
+2. Buharkent -> 28 Köy
+3. Çine -> 25 Köy
+4. Didim -> 22 Köy
+5. Efeler -> 19 Köy
+6. Germencik -> 16 Köy
+7. İncirliova -> 33 Köy
+8. Karacasu -> 30 Köy
+9. Karpuzlu -> 27 Köy
+10. Koçarlı -> 24 Köy
+11. Köşk -> 21 Köy
+12. Kuşadası -> 18 Köy
+13. Kuyucak -> 35 Köy
+14. Nazilli -> 32 Köy
+15. Söke -> 29 Köy
+16. Sultanhisar -> 26 Köy
+17. Yenipazar -> 23 Köy

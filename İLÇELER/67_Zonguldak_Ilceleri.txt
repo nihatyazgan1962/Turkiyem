@@ -1,0 +1,13 @@
+=================================================================
+67 - ZONGULDAK İLİ TÜM İLÇELERİ (8 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Alaplı                 (58 Köy)
+   2. Çaycuma                (98 Köy)
+   3. Devrek                 (89 Köy)
+   4. Ereğli                 (132 Köy)
+   5. Gökçebey               (27 Köy)
+   6. Kilimli                (16 Köy)
+   7. Kozlu                  (32 Köy)
+   8. Merkez                 (45 Köy)

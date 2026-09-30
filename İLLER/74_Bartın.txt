@@ -1,0 +1,18 @@
+=========================================================
+TÜRKİYE CUMHURİYETİ - 74 BARTIN İLİ KÖY DAĞILIMI
+Geliştirici: Nihat Yazgan
+=========================================================
+
+Plaka Kodu    : 74
+İl Adı        : Bartın
+Coğrafi Bölge : Karadeniz
+Nüfus         : 203.351
+Telefon Kodu  : +90 (378)
+İlçe Sayısı   : 4
+Toplam Köy    : 110
+
+--- İLÇELERİ VE KÖY SAYILARI ---
+1. Amasra (17 Köy)
+2. Kurucaşile (34 Köy)
+3. Merkez (31 Köy)
+4. Ulus (28 Köy)

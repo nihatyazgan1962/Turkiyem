@@ -1,0 +1,17 @@
+=================================================================
+17 - ÇANAKKALE İLİ TÜM İLÇELERİ (12 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Ayvacık                (68 Köy)
+   2. Bayramiç               (79 Köy)
+   3. Biga                   (120 Köy)
+   4. Bozcaada               (2 Köy)
+   5. Çan                    (73 Köy)
+   6. Eceabat                (14 Köy)
+   7. Ezine                  (55 Köy)
+   8. Gelibolu               (33 Köy)
+   9. Gökçeada               (14 Köy)
+  10. Lapseki                (45 Köy)
+  11. Merkez                 (60 Köy)
+  12. Yenice                 (81 Köy)

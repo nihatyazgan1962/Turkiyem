@@ -1,0 +1,20 @@
+=================================================================
+31 - HATAY İLİ TÜM İLÇELERİ (15 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Altınözü               (48 Köy)
+   2. Antakya                (95 Köy)
+   3. Arsuz                  (38 Köy)
+   4. Belen                  (19 Köy)
+   5. Defne                  (37 Köy)
+   6. Dörtyol                (15 Köy)
+   7. Erzin                  (20 Köy)
+   8. Hassa                  (39 Köy)
+   9. İskenderun             (46 Köy)
+  10. Kırıkhan               (73 Köy)
+  11. Kumlu                  (16 Köy)
+  12. Payas                  (13 Köy)
+  13. Reyhanlı               (47 Köy)
+  14. Samandağ               (42 Köy)
+  15. Yayladağı              (47 Köy)

@@ -1,0 +1,18 @@
+=========================================================
+TÜRKİYE CUMHURİYETİ - 76 IĞDIR İLİ KÖY DAĞILIMI
+Geliştirici: Nihat Yazgan
+=========================================================
+
+Plaka Kodu    : 76
+İl Adı        : Iğdır
+Coğrafi Bölge : Doğu Anadolu
+Nüfus         : 203.594
+Telefon Kodu  : +90 (476)
+İlçe Sayısı   : 4
+Toplam Köy    : 94
+
+--- İLÇELERİ VE KÖY SAYILARI ---
+1. Aralık (23 Köy)
+2. Karakoyunlu (20 Köy)
+3. Merkez (17 Köy)
+4. Tuzluca (34 Köy)

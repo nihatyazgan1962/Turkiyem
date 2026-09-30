@@ -1,0 +1,11 @@
+=================================================================
+70 - KARAMAN İLİ TÜM İLÇELERİ (6 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Ayrancı                (26 Köy)
+   2. Başyayla               (9 Köy)
+   3. Ermenek                (44 Köy)
+   4. Kazımkarabekir         (14 Köy)
+   5. Merkez                 (152 Köy)
+   6. Sarıveliler            (19 Köy)

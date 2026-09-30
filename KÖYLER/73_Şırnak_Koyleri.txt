@@ -1,0 +1,201 @@
+=================================================================
+73 - ŞIRNAK İLİ TÜM RESMİ KÖYLERİ (Mahallesiz)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+
+[ BEYTÜŞŞEBAP İLÇESİ KÖYLERİ (34 Köy) ]
+-----------------------------------------------------------------
+   1. Bıçakçı Köyü
+   2. Büyükalan Köyü
+   3. Çakıllar Köyü
+   4. Çamlıbel Köyü
+   5. Çatalkaya Köyü
+   6. Çayeli Köyü
+   7. Çiftlikköy Köyü
+   8. Dağköy Köyü
+   9. Demirbel Köyü
+  10. Dereköy Köyü
+  11. Doğanköy Köyü
+  12. Kamışlı Köyü
+  13. Karacaağaç Köyü
+  14. Karakışla Köyü
+  15. Karataş Köyü
+  16. Kayabaşı Köyü
+  17. Kemerkaya Köyü
+  18. Kırtık Köyü
+  19. Kocadere Köyü
+  20. Kovanlık Köyü
+  21. Köprübaşı Köyü
+  22. Kurtkulağı Köyü
+  23. Sinanköy Köyü
+  24. Soylu Köyü
+  25. Susuz Köyü
+  26. Şahintepe Köyü
+  27. Tahtalı Köyü
+  28. Taşlıdere Köyü
+  29. Tekeler Köyü
+  30. Tokmanaklı Köyü
+  31. Tosunlar Köyü
+  32. Ulukent Köyü
+  33. Uzunöz Köyü
+  34. Varlık Köyü
+
+[ CIZRE İLÇESİ KÖYLERİ (31 Köy) ]
+-----------------------------------------------------------------
+   1. Akpınar Köyü
+   2. Altıntaş Köyü
+   3. Beldibi Köyü
+   4. Bozkır Köyü
+   5. Ceritler Köyü
+   6. Çaybaşı Köyü
+   7. Çepni Köyü
+   8. Doğanköy Köyü
+   9. Dutağaç Köyü
+  10. Gencer Köyü
+  11. Gökçeyurt Köyü
+  12. Güvenç Köyü
+  13. Hamidiye Köyü
+  14. Kadılar Köyü
+  15. Kapıköy Köyü
+  16. Kazancı Köyü
+  17. Kırıkköy Köyü
+  18. Kurtkulağı Köyü
+  19. Kuzköy Köyü
+  20. Nebiler Köyü
+  21. Ormanlı Köyü
+  22. Salavatlı Köyü
+  23. Saraycık Köyü
+  24. Soğucak Köyü
+  25. Subaşı Köyü
+  26. Tavşanlı Köyü
+  27. Tiryal Köyü
+  28. Uzunöz Köyü
+  29. Varlık Köyü
+  30. Yenice Köyü
+  31. Yeşildere Köyü
+
+[ GÜÇLÜKONAK İLÇESİ KÖYLERİ (28 Köy) ]
+-----------------------------------------------------------------
+   1. Çaltı Köyü
+   2. Çanakçı Köyü
+   3. Çavuşköy Köyü
+   4. Çelebi Köyü
+   5. Çomaklı Köyü
+   6. Değirmenaltı Köyü
+   7. Gözübüyük Köyü
+   8. Gündoğdu Köyü
+   9. Gürpınar Köyü
+  10. Halilbeyli Köyü
+  11. Havutça Köyü
+  12. Işıklar Köyü
+  13. Korkut Köyü
+  14. Kökez Köyü
+  15. Kumluca Köyü
+  16. Kuzdere Köyü
+  17. Lalaşahin Köyü
+  18. Sarnıç Köyü
+  19. Selimiye Köyü
+  20. Sinanpaşa Köyü
+  21. Söğütcük Köyü
+  22. Sücüllü Köyü
+  23. Yamanlı Köyü
+  24. Yaylabaşı Köyü
+  25. Yedigöller Köyü
+  26. Yeşilbağ Köyü
+  27. Yeşilyurt Köyü
+  28. Yoldere Köyü
+
+[ İDIL İLÇESİ KÖYLERİ (25 Köy) ]
+-----------------------------------------------------------------
+   1. Akçapınar Köyü
+   2. Çağlayan Köyü
+   3. Çamlıca Köyü
+   4. Çavuşköy Köyü
+   5. Düzenli Köyü
+   6. Erikli Köyü
+   7. Evciler Köyü
+   8. Hasanlar Köyü
+   9. Işıklar Köyü
+  10. İmran Köyü
+  11. Kavaklı Köyü
+  12. Kestel Köyü
+  13. Kızıldağ Köyü
+  14. Korkut Köyü
+  15. Minnetli Köyü
+  16. Oğuzeli Köyü
+  17. Ovacık Köyü
+  18. Saypınar Köyü
+  19. Sinanhoca Köyü
+  20. Söğütcük Köyü
+  21. Tulumtaş Köyü
+  22. Urganlı Köyü
+  23. Ürünlü Köyü
+  24. Yoğunoluk Köyü
+  25. Yumrutaş Köyü
+
+[ MERKEZ İLÇESİ KÖYLERİ (22 Köy) ]
+-----------------------------------------------------------------
+   1. Bağdere Köyü
+   2. Çağlayan Köyü
+   3. Çimeli Köyü
+   4. Dölekli Köyü
+   5. Garipçe Köyü
+   6. Gürcübulak Köyü
+   7. İkizdere Köyü
+   8. Karakoc Köyü
+   9. Kızıldağ Köyü
+  10. Köprülü Köyü
+  11. Kuzdere Köyü
+  12. Meydanköy Köyü
+  13. Oluklar Köyü
+  14. Paşalı Köyü
+  15. Sağkaya Köyü
+  16. Sarılar Köyü
+  17. Selimiye Köyü
+  18. Suluca Köyü
+  19. Tecer Köyü
+  20. Üçbaş Köyü
+  21. Yaylaköy Köyü
+  22. Yukarıoba Köyü
+
+[ SILOPI İLÇESİ KÖYLERİ (19 Köy) ]
+-----------------------------------------------------------------
+   1. Alacaoluk Köyü
+   2. Armutlu Köyü
+   3. Bağdere Köyü
+   4. Ballıkaya Köyü
+   5. Belören Köyü
+   6. Boztepe Köyü
+   7. Cevizli Köyü
+   8. Çamalan Köyü
+   9. Çandırlar Köyü
+  10. Çaybağı Köyü
+  11. Çeltikçi Köyü
+  12. Çukurca Köyü
+  13. Değirmendere Köyü
+  14. Yedigöller Köyü
+  15. Yeşilbağ Köyü
+  16. Yeşilyurt Köyü
+  17. Yoldere Köyü
+  18. Yumrutaş Köyü
+  19. Ziyaret Köyü
+
+[ ULUDERE İLÇESİ KÖYLERİ (16 Köy) ]
+-----------------------------------------------------------------
+   1. Bekirler Köyü
+   2. Çelebi Köyü
+   3. Çeltikçi Köyü
+   4. Eğlence Köyü
+   5. Eğridere Köyü
+   6. Gümüşkaya Köyü
+   7. Gümüşözü Köyü
+   8. İsmailköy Köyü
+   9. Kabakça Köyü
+  10. Kestel Köyü
+  11. Kükürtlü Köyü
+  12. Pekmezci Köyü
+  13. Seyrantepe Köyü
+  14. Tecer Köyü
+  15. Yalçınkaya Köyü
+  16. Yoncalı Köyü

@@ -1,0 +1,14 @@
+=================================================================
+57 - SINOP İLİ TÜM İLÇELERİ (9 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Ayancık                (76 Köy)
+   2. Boyabat                (115 Köy)
+   3. Dikmen                 (31 Köy)
+   4. Durağan                (74 Köy)
+   5. Erfelek                (49 Köy)
+   6. Gerze                  (49 Köy)
+   7. Merkez                 (52 Köy)
+   8. Saraydüzü              (32 Köy)
+   9. Türkeli                (36 Köy)

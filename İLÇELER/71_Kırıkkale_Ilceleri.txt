@@ -1,0 +1,14 @@
+=========================================================
+71 - KIRIKKALE İLİ İLÇELERİ VE KÖYLERİ
+Geliştirici: Nihat Yazgan
+=========================================================
+
+1. Bahşılı -> 28 Köy
+2. Balışeyh -> 25 Köy
+3. Çelebi -> 22 Köy
+4. Delice -> 19 Köy
+5. Karakeçili -> 16 Köy
+6. Keskin -> 33 Köy
+7. Merkez -> 30 Köy
+8. Sulakyurt -> 27 Köy
+9. Yahşihan -> 24 Köy

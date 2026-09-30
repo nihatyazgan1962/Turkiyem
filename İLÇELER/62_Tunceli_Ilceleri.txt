@@ -1,0 +1,13 @@
+=================================================================
+62 - TUNCELI İLİ TÜM İLÇELERİ (8 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Çemişgezek             (41 Köy)
+   2. Hozat                  (35 Köy)
+   3. Mazgirt                (71 Köy)
+   4. Merkez                 (66 Köy)
+   5. Nazımiye               (26 Köy)
+   6. Ovacık                 (66 Köy)
+   7. Pertek                 (50 Köy)
+   8. Pülümür                (54 Köy)

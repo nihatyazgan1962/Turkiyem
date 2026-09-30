@@ -1,0 +1,22 @@
+=================================================================
+45 - MANISA İLİ TÜM İLÇELERİ (17 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Ahmetli                (23 Köy)
+   2. Akhisar                (110 Köy)
+   3. Alaşehir               (87 Köy)
+   4. Demirci                (101 Köy)
+   5. Gölmarmara             (21 Köy)
+   6. Gördes                 (64 Köy)
+   7. Kırkağaç               (47 Köy)
+   8. Köprübaşı              (46 Köy)
+   9. Kula                   (60 Köy)
+  10. Salihli                (104 Köy)
+  11. Sarıgöl                (35 Köy)
+  12. Saruhanlı              (50 Köy)
+  13. Selendi                (57 Köy)
+  14. Soma                   (71 Köy)
+  15. Şehzadeler             (67 Köy)
+  16. Turgutlu               (62 Köy)
+  17. Yunusemre              (88 Köy)

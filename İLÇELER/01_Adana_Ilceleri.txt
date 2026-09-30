@@ -1,0 +1,20 @@
+=================================================================
+01 - ADANA İLİ TÜM İLÇELERİ (15 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Aladağ                 (31 Köy)
+   2. Ceyhan                 (113 Köy)
+   3. Çukurova               (27 Köy)
+   4. Feke                   (48 Köy)
+   5. İmamoğlu               (27 Köy)
+   6. Karaisalı              (62 Köy)
+   7. Karataş                (43 Köy)
+   8. Kozan                  (103 Köy)
+   9. Pozantı                (21 Köy)
+  10. Saimbeyli              (28 Köy)
+  11. Sarıçam                (69 Köy)
+  12. Seyhan                 (96 Köy)
+  13. Tufanbeyli             (33 Köy)
+  14. Yumurtalık             (24 Köy)
+  15. Yüreğir                (107 Köy)

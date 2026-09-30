@@ -1,0 +1,333 @@
+=================================================================
+40 - KIRŞEHIR İLİ TÜM RESMİ KÖYLERİ (306 Köy)
+(Mahalleler tamamen temizlenmiş, sadece Köyler listelenmiştir)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+
+[ AKÇAKENT İLÇESİ KÖYLERİ (23 Köy) ]
+-----------------------------------------------------------------
+    1. Avanoğlu Köyü
+    2. Ayvalı Köyü
+    3. Derefakılı Köyü
+    4. Güllühüyük Köyü
+    5. Hacıfakılı Köyü
+    6. Hamzabey Köyü
+    7. Hasanali Köyü
+    8. Kilimli Köyü
+    9. Kösefakılı Bucak Merkezi Köyü
+   10. Küçükabdiuşağı Köyü
+   11. Mahsenli Köyü
+   12. Ödemişli Köyü
+   13. Ömeruşağı Köyü
+   14. Polatlı Köyü
+   15. Solakuşağı Köyü
+   16. Şehricedid Köyü
+   17. Taşlıoluk Köyü
+   18. Tepefakılı Köyü
+   19. Yaylaözü Köyü
+   20. Yenikent Köyü
+   21. Yeniyapan Köyü
+   22. Yeşildere Köyü
+   23. Yetikli Köyü
+
+[ AKPINAR İLÇESİ KÖYLERİ (32 Köy) ]
+-----------------------------------------------------------------
+    1. Alipaşa Köyü
+    2. Alişar Köyü
+    3. Aşağıhomurlu Köyü
+    4. Boyalık Köyü
+    5. Büyükabdiuşağı Köyü
+    6. Cumhuriyet Köyü
+    7. Çalıburnu Köyü
+    8. Çayözü Köyü
+    9. Çebişler Köyü
+   10. Çelebiuşağı Köyü
+   11. Çiftlikmehmetağa Köyü
+   12. Çiftliksarıkaya Köyü
+   13. Demirci Köyü
+   14. Deveci Köyü
+   15. Durmuşlu Köyü
+   16. Eldeleklidemirel Köyü
+   17. Eldelekliortaoba Köyü
+   18. Eşrefli Köyü
+   19. Gülveren Köyü
+   20. Hacı Hüseyin Efendi Köyü
+   21. Hacımirza Köyü
+   22. Hacıselimli Köyü
+   23. Hanyerisarıkaya Köyü
+   24. Himmetuşağı Köyü
+   25. Kaleyazı Köyü
+   26. Karaova Köyü
+   27. Kelismailuşağı Köyü
+   28. Köşker Köyü
+   29. Pekmezci Köyü
+   30. Sofrazlı Köyü
+   31. Şirinevler Köyü
+   32. Yenidoğan Köyü
+
+[ BOZTEPE İLÇESİ KÖYLERİ (17 Köy) ]
+-----------------------------------------------------------------
+    1. Bağbaşı Köyü
+    2. Büyükkışla Köyü
+    3. Çamalak Köyü
+    4. Çevirme Köyü
+    5. Çiğdeli Köyü
+    6. Çimeli Köyü
+    7. Eskidoğanlı Köyü
+    8. Harmanaltı Köyü
+    9. Hatunoğlu Köyü
+   10. Hüseyinli Köyü
+   11. Karacaören Köyü
+   12. Külhüyük Köyü
+   13. Orta Köyü
+   14. Uzunpınar Köyü
+   15. Üçkuyu Köyü
+   16. Yeni Köyü
+   17. Yenidoğanlı Köyü
+
+[ ÇIÇEKDAĞI İLÇESİ KÖYLERİ (53 Köy) ]
+-----------------------------------------------------------------
+    1. Acıköy Köyü
+    2. Akbıyıklı Köyü
+    3. Alahacılı Köyü
+    4. Alanköy Köyü
+    5. Alimpınar Köyü
+    6. Armutlu Köyü
+    7. Aşağıhacıahmetli Köyü
+    8. Bağlarbaşı Köyü
+    9. Bahçepınar Köyü
+   10. Baraklı Köyü
+   11. Beşikli Köyü
+   12. Boğazevci Köyü
+   13. Boyalık Köyü
+   14. Bozlar Köyü
+   15. Büyükteflek Köyü
+   16. Çanakpınar Köyü
+   17. Çepni Köyü
+   18. Çiçekli Köyü
+   19. Çopraşık Köyü
+   20. Çubuktarla Köyü
+   21. Demirli Köyü
+   22. Doğankaş Köyü
+   23. Fatih Köyü
+   24. Fevzi Çakmak Köyü
+   25. Gölcük Köyü
+   26. Hacıduraklı Köyü
+   27. Hacıhasanlı Köyü
+   28. Hacıoğlu Köyü
+   29. Halaçlı Köyü
+   30. Harmanpınar Köyü
+   31. Haydarlı Köyü
+   32. İbikli Köyü
+   33. Kabaklı Köyü
+   34. Kaleevci Köyü
+   35. Kavaklıöz Köyü
+   36. Kırdök Köyü
+   37. Kızılcalı Köyü
+   38. Konurkale Köyü
+   39. Köseli Beldesi Köyü
+   40. Küçükteflek Köyü
+   41. Mahmutlu Köyü
+   42. Ortahacıahmetli Köyü
+   43. Osman Şevki Köyü
+   44. Pöhrenk Köyü
+   45. Safalı Köyü
+   46. Şahinoğlu Köyü
+   47. Tatbekirli Köyü
+   48. Tepecik Köyü
+   49. Topalali Köyü
+   50. Yalnızağaç Köyü
+   51. Yeni Köyü
+   52. Yenişehir Köyü
+   53. Yukarıhacıahmetli Köyü
+
+[ KAMAN İLÇESİ KÖYLERİ (61 Köy) ]
+-----------------------------------------------------------------
+    1. Ağapınar Köyü
+    2. Aydınlar Köyü
+    3. Bahçelievler Köyü
+    4. Başköy Köyü
+    5. Bayındır Köyü
+    6. Bayramözü Köyü
+    7. Benzer Köyü
+    8. Büğüz Köyü
+    9. Cuma Köyü
+   10. Çadırlı Hacıbayram Köyü
+   11. Çadırlı Körmehmet Köyü
+   12. Çağırkan Köyü
+   13. Çiftlikli Köyü
+   14. Darıözü Köyü
+   15. Değirmenözü Köyü
+   16. Demirli Köyü
+   17. Esentepe Köyü
+   18. Fakılı Köyü
+   19. Gaffar Köyü
+   20. Gökeşme Köyü
+   21. Gültepe Köyü
+   22. Hacıpınar Köyü
+   23. Hamit Köyü
+   24. Hirfanlı Köyü
+   25. İbrişim Köyü
+   26. İkizler Köyü
+   27. İmancı Köyü
+   28. İsahocalı Köyü
+   29. Kale Köyü
+   30. Karahabalı Köyü
+   31. Karakaya Köyü
+   32. Kargınyenice Köyü
+   33. Karkınkızıközü Köyü
+   34. Karkınmeşe Köyü
+   35. Karkınselimağa Köyü
+   36. Kekilliali Köyü
+   37. Kurancılı Beldesi Köyü
+   38. Meşeköy Köyü
+   39. Mollaosmanlar Köyü
+   40. Müderris Köyü
+   41. Orta Köyü
+   42. Ömerhacılı Köyü
+   43. Ömerkahya Köyü
+   44. Sarıömerli Köyü
+   45. Sarıuşağı Köyü
+   46. Savcılıbağbaşı Köyü
+   47. Savcılıbüyükoba Köyü
+   48. Savcılıebeyit Köyü
+   49. Savcılıkışla Köyü
+   50. Savcılıkurutlu Köyü
+   51. Savcılımeryemkaşı Köyü
+   52. Tatık Köyü
+   53. Tepeköy Köyü
+   54. Yağmurlu Sarıuşağı Köyü
+   55. Yazıyolu Köyü
+   56. Yelek Köyü
+   57. Yeni Köyü
+   58. Yeniköy Köyü
+   59. Yeniyapan Köyü
+   60. Yukarı Çiftlik Köyü
+   61. Ziyarettepe Köyü
+
+[ MERKEZ İLÇESİ KÖYLERİ (69 Köy) ]
+-----------------------------------------------------------------
+    1. Ahievran Köyü
+    2. Akçaağıl Köyü
+    3. Aşıkpaşa Köyü
+    4. Bağbaşı Köyü
+    5. Bahçelievler Köyü
+    6. Çadırlıhacıyusuf Köyü
+    7. Çayağzı Köyü
+    8. Çuğun Köyü
+    9. Çukurçayır Köyü
+   10. Dedeli Köyü
+   11. Değirmenkaşı Köyü
+   12. Dulkadirli Köyü
+   13. Dulkadirlikaraisa Köyü
+   14. Ecikağıl Köyü
+   15. Gölhisar Köyü
+   16. Göllü Bucak Merkezi Köyü
+   17. Güldiken Köyü
+   18. Güldikenosb Köyü
+   19. Güzler Köyü
+   20. Hashüyük Köyü
+   21. Homurlu Beşler Köyü
+   22. Homurlu Üçler Köyü
+   23. Kalankaldı Köyü
+   24. Karaboğaz Köyü
+   25. Karaduraklı Köyü
+   26. Karahıdır Köyü
+   27. Karalar Köyü
+   28. Karıncalı Köyü
+   29. Kartalkaya Köyü
+   30. Kayabaşı Köyü
+   31. Kervansaray Köyü
+   32. Kesikköprü Köyü
+   33. Kındam Köyü
+   34. Kırkpınar Köyü
+   35. Kocabey Köyü
+   36. Kortulu Köyü
+   37. Körpınar Köyü
+   38. Kurtbeliyeniyapan Köyü
+   39. Kuruağıl Köyü
+   40. Kuşdilli Köyü
+   41. Medrese Köyü
+   42. Nasuhdede Köyü
+   43. Özbağ Beldesi Köyü
+   44. Saraycık Köyü
+   45. Sevdiğin Köyü
+   46. Seyrekköy Köyü
+   47. Sıdıklıbüyükoba Köyü
+   48. Sıdıklıdarboğaz Köyü
+   49. Sıdıklıikizağıl Köyü
+   50. Sıdıklıkumarkaç Köyü
+   51. Sıdıklıküçükboğaz Köyü
+   52. Sıdıklıküçükoba Köyü
+   53. Sıdıklıortaoba Köyü
+   54. Taburoğlu Köyü
+   55. Tatarilyaskışla Köyü
+   56. Tatarilyasyayla Köyü
+   57. Tepesidelik Köyü
+   58. Toklümen Köyü
+   59. Tosunburnu Köyü
+   60. Ulupınar Köyü
+   61. Uzunaliuşağı Köyü
+   62. Yağmurluarmutlu Köyü
+   63. Yağmurlubüyükoba Köyü
+   64. Yağmurlukale Köyü
+   65. Yağmurlusayobası Köyü
+   66. Yenice Köyü
+   67. Yeşilli Köyü
+   68. Yeşiloba Köyü
+   69. Yukarı Homurlu Köyü
+
+[ MUCUR İLÇESİ KÖYLERİ (51 Köy) ]
+-----------------------------------------------------------------
+    1. Acıöz Köyü
+    2. Aksaklı Köyü
+    3. Altınyazı Köyü
+    4. Asmakaradam Köyü
+    5. Avcıköy Köyü
+    6. Aydoğmuş Köyü
+    7. Babur Köyü
+    8. Bayramuşağı Köyü
+    9. Bazlamaç Köyü
+   10. Budak Köyü
+   11. Büyükkayapa Köyü
+   12. Çatalarkaç Köyü
+   13. Dağçiftliğiköyü Köyü
+   14. Dalakçı Köyü
+   15. Devepınarı Köyü
+   16. Geycek Köyü
+   17. Gümüşkümbet Köyü
+   18. Güzyurdu Köyü
+   19. Hamidiye Köyü
+   20. İnaç Köyü
+   21. Karaarkaç Köyü
+   22. Karacalı Köyü
+   23. Karakuyu Köyü
+   24. Karkın Köyü
+   25. Karşıyaka Köyü
+   26. Kepez Köyü
+   27. Kılıçlı Köyü
+   28. Kıran Köyü
+   29. Kızılağıl Köyü
+   30. Kızıldağyeniyapan Köyü
+   31. Kurugöl Köyü
+   32. Kuşaklı Köyü
+   33. Küçükburnağıl Köyü
+   34. Küçükkavak Köyü
+   35. Küçükkayapa Köyü
+   36. Medetsiz Köyü
+   37. Obruk Köyü
+   38. Osmangazi Köyü
+   39. Palangıç Köyü
+   40. Pınarkaya Köyü
+   41. Rahmalar Köyü
+   42. Seyfe Köyü
+   43. Solaklı Köyü
+   44. Susuz Köyü
+   45. Şatıroğlu Köyü
+   46. Yazıkınık Köyü
+   47. Yeğenağa Köyü
+   48. Yenice Köyü
+   49. Yeniköy Köyü
+   50. Yeşilyurt Köyü
+   51. Yürücek Köyü

@@ -1,0 +1,14 @@
+=================================================================
+71 - KIRIKKALE İLİ TÜM İLÇELERİ (9 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Bahşılı                (10 Köy)
+   2. Balışeyh               (32 Köy)
+   3. Çelebi                 (17 Köy)
+   4. Delice                 (49 Köy)
+   5. Karakeçili             (10 Köy)
+   6. Keskin                 (61 Köy)
+   7. Merkez                 (38 Köy)
+   8. Sulakyurt              (33 Köy)
+   9. Yahşihan               (17 Köy)

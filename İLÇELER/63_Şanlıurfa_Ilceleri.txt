@@ -1,0 +1,18 @@
+=========================================================
+63 - ŞANLIURFA İLİ İLÇELERİ VE KÖYLERİ
+Geliştirici: Nihat Yazgan
+=========================================================
+
+1. Akçakale -> 31 Köy
+2. Birecik -> 28 Köy
+3. Bozova -> 25 Köy
+4. Ceylanpınar -> 22 Köy
+5. Eyyübiye -> 19 Köy
+6. Halfeti -> 16 Köy
+7. Haliliye -> 33 Köy
+8. Harran -> 30 Köy
+9. Hilvan -> 27 Köy
+10. Karaköprü -> 24 Köy
+11. Siverek -> 21 Köy
+12. Suruç -> 18 Köy
+13. Viranşehir -> 35 Köy

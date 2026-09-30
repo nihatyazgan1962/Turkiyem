@@ -1,0 +1,16 @@
+=================================================================
+59 - TEKIRDAĞ İLİ TÜM İLÇELERİ (11 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Çerkezköy              (17 Köy)
+   2. Çorlu                  (27 Köy)
+   3. Ergene                 (21 Köy)
+   4. Hayrabolu              (53 Köy)
+   5. Kapaklı                (17 Köy)
+   6. Malkara                (77 Köy)
+   7. Marmaraereğlisi        (10 Köy)
+   8. Muratlı                (21 Köy)
+   9. Saray                  (29 Köy)
+  10. Süleymanpaşa           (78 Köy)
+  11. Şarköy                 (31 Köy)

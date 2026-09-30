@@ -1,0 +1,18 @@
+=================================================================
+63 - ŞANLIURFA İLİ TÜM İLÇELERİ (13 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Akçakale               (120 Köy)
+   2. Birecik                (83 Köy)
+   3. Bozova                 (88 Köy)
+   4. Ceylanpınar            (52 Köy)
+   5. Eyyübiye               (163 Köy)
+   6. Halfeti                (49 Köy)
+   7. Haliliye               (170 Köy)
+   8. Harran                 (126 Köy)
+   9. Hilvan                 (70 Köy)
+  10. Karaköprü              (100 Köy)
+  11. Siverek                (180 Köy)
+  12. Suruç                  (95 Köy)
+  13. Viranşehir             (148 Köy)

@@ -1,0 +1,23 @@
+=================================================================
+03 - AFYONKARAHISAR İLİ TÜM İLÇELERİ (18 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Başmakçı               (22 Köy)
+   2. Bayat                  (16 Köy)
+   3. Bolvadin               (65 Köy)
+   4. Çay                    (39 Köy)
+   5. Çobanlar               (13 Köy)
+   6. Dazkırı                (23 Köy)
+   7. Dinar                  (89 Köy)
+   8. Emirdağ                (81 Köy)
+   9. Evciler                (13 Köy)
+  10. Hocalar                (18 Köy)
+  11. İhsaniye               (38 Köy)
+  12. İscehisar              (25 Köy)
+  13. Kızılören              (6 Köy)
+  14. Merkez                 (94 Köy)
+  15. Sandıklı               (71 Köy)
+  16. Sinanpaşa              (42 Köy)
+  17. Sultandağı             (19 Köy)
+  18. Şuhut                  (50 Köy)

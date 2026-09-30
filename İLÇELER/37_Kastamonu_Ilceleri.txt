@@ -1,0 +1,25 @@
+=================================================================
+37 - KASTAMONU İLİ TÜM İLÇELERİ (20 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Abana                  (18 Köy)
+   2. Ağlı                   (22 Köy)
+   3. Araç                   (125 Köy)
+   4. Azdavay                (53 Köy)
+   5. Bozkurt                (39 Köy)
+   6. Cide                   (91 Köy)
+   7. Çatalzeytin            (43 Köy)
+   8. Daday                  (66 Köy)
+   9. Devrekani              (65 Köy)
+  10. Doğanyurt              (30 Köy)
+  11. Hanönü                 (23 Köy)
+  12. İhsangazi              (33 Köy)
+  13. İnebolu                (91 Köy)
+  14. Küre                   (38 Köy)
+  15. Merkez                 (199 Köy)
+  16. Pınarbaşı              (33 Köy)
+  17. Seydiler               (26 Köy)
+  18. Şenpazar               (30 Köy)
+  19. Taşköprü               (140 Köy)
+  20. Tosya                  (77 Köy)

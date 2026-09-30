@@ -1,0 +1,14 @@
+=================================================================
+02 - ADIYAMAN İLİ TÜM İLÇELERİ (9 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Besni                  (85 Köy)
+   2. Çelikhan               (29 Köy)
+   3. Gerger                 (52 Köy)
+   4. Gölbaşı                (42 Köy)
+   5. Kahta                  (120 Köy)
+   6. Merkez                 (183 Köy)
+   7. Samsat                 (20 Köy)
+   8. Sincik                 (32 Köy)
+   9. Tut                    (21 Köy)

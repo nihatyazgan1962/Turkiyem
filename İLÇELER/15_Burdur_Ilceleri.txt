@@ -1,0 +1,16 @@
+=================================================================
+15 - BURDUR İLİ TÜM İLÇELERİ (11 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Ağlasun                (15 Köy)
+   2. Altınyayla             (9 Köy)
+   3. Bucak                  (58 Köy)
+   4. Çavdır                 (18 Köy)
+   5. Çeltikçi               (8 Köy)
+   6. Gölhisar               (22 Köy)
+   7. Karamanlı              (20 Köy)
+   8. Kemer                  (10 Köy)
+   9. Merkez                 (87 Köy)
+  10. Tefenni                (23 Köy)
+  11. Yeşilova               (43 Köy)

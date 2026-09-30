@@ -1,0 +1,14 @@
+=================================================================
+14 - BOLU İLİ TÜM İLÇELERİ (9 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Dörtdivan              (32 Köy)
+   2. Gerede                 (102 Köy)
+   3. Göynük                 (72 Köy)
+   4. Kıbrıscık              (24 Köy)
+   5. Mengen                 (61 Köy)
+   6. Merkez                 (156 Köy)
+   7. Mudurnu                (87 Köy)
+   8. Seben                  (31 Köy)
+   9. Yeniçağa               (19 Köy)

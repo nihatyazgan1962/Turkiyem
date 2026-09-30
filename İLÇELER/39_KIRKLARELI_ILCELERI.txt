@@ -1,0 +1,13 @@
+=================================================================
+39 - KIRKLARELI İLİ TÜM İLÇELERİ (8 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Babaeski               (42 Köy)
+   2. Demirköy               (18 Köy)
+   3. Kofçaz                 (18 Köy)
+   4. Lüleburgaz             (57 Köy)
+   5. Merkez                 (55 Köy)
+   6. Pehlivanköy            (11 Köy)
+   7. Pınarhisar             (19 Köy)
+   8. Vize                   (32 Köy)

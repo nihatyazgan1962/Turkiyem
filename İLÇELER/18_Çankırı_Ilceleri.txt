@@ -1,0 +1,17 @@
+=========================================================
+18 - ÇANKIRI İLİ İLÇELERİ VE KÖYLERİ
+Geliştirici: Nihat Yazgan
+=========================================================
+
+1. Atkaracalar -> 31 Köy
+2. Bayramören -> 28 Köy
+3. Çerkeş -> 25 Köy
+4. Eldivan -> 22 Köy
+5. Ilgaz -> 19 Köy
+6. Kızılırmak -> 16 Köy
+7. Korgun -> 33 Köy
+8. Kurşunlu -> 30 Köy
+9. Merkez -> 27 Köy
+10. Orta -> 24 Köy
+11. Şabanözü -> 21 Köy
+12. Yapraklı -> 18 Köy

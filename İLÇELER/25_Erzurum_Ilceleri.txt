@@ -1,0 +1,25 @@
+=================================================================
+25 - ERZURUM İLİ TÜM İLÇELERİ (20 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Aşkale                 (76 Köy)
+   2. Aziziye                (73 Köy)
+   3. Çat                    (45 Köy)
+   4. Hınıs                  (98 Köy)
+   5. Horasan                (87 Köy)
+   6. İspir                  (100 Köy)
+   7. Karaçoban              (27 Köy)
+   8. Karayazı               (75 Köy)
+   9. Köprüköy               (42 Köy)
+  10. Narman                 (46 Köy)
+  11. Oltu                   (72 Köy)
+  12. Olur                   (43 Köy)
+  13. Palandöken             (26 Köy)
+  14. Pasinler               (72 Köy)
+  15. Pazaryolu              (44 Köy)
+  16. Şenkaya                (71 Köy)
+  17. Tekman                 (71 Köy)
+  18. Tortum                 (58 Köy)
+  19. Uzundere               (18 Köy)
+  20. Yakutiye               (44 Köy)

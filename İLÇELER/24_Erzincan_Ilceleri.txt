@@ -1,0 +1,14 @@
+=================================================================
+24 - ERZINCAN İLİ TÜM İLÇELERİ (9 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Çayırlı                (50 Köy)
+   2. İliç                   (62 Köy)
+   3. Kemah                  (83 Köy)
+   4. Kemaliye               (72 Köy)
+   5. Merkez                 (134 Köy)
+   6. Otlukbeli              (13 Köy)
+   7. Refahiye               (126 Köy)
+   8. Tercan                 (82 Köy)
+   9. Üzümlü                 (40 Köy)

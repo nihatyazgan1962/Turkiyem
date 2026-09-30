@@ -1,0 +1,17 @@
+=================================================================
+18 - ÇANKIRI İLİ TÜM İLÇELERİ (12 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Atkaracalar            (15 Köy)
+   2. Bayramören             (30 Köy)
+   3. Çerkeş                 (61 Köy)
+   4. Eldivan                (22 Köy)
+   5. Ilgaz                  (84 Köy)
+   6. Kızılırmak             (29 Köy)
+   7. Korgun                 (16 Köy)
+   8. Kurşunlu               (38 Köy)
+   9. Merkez                 (64 Köy)
+  10. Orta                   (30 Köy)
+  11. Şabanözü               (26 Köy)
+  12. Yapraklı               (44 Köy)

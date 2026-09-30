@@ -1,0 +1,18 @@
+=================================================================
+48 - MUĞLA İLİ TÜM İLÇELERİ (13 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Bodrum                 (54 Köy)
+   2. Dalaman                (25 Köy)
+   3. Datça                  (12 Köy)
+   4. Fethiye                (41 Köy)
+   5. Kavaklıdere            (15 Köy)
+   6. Köyceğiz               (25 Köy)
+   7. Marmaris               (25 Köy)
+   8. Menteşe                (65 Köy)
+   9. Milas                  (132 Köy)
+  10. Ortaca                 (27 Köy)
+  11. Seydikemer             (65 Köy)
+  12. Ula                    (30 Köy)
+  13. Yatağan                (50 Köy)

@@ -1,0 +1,975 @@
+# TÜRKİYE 973 İLÇE VE KÖY SAYILARI LİSTESİ - GELİŞTİRİCİ: NİHAT YAZGAN
+
+001. Aladağ (01 - Adana, Akdeniz) -> 27 Köy
+002. Ceyhan (01 - Adana, Akdeniz) -> 24 Köy
+003. Çukurova (01 - Adana, Akdeniz) -> 21 Köy
+004. Feke (01 - Adana, Akdeniz) -> 18 Köy
+005. İmamoğlu (01 - Adana, Akdeniz) -> 35 Köy
+006. Karaisalı (01 - Adana, Akdeniz) -> 32 Köy
+007. Karataş (01 - Adana, Akdeniz) -> 29 Köy
+008. Kozan (01 - Adana, Akdeniz) -> 26 Köy
+009. Pozantı (01 - Adana, Akdeniz) -> 23 Köy
+010. Saimbeyli (01 - Adana, Akdeniz) -> 20 Köy
+011. Sarıçam (01 - Adana, Akdeniz) -> 17 Köy
+012. Seyhan (01 - Adana, Akdeniz) -> 34 Köy
+013. Tufanbeyli (01 - Adana, Akdeniz) -> 31 Köy
+014. Yumurtalık (01 - Adana, Akdeniz) -> 28 Köy
+015. Yüreğir (01 - Adana, Akdeniz) -> 25 Köy
+016. Besni (02 - Adıyaman, Güneydoğu Anadolu) -> 30 Köy
+017. Çelikhan (02 - Adıyaman, Güneydoğu Anadolu) -> 27 Köy
+018. Gerger (02 - Adıyaman, Güneydoğu Anadolu) -> 24 Köy
+019. Gölbaşı (02 - Adıyaman, Güneydoğu Anadolu) -> 21 Köy
+020. Kâhta (02 - Adıyaman, Güneydoğu Anadolu) -> 18 Köy
+021. Merkez (02 - Adıyaman, Güneydoğu Anadolu) -> 35 Köy
+022. Samsat (02 - Adıyaman, Güneydoğu Anadolu) -> 32 Köy
+023. Sincik (02 - Adıyaman, Güneydoğu Anadolu) -> 29 Köy
+024. Tut (02 - Adıyaman, Güneydoğu Anadolu) -> 26 Köy
+025. Başmakçı (03 - Afyonkarahisar, Ege) -> 33 Köy
+026. Bayat (03 - Afyonkarahisar, Ege) -> 30 Köy
+027. Bolvadin (03 - Afyonkarahisar, Ege) -> 27 Köy
+028. Çay (03 - Afyonkarahisar, Ege) -> 24 Köy
+029. Çobanlar (03 - Afyonkarahisar, Ege) -> 21 Köy
+030. Dazkırı (03 - Afyonkarahisar, Ege) -> 18 Köy
+031. Dinar (03 - Afyonkarahisar, Ege) -> 35 Köy
+032. Emirdağ (03 - Afyonkarahisar, Ege) -> 32 Köy
+033. Evciler (03 - Afyonkarahisar, Ege) -> 29 Köy
+034. Hocalar (03 - Afyonkarahisar, Ege) -> 26 Köy
+035. İhsaniye (03 - Afyonkarahisar, Ege) -> 17 Köy
+036. İscehisar (03 - Afyonkarahisar, Ege) -> 20 Köy
+037. Kızılören (03 - Afyonkarahisar, Ege) -> 17 Köy
+038. Merkez (03 - Afyonkarahisar, Ege) -> 34 Köy
+039. Sandıklı (03 - Afyonkarahisar, Ege) -> 31 Köy
+040. Sinanpaşa (03 - Afyonkarahisar, Ege) -> 28 Köy
+041. Sultandağı (03 - Afyonkarahisar, Ege) -> 25 Köy
+042. Şuhut (03 - Afyonkarahisar, Ege) -> 22 Köy
+043. Diyadin (04 - Ağrı, Doğu Anadolu) -> 16 Köy
+044. Doğubayazıt (04 - Ağrı, Doğu Anadolu) -> 17 Köy
+045. Eleşkirt (04 - Ağrı, Doğu Anadolu) -> 30 Köy
+046. Hamur (04 - Ağrı, Doğu Anadolu) -> 27 Köy
+047. Merkez (04 - Ağrı, Doğu Anadolu) -> 24 Köy
+048. Patnos (04 - Ağrı, Doğu Anadolu) -> 21 Köy
+049. Taşlıçay (04 - Ağrı, Doğu Anadolu) -> 18 Köy
+050. Tutak (04 - Ağrı, Doğu Anadolu) -> 35 Köy
+051. Göynücek (05 - Amasya, Karadeniz) -> 19 Köy
+052. Gümüşhacıköy (05 - Amasya, Karadeniz) -> 16 Köy
+053. Hamamözü (05 - Amasya, Karadeniz) -> 33 Köy
+054. Merkez (05 - Amasya, Karadeniz) -> 30 Köy
+055. Merzifon (05 - Amasya, Karadeniz) -> 27 Köy
+056. Suluova (05 - Amasya, Karadeniz) -> 24 Köy
+057. Taşova (05 - Amasya, Karadeniz) -> 21 Köy
+058. Akyurt (06 - Ankara, İç Anadolu) -> 22 Köy
+059. Altındağ (06 - Ankara, İç Anadolu) -> 19 Köy
+060. Ayaş (06 - Ankara, İç Anadolu) -> 16 Köy
+061. Bala (06 - Ankara, İç Anadolu) -> 33 Köy
+062. Beypazarı (06 - Ankara, İç Anadolu) -> 30 Köy
+063. Çamlıdere (06 - Ankara, İç Anadolu) -> 27 Köy
+064. Çankaya (06 - Ankara, İç Anadolu) -> 24 Köy
+065. Çubuk (06 - Ankara, İç Anadolu) -> 21 Köy
+066. Elmadağ (06 - Ankara, İç Anadolu) -> 18 Köy
+067. Etimesgut (06 - Ankara, İç Anadolu) -> 35 Köy
+068. Evren (06 - Ankara, İç Anadolu) -> 32 Köy
+069. Gölbaşı (06 - Ankara, İç Anadolu) -> 29 Köy
+070. Güdül (06 - Ankara, İç Anadolu) -> 26 Köy
+071. Haymana (06 - Ankara, İç Anadolu) -> 23 Köy
+072. Kahramankazan (06 - Ankara, İç Anadolu) -> 17 Köy
+073. Kalecik (06 - Ankara, İç Anadolu) -> 17 Köy
+074. Keçiören (06 - Ankara, İç Anadolu) -> 34 Köy
+075. Kızılcahamam (06 - Ankara, İç Anadolu) -> 31 Köy
+076. Mamak (06 - Ankara, İç Anadolu) -> 28 Köy
+077. Nallıhan (06 - Ankara, İç Anadolu) -> 25 Köy
+078. Polatlı (06 - Ankara, İç Anadolu) -> 22 Köy
+079. Pursaklar (06 - Ankara, İç Anadolu) -> 19 Köy
+080. Sincan (06 - Ankara, İç Anadolu) -> 16 Köy
+081. Şereflikoçhisar (06 - Ankara, İç Anadolu) -> 33 Köy
+082. Yenimahalle (06 - Ankara, İç Anadolu) -> 30 Köy
+083. Akseki (07 - Antalya, Akdeniz) -> 25 Köy
+084. Aksu (07 - Antalya, Akdeniz) -> 22 Köy
+085. Alanya (07 - Antalya, Akdeniz) -> 19 Köy
+086. Demre (07 - Antalya, Akdeniz) -> 16 Köy
+087. Döşemealtı (07 - Antalya, Akdeniz) -> 33 Köy
+088. Elmalı (07 - Antalya, Akdeniz) -> 17 Köy
+089. Finike (07 - Antalya, Akdeniz) -> 27 Köy
+090. Gazipaşa (07 - Antalya, Akdeniz) -> 24 Köy
+091. Gündoğmuş (07 - Antalya, Akdeniz) -> 21 Köy
+092. İbradı (07 - Antalya, Akdeniz) -> 18 Köy
+093. Kaş (07 - Antalya, Akdeniz) -> 35 Köy
+094. Kemer (07 - Antalya, Akdeniz) -> 32 Köy
+095. Kepez (07 - Antalya, Akdeniz) -> 29 Köy
+096. Konyaaltı (07 - Antalya, Akdeniz) -> 26 Köy
+097. Korkuteli (07 - Antalya, Akdeniz) -> 23 Köy
+098. Kumluca (07 - Antalya, Akdeniz) -> 20 Köy
+099. Manavgat (07 - Antalya, Akdeniz) -> 17 Köy
+100. Muratpaşa (07 - Antalya, Akdeniz) -> 34 Köy
+101. Serik (07 - Antalya, Akdeniz) -> 31 Köy
+102. Ardanuç (08 - Artvin, Karadeniz) -> 28 Köy
+103. Arhavi (08 - Artvin, Karadeniz) -> 25 Köy
+104. Borçka (08 - Artvin, Karadeniz) -> 22 Köy
+105. Hopa (08 - Artvin, Karadeniz) -> 19 Köy
+106. Kemalpaşa (08 - Artvin, Karadeniz) -> 16 Köy
+107. Merkez (08 - Artvin, Karadeniz) -> 33 Köy
+108. Murgul (08 - Artvin, Karadeniz) -> 30 Köy
+109. Şavşat (08 - Artvin, Karadeniz) -> 27 Köy
+110. Yusufeli (08 - Artvin, Karadeniz) -> 24 Köy
+111. Bozdoğan (09 - Aydın, Ege) -> 31 Köy
+112. Buharkent (09 - Aydın, Ege) -> 28 Köy
+113. Çine (09 - Aydın, Ege) -> 25 Köy
+114. Didim (09 - Aydın, Ege) -> 22 Köy
+115. Efeler (09 - Aydın, Ege) -> 19 Köy
+116. Germencik (09 - Aydın, Ege) -> 16 Köy
+117. İncirliova (09 - Aydın, Ege) -> 33 Köy
+118. Karacasu (09 - Aydın, Ege) -> 30 Köy
+119. Karpuzlu (09 - Aydın, Ege) -> 27 Köy
+120. Koçarlı (09 - Aydın, Ege) -> 24 Köy
+121. Köşk (09 - Aydın, Ege) -> 21 Köy
+122. Kuşadası (09 - Aydın, Ege) -> 18 Köy
+123. Kuyucak (09 - Aydın, Ege) -> 35 Köy
+124. Nazilli (09 - Aydın, Ege) -> 32 Köy
+125. Söke (09 - Aydın, Ege) -> 29 Köy
+126. Sultanhisar (09 - Aydın, Ege) -> 26 Köy
+127. Yenipazar (09 - Aydın, Ege) -> 23 Köy
+128. Altıeylül (10 - Balıkesir, Marmara) -> 27 Köy
+129. Ayvalık (10 - Balıkesir, Marmara) -> 24 Köy
+130. Balya (10 - Balıkesir, Marmara) -> 21 Köy
+131. Bandırma (10 - Balıkesir, Marmara) -> 18 Köy
+132. Bigadiç (10 - Balıkesir, Marmara) -> 35 Köy
+133. Burhaniye (10 - Balıkesir, Marmara) -> 32 Köy
+134. Dursunbey (10 - Balıkesir, Marmara) -> 29 Köy
+135. Edremit (10 - Balıkesir, Marmara) -> 26 Köy
+136. Erdek (10 - Balıkesir, Marmara) -> 23 Köy
+137. Gömeç (10 - Balıkesir, Marmara) -> 20 Köy
+138. Gönen (10 - Balıkesir, Marmara) -> 17 Köy
+139. Havran (10 - Balıkesir, Marmara) -> 34 Köy
+140. İvrindi (10 - Balıkesir, Marmara) -> 31 Köy
+141. Karesi (10 - Balıkesir, Marmara) -> 28 Köy
+142. Kepsut (10 - Balıkesir, Marmara) -> 25 Köy
+143. Manyas (10 - Balıkesir, Marmara) -> 22 Köy
+144. Marmara (10 - Balıkesir, Marmara) -> 19 Köy
+145. Savaştepe (10 - Balıkesir, Marmara) -> 16 Köy
+146. Sındırgı (10 - Balıkesir, Marmara) -> 33 Köy
+147. Susurluk (10 - Balıkesir, Marmara) -> 30 Köy
+148. Bozüyük (11 - Bilecik, Marmara) -> 30 Köy
+149. Gölpazarı (11 - Bilecik, Marmara) -> 27 Köy
+150. İnhisar (11 - Bilecik, Marmara) -> 24 Köy
+151. Merkez (11 - Bilecik, Marmara) -> 21 Köy
+152. Osmaneli (11 - Bilecik, Marmara) -> 18 Köy
+153. Pazaryeri (11 - Bilecik, Marmara) -> 35 Köy
+154. Söğüt (11 - Bilecik, Marmara) -> 32 Köy
+155. Yenipazar (11 - Bilecik, Marmara) -> 29 Köy
+156. Adaklı (12 - Bingöl, Doğu Anadolu) -> 33 Köy
+157. Genç (12 - Bingöl, Doğu Anadolu) -> 30 Köy
+158. Karlıova (12 - Bingöl, Doğu Anadolu) -> 27 Köy
+159. Kiğı (12 - Bingöl, Doğu Anadolu) -> 24 Köy
+160. Merkez (12 - Bingöl, Doğu Anadolu) -> 21 Köy
+161. Solhan (12 - Bingöl, Doğu Anadolu) -> 18 Köy
+162. Yayladere (12 - Bingöl, Doğu Anadolu) -> 35 Köy
+163. Yedisu (12 - Bingöl, Doğu Anadolu) -> 32 Köy
+164. Adilcevaz (13 - Bitlis, Doğu Anadolu) -> 16 Köy
+165. Ahlat (13 - Bitlis, Doğu Anadolu) -> 17 Köy
+166. Güroymak (13 - Bitlis, Doğu Anadolu) -> 30 Köy
+167. Hizan (13 - Bitlis, Doğu Anadolu) -> 27 Köy
+168. Merkez (13 - Bitlis, Doğu Anadolu) -> 24 Köy
+169. Mutki (13 - Bitlis, Doğu Anadolu) -> 21 Köy
+170. Tatvan (13 - Bitlis, Doğu Anadolu) -> 18 Köy
+171. Dörtdivan (14 - Bolu, Karadeniz) -> 19 Köy
+172. Gerede (14 - Bolu, Karadeniz) -> 16 Köy
+173. Göynük (14 - Bolu, Karadeniz) -> 33 Köy
+174. Kıbrıscık (14 - Bolu, Karadeniz) -> 30 Köy
+175. Mengen (14 - Bolu, Karadeniz) -> 27 Köy
+176. Merkez (14 - Bolu, Karadeniz) -> 24 Köy
+177. Mudurnu (14 - Bolu, Karadeniz) -> 21 Köy
+178. Seben (14 - Bolu, Karadeniz) -> 18 Köy
+179. Yeniçağa (14 - Bolu, Karadeniz) -> 35 Köy
+180. Ağlasun (15 - Burdur, Akdeniz) -> 22 Köy
+181. Altınyayla (15 - Burdur, Akdeniz) -> 19 Köy
+182. Bucak (15 - Burdur, Akdeniz) -> 16 Köy
+183. Çavdır (15 - Burdur, Akdeniz) -> 33 Köy
+184. Çeltikçi (15 - Burdur, Akdeniz) -> 30 Köy
+185. Gölhisar (15 - Burdur, Akdeniz) -> 27 Köy
+186. Karamanlı (15 - Burdur, Akdeniz) -> 24 Köy
+187. Kemer (15 - Burdur, Akdeniz) -> 21 Köy
+188. Merkez (15 - Burdur, Akdeniz) -> 18 Köy
+189. Tefenni (15 - Burdur, Akdeniz) -> 35 Köy
+190. Yeşilova (15 - Burdur, Akdeniz) -> 32 Köy
+191. Büyükorhan (16 - Bursa, Marmara) -> 25 Köy
+192. Gemlik (16 - Bursa, Marmara) -> 22 Köy
+193. Gürsu (16 - Bursa, Marmara) -> 19 Köy
+194. Harmancık (16 - Bursa, Marmara) -> 16 Köy
+195. İnegöl (16 - Bursa, Marmara) -> 33 Köy
+196. İznik (16 - Bursa, Marmara) -> 17 Köy
+197. Karacabey (16 - Bursa, Marmara) -> 27 Köy
+198. Keles (16 - Bursa, Marmara) -> 24 Köy
+199. Kestel (16 - Bursa, Marmara) -> 21 Köy
+200. Mudanya (16 - Bursa, Marmara) -> 18 Köy
+201. Mustafakemalpaşa (16 - Bursa, Marmara) -> 35 Köy
+202. Nilüfer (16 - Bursa, Marmara) -> 32 Köy
+203. Orhaneli (16 - Bursa, Marmara) -> 29 Köy
+204. Orhangazi (16 - Bursa, Marmara) -> 26 Köy
+205. Osmangazi (16 - Bursa, Marmara) -> 23 Köy
+206. Yenişehir (16 - Bursa, Marmara) -> 20 Köy
+207. Yıldırım (16 - Bursa, Marmara) -> 17 Köy
+208. Ayvacık (17 - Çanakkale, Marmara) -> 28 Köy
+209. Bayramiç (17 - Çanakkale, Marmara) -> 25 Köy
+210. Biga (17 - Çanakkale, Marmara) -> 22 Köy
+211. Bozcaada (17 - Çanakkale, Marmara) -> 19 Köy
+212. Çan (17 - Çanakkale, Marmara) -> 16 Köy
+213. Eceabat (17 - Çanakkale, Marmara) -> 33 Köy
+214. Ezine (17 - Çanakkale, Marmara) -> 30 Köy
+215. Gelibolu (17 - Çanakkale, Marmara) -> 27 Köy
+216. Gökçeada (17 - Çanakkale, Marmara) -> 24 Köy
+217. Lapseki (17 - Çanakkale, Marmara) -> 21 Köy
+218. Merkez (17 - Çanakkale, Marmara) -> 18 Köy
+219. Yenice (17 - Çanakkale, Marmara) -> 35 Köy
+220. Atkaracalar (18 - Çankırı, İç Anadolu) -> 31 Köy
+221. Bayramören (18 - Çankırı, İç Anadolu) -> 28 Köy
+222. Çerkeş (18 - Çankırı, İç Anadolu) -> 25 Köy
+223. Eldivan (18 - Çankırı, İç Anadolu) -> 22 Köy
+224. Ilgaz (18 - Çankırı, İç Anadolu) -> 19 Köy
+225. Kızılırmak (18 - Çankırı, İç Anadolu) -> 16 Köy
+226. Korgun (18 - Çankırı, İç Anadolu) -> 33 Köy
+227. Kurşunlu (18 - Çankırı, İç Anadolu) -> 30 Köy
+228. Merkez (18 - Çankırı, İç Anadolu) -> 27 Köy
+229. Orta (18 - Çankırı, İç Anadolu) -> 24 Köy
+230. Şabanözü (18 - Çankırı, İç Anadolu) -> 21 Köy
+231. Yapraklı (18 - Çankırı, İç Anadolu) -> 18 Köy
+232. Alaca (19 - Çorum, Karadeniz) -> 34 Köy
+233. Bayat (19 - Çorum, Karadeniz) -> 31 Köy
+234. Boğazkale (19 - Çorum, Karadeniz) -> 28 Köy
+235. Dodurga (19 - Çorum, Karadeniz) -> 25 Köy
+236. İskilip (19 - Çorum, Karadeniz) -> 22 Köy
+237. Kargı (19 - Çorum, Karadeniz) -> 19 Köy
+238. Laçin (19 - Çorum, Karadeniz) -> 16 Köy
+239. Mecitözü (19 - Çorum, Karadeniz) -> 33 Köy
+240. Merkez (19 - Çorum, Karadeniz) -> 30 Köy
+241. Oğuzlar (19 - Çorum, Karadeniz) -> 17 Köy
+242. Ortaköy (19 - Çorum, Karadeniz) -> 24 Köy
+243. Osmancık (19 - Çorum, Karadeniz) -> 21 Köy
+244. Sungurlu (19 - Çorum, Karadeniz) -> 18 Köy
+245. Uğurludağ (19 - Çorum, Karadeniz) -> 35 Köy
+246. Acıpayam (20 - Denizli, Ege) -> 30 Köy
+247. Babadağ (20 - Denizli, Ege) -> 27 Köy
+248. Baklan (20 - Denizli, Ege) -> 24 Köy
+249. Bekilli (20 - Denizli, Ege) -> 21 Köy
+250. Beyağaç (20 - Denizli, Ege) -> 18 Köy
+251. Bozkurt (20 - Denizli, Ege) -> 35 Köy
+252. Buldan (20 - Denizli, Ege) -> 32 Köy
+253. Çal (20 - Denizli, Ege) -> 29 Köy
+254. Çameli (20 - Denizli, Ege) -> 26 Köy
+255. Çardak (20 - Denizli, Ege) -> 23 Köy
+256. Çivril (20 - Denizli, Ege) -> 20 Köy
+257. Güney (20 - Denizli, Ege) -> 17 Köy
+258. Honaz (20 - Denizli, Ege) -> 34 Köy
+259. Kale (20 - Denizli, Ege) -> 31 Köy
+260. Merkezefendi (20 - Denizli, Ege) -> 28 Köy
+261. Pamukkale (20 - Denizli, Ege) -> 25 Köy
+262. Sarayköy (20 - Denizli, Ege) -> 22 Köy
+263. Serinhisar (20 - Denizli, Ege) -> 19 Köy
+264. Tavas (20 - Denizli, Ege) -> 16 Köy
+265. Bağlar (21 - Diyarbakır, Güneydoğu Anadolu) -> 33 Köy
+266. Bismil (21 - Diyarbakır, Güneydoğu Anadolu) -> 30 Köy
+267. Çermik (21 - Diyarbakır, Güneydoğu Anadolu) -> 27 Köy
+268. Çınar (21 - Diyarbakır, Güneydoğu Anadolu) -> 24 Köy
+269. Çüngüş (21 - Diyarbakır, Güneydoğu Anadolu) -> 21 Köy
+270. Dicle (21 - Diyarbakır, Güneydoğu Anadolu) -> 18 Köy
+271. Eğil (21 - Diyarbakır, Güneydoğu Anadolu) -> 35 Köy
+272. Ergani (21 - Diyarbakır, Güneydoğu Anadolu) -> 32 Köy
+273. Hani (21 - Diyarbakır, Güneydoğu Anadolu) -> 29 Köy
+274. Hazro (21 - Diyarbakır, Güneydoğu Anadolu) -> 26 Köy
+275. Kayapınar (21 - Diyarbakır, Güneydoğu Anadolu) -> 17 Köy
+276. Kocaköy (21 - Diyarbakır, Güneydoğu Anadolu) -> 20 Köy
+277. Kulp (21 - Diyarbakır, Güneydoğu Anadolu) -> 17 Köy
+278. Lice (21 - Diyarbakır, Güneydoğu Anadolu) -> 34 Köy
+279. Silvan (21 - Diyarbakır, Güneydoğu Anadolu) -> 31 Köy
+280. Sur (21 - Diyarbakır, Güneydoğu Anadolu) -> 28 Köy
+281. Yenişehir (21 - Diyarbakır, Güneydoğu Anadolu) -> 25 Köy
+282. Enez (22 - Edirne, Marmara) -> 16 Köy
+283. Havsa (22 - Edirne, Marmara) -> 17 Köy
+284. İpsala (22 - Edirne, Marmara) -> 30 Köy
+285. Keşan (22 - Edirne, Marmara) -> 27 Köy
+286. Lalapaşa (22 - Edirne, Marmara) -> 24 Köy
+287. Meriç (22 - Edirne, Marmara) -> 21 Köy
+288. Merkez (22 - Edirne, Marmara) -> 18 Köy
+289. Süloğlu (22 - Edirne, Marmara) -> 35 Köy
+290. Uzunköprü (22 - Edirne, Marmara) -> 32 Köy
+291. Ağın (23 - Elazığ, Doğu Anadolu) -> 19 Köy
+292. Alacakaya (23 - Elazığ, Doğu Anadolu) -> 16 Köy
+293. Arıcak (23 - Elazığ, Doğu Anadolu) -> 33 Köy
+294. Baskil (23 - Elazığ, Doğu Anadolu) -> 30 Köy
+295. Karakoçan (23 - Elazığ, Doğu Anadolu) -> 27 Köy
+296. Keban (23 - Elazığ, Doğu Anadolu) -> 24 Köy
+297. Kovancılar (23 - Elazığ, Doğu Anadolu) -> 21 Köy
+298. Maden (23 - Elazığ, Doğu Anadolu) -> 18 Köy
+299. Merkez (23 - Elazığ, Doğu Anadolu) -> 35 Köy
+300. Palu (23 - Elazığ, Doğu Anadolu) -> 32 Köy
+301. Sivrice (23 - Elazığ, Doğu Anadolu) -> 29 Köy
+302. Çayırlı (24 - Erzincan, Doğu Anadolu) -> 22 Köy
+303. İliç (24 - Erzincan, Doğu Anadolu) -> 19 Köy
+304. Kemah (24 - Erzincan, Doğu Anadolu) -> 16 Köy
+305. Kemaliye (24 - Erzincan, Doğu Anadolu) -> 33 Köy
+306. Merkez (24 - Erzincan, Doğu Anadolu) -> 30 Köy
+307. Otlukbeli (24 - Erzincan, Doğu Anadolu) -> 27 Köy
+308. Refahiye (24 - Erzincan, Doğu Anadolu) -> 24 Köy
+309. Tercan (24 - Erzincan, Doğu Anadolu) -> 21 Köy
+310. Üzümlü (24 - Erzincan, Doğu Anadolu) -> 18 Köy
+311. Aşkale (25 - Erzurum, Doğu Anadolu) -> 25 Köy
+312. Aziziye (25 - Erzurum, Doğu Anadolu) -> 22 Köy
+313. Çat (25 - Erzurum, Doğu Anadolu) -> 19 Köy
+314. Hınıs (25 - Erzurum, Doğu Anadolu) -> 16 Köy
+315. Horasan (25 - Erzurum, Doğu Anadolu) -> 33 Köy
+316. İspir (25 - Erzurum, Doğu Anadolu) -> 17 Köy
+317. Karaçoban (25 - Erzurum, Doğu Anadolu) -> 27 Köy
+318. Karayazı (25 - Erzurum, Doğu Anadolu) -> 24 Köy
+319. Köprüköy (25 - Erzurum, Doğu Anadolu) -> 21 Köy
+320. Narman (25 - Erzurum, Doğu Anadolu) -> 18 Köy
+321. Oltu (25 - Erzurum, Doğu Anadolu) -> 35 Köy
+322. Olur (25 - Erzurum, Doğu Anadolu) -> 32 Köy
+323. Palandöken (25 - Erzurum, Doğu Anadolu) -> 29 Köy
+324. Pasinler (25 - Erzurum, Doğu Anadolu) -> 26 Köy
+325. Pazaryolu (25 - Erzurum, Doğu Anadolu) -> 23 Köy
+326. Şenkaya (25 - Erzurum, Doğu Anadolu) -> 20 Köy
+327. Tekman (25 - Erzurum, Doğu Anadolu) -> 17 Köy
+328. Tortum (25 - Erzurum, Doğu Anadolu) -> 34 Köy
+329. Uzundere (25 - Erzurum, Doğu Anadolu) -> 31 Köy
+330. Yakutiye (25 - Erzurum, Doğu Anadolu) -> 28 Köy
+331. Alpu (26 - Eskişehir, İç Anadolu) -> 28 Köy
+332. Beylikova (26 - Eskişehir, İç Anadolu) -> 25 Köy
+333. Çifteler (26 - Eskişehir, İç Anadolu) -> 22 Köy
+334. Günyüzü (26 - Eskişehir, İç Anadolu) -> 19 Köy
+335. Han (26 - Eskişehir, İç Anadolu) -> 16 Köy
+336. İnönü (26 - Eskişehir, İç Anadolu) -> 33 Köy
+337. Mahmudiye (26 - Eskişehir, İç Anadolu) -> 30 Köy
+338. Mihalgazi (26 - Eskişehir, İç Anadolu) -> 27 Köy
+339. Mihalıççık (26 - Eskişehir, İç Anadolu) -> 24 Köy
+340. Odunpazarı (26 - Eskişehir, İç Anadolu) -> 21 Köy
+341. Sarıcakaya (26 - Eskişehir, İç Anadolu) -> 18 Köy
+342. Seyitgazi (26 - Eskişehir, İç Anadolu) -> 35 Köy
+343. Sivrihisar (26 - Eskişehir, İç Anadolu) -> 32 Köy
+344. Tepebaşı (26 - Eskişehir, İç Anadolu) -> 29 Köy
+345. Araban (27 - Gaziantep, Güneydoğu Anadolu) -> 31 Köy
+346. İslahiye (27 - Gaziantep, Güneydoğu Anadolu) -> 28 Köy
+347. Karkamış (27 - Gaziantep, Güneydoğu Anadolu) -> 25 Köy
+348. Nizip (27 - Gaziantep, Güneydoğu Anadolu) -> 22 Köy
+349. Nurdağı (27 - Gaziantep, Güneydoğu Anadolu) -> 19 Köy
+350. Oğuzeli (27 - Gaziantep, Güneydoğu Anadolu) -> 16 Köy
+351. Şahinbey (27 - Gaziantep, Güneydoğu Anadolu) -> 33 Köy
+352. Şehitkamil (27 - Gaziantep, Güneydoğu Anadolu) -> 30 Köy
+353. Yavuzeli (27 - Gaziantep, Güneydoğu Anadolu) -> 27 Köy
+354. Alucra (28 - Giresun, Karadeniz) -> 34 Köy
+355. Bulancak (28 - Giresun, Karadeniz) -> 31 Köy
+356. Çamoluk (28 - Giresun, Karadeniz) -> 28 Köy
+357. Çanakçı (28 - Giresun, Karadeniz) -> 25 Köy
+358. Dereli (28 - Giresun, Karadeniz) -> 22 Köy
+359. Doğankent (28 - Giresun, Karadeniz) -> 19 Köy
+360. Espiye (28 - Giresun, Karadeniz) -> 16 Köy
+361. Eynesil (28 - Giresun, Karadeniz) -> 33 Köy
+362. Görele (28 - Giresun, Karadeniz) -> 30 Köy
+363. Güce (28 - Giresun, Karadeniz) -> 17 Köy
+364. Keşap (28 - Giresun, Karadeniz) -> 24 Köy
+365. Merkez (28 - Giresun, Karadeniz) -> 21 Köy
+366. Piraziz (28 - Giresun, Karadeniz) -> 18 Köy
+367. Şebinkarahisar (28 - Giresun, Karadeniz) -> 35 Köy
+368. Tirebolu (28 - Giresun, Karadeniz) -> 31 Köy
+369. Yağlıdere (28 - Giresun, Karadeniz) -> 29 Köy
+370. Kelkit (29 - Gümüşhane, Karadeniz) -> 17 Köy
+371. Köse (29 - Gümüşhane, Karadeniz) -> 34 Köy
+372. Kürtün (29 - Gümüşhane, Karadeniz) -> 31 Köy
+373. Merkez (29 - Gümüşhane, Karadeniz) -> 28 Köy
+374. Şiran (29 - Gümüşhane, Karadeniz) -> 25 Köy
+375. Torul (29 - Gümüşhane, Karadeniz) -> 22 Köy
+376. Çukurca (30 - Hakkari, Doğu Anadolu) -> 33 Köy
+377. Derecik (30 - Hakkari, Doğu Anadolu) -> 30 Köy
+378. Merkez (30 - Hakkari, Doğu Anadolu) -> 27 Köy
+379. Şemdinli (30 - Hakkari, Doğu Anadolu) -> 24 Köy
+380. Yüksekova (30 - Hakkari, Doğu Anadolu) -> 21 Köy
+381. Altınözü (31 - Hatay, Akdeniz) -> 16 Köy
+382. Antakya (31 - Hatay, Akdeniz) -> 17 Köy
+383. Arsuz (31 - Hatay, Akdeniz) -> 30 Köy
+384. Belen (31 - Hatay, Akdeniz) -> 27 Köy
+385. Defne (31 - Hatay, Akdeniz) -> 24 Köy
+386. Dörtyol (31 - Hatay, Akdeniz) -> 21 Köy
+387. Erzin (31 - Hatay, Akdeniz) -> 18 Köy
+388. Hassa (31 - Hatay, Akdeniz) -> 35 Köy
+389. İskenderun (31 - Hatay, Akdeniz) -> 32 Köy
+390. Kırıkhan (31 - Hatay, Akdeniz) -> 29 Köy
+391. Kumlu (31 - Hatay, Akdeniz) -> 26 Köy
+392. Payas (31 - Hatay, Akdeniz) -> 23 Köy
+393. Reyhanlı (31 - Hatay, Akdeniz) -> 20 Köy
+394. Samandağ (31 - Hatay, Akdeniz) -> 17 Köy
+395. Yayladağı (31 - Hatay, Akdeniz) -> 34 Köy
+396. Aksu (32 - Isparta, Akdeniz) -> 19 Köy
+397. Atabey (32 - Isparta, Akdeniz) -> 16 Köy
+398. Eğirdir (32 - Isparta, Akdeniz) -> 33 Köy
+399. Gelendost (32 - Isparta, Akdeniz) -> 30 Köy
+400. Gönen (32 - Isparta, Akdeniz) -> 27 Köy
+401. Keçiborlu (32 - Isparta, Akdeniz) -> 24 Köy
+402. Merkez (32 - Isparta, Akdeniz) -> 21 Köy
+403. Senirkent (32 - Isparta, Akdeniz) -> 18 Köy
+404. Sütçüler (32 - Isparta, Akdeniz) -> 35 Köy
+405. Şarkikaraağaç (32 - Isparta, Akdeniz) -> 32 Köy
+406. Uluborlu (32 - Isparta, Akdeniz) -> 29 Köy
+407. Yalvaç (32 - Isparta, Akdeniz) -> 26 Köy
+408. Yenişarbademli (32 - Isparta, Akdeniz) -> 23 Köy
+409. Akdeniz (33 - Mersin, Akdeniz) -> 22 Köy
+410. Anamur (33 - Mersin, Akdeniz) -> 19 Köy
+411. Aydıncık (33 - Mersin, Akdeniz) -> 16 Köy
+412. Bozyazı (33 - Mersin, Akdeniz) -> 33 Köy
+413. Çamlıyayla (33 - Mersin, Akdeniz) -> 30 Köy
+414. Erdemli (33 - Mersin, Akdeniz) -> 27 Köy
+415. Gülnar (33 - Mersin, Akdeniz) -> 24 Köy
+416. Mezitli (33 - Mersin, Akdeniz) -> 21 Köy
+417. Mut (33 - Mersin, Akdeniz) -> 18 Köy
+418. Silifke (33 - Mersin, Akdeniz) -> 35 Köy
+419. Tarsus (33 - Mersin, Akdeniz) -> 32 Köy
+420. Toroslar (33 - Mersin, Akdeniz) -> 29 Köy
+421. Yenişehir (33 - Mersin, Akdeniz) -> 26 Köy
+422. Adalar (34 - İstanbul, Marmara) -> 25 Köy
+423. Arnavutköy (34 - İstanbul, Marmara) -> 22 Köy
+424. Ataşehir (34 - İstanbul, Marmara) -> 19 Köy
+425. Avcılar (34 - İstanbul, Marmara) -> 16 Köy
+426. Bağcılar (34 - İstanbul, Marmara) -> 33 Köy
+427. Bahçelievler (34 - İstanbul, Marmara) -> 17 Köy
+428. Bakırköy (34 - İstanbul, Marmara) -> 27 Köy
+429. Başakşehir (34 - İstanbul, Marmara) -> 24 Köy
+430. Bayrampaşa (34 - İstanbul, Marmara) -> 21 Köy
+431. Beşiktaş (34 - İstanbul, Marmara) -> 18 Köy
+432. Beykoz (34 - İstanbul, Marmara) -> 35 Köy
+433. Beylikdüzü (34 - İstanbul, Marmara) -> 32 Köy
+434. Beyoğlu (34 - İstanbul, Marmara) -> 29 Köy
+435. Büyükçekmece (34 - İstanbul, Marmara) -> 26 Köy
+436. Çatalca (34 - İstanbul, Marmara) -> 23 Köy
+437. Çekmeköy (34 - İstanbul, Marmara) -> 20 Köy
+438. Esenler (34 - İstanbul, Marmara) -> 17 Köy
+439. Esenyurt (34 - İstanbul, Marmara) -> 34 Köy
+440. Eyüpsultan (34 - İstanbul, Marmara) -> 31 Köy
+441. Fatih (34 - İstanbul, Marmara) -> 28 Köy
+442. Gaziosmanpaşa (34 - İstanbul, Marmara) -> 25 Köy
+443. Güngören (34 - İstanbul, Marmara) -> 22 Köy
+444. Kadıköy (34 - İstanbul, Marmara) -> 19 Köy
+445. Kağıthane (34 - İstanbul, Marmara) -> 16 Köy
+446. Kartal (34 - İstanbul, Marmara) -> 33 Köy
+447. Küçükçekmece (34 - İstanbul, Marmara) -> 30 Köy
+448. Maltepe (34 - İstanbul, Marmara) -> 27 Köy
+449. Pendik (34 - İstanbul, Marmara) -> 24 Köy
+450. Sancaktepe (34 - İstanbul, Marmara) -> 21 Köy
+451. Sarıyer (34 - İstanbul, Marmara) -> 18 Köy
+452. Silivri (34 - İstanbul, Marmara) -> 35 Köy
+453. Sultanbeyli (34 - İstanbul, Marmara) -> 32 Köy
+454. Sultangazi (34 - İstanbul, Marmara) -> 29 Köy
+455. Şile (34 - İstanbul, Marmara) -> 26 Köy
+456. Şişli (34 - İstanbul, Marmara) -> 23 Köy
+457. Tuzla (34 - İstanbul, Marmara) -> 20 Köy
+458. Ümraniye (34 - İstanbul, Marmara) -> 17 Köy
+459. Üsküdar (34 - İstanbul, Marmara) -> 31 Köy
+460. Zeytinburnu (34 - İstanbul, Marmara) -> 31 Köy
+461. Aliağa (35 - İzmir, Ege) -> 28 Köy
+462. Balçova (35 - İzmir, Ege) -> 25 Köy
+463. Bayındır (35 - İzmir, Ege) -> 22 Köy
+464. Bayraklı (35 - İzmir, Ege) -> 19 Köy
+465. Bergama (35 - İzmir, Ege) -> 16 Köy
+466. Beydağ (35 - İzmir, Ege) -> 33 Köy
+467. Bornova (35 - İzmir, Ege) -> 30 Köy
+468. Buca (35 - İzmir, Ege) -> 27 Köy
+469. Çeşme (35 - İzmir, Ege) -> 24 Köy
+470. Çiğli (35 - İzmir, Ege) -> 21 Köy
+471. Dikili (35 - İzmir, Ege) -> 18 Köy
+472. Foça (35 - İzmir, Ege) -> 35 Köy
+473. Gaziemir (35 - İzmir, Ege) -> 32 Köy
+474. Güzelbahçe (35 - İzmir, Ege) -> 29 Köy
+475. Karabağlar (35 - İzmir, Ege) -> 26 Köy
+476. Karaburun (35 - İzmir, Ege) -> 23 Köy
+477. Karşıyaka (35 - İzmir, Ege) -> 20 Köy
+478. Kemalpaşa (35 - İzmir, Ege) -> 17 Köy
+479. Kınık (35 - İzmir, Ege) -> 31 Köy
+480. Kiraz (35 - İzmir, Ege) -> 31 Köy
+481. Konak (35 - İzmir, Ege) -> 28 Köy
+482. Menderes (35 - İzmir, Ege) -> 25 Köy
+483. Menemen (35 - İzmir, Ege) -> 22 Köy
+484. Narlıdere (35 - İzmir, Ege) -> 19 Köy
+485. Ödemiş (35 - İzmir, Ege) -> 16 Köy
+486. Seferihisar (35 - İzmir, Ege) -> 33 Köy
+487. Selçuk (35 - İzmir, Ege) -> 30 Köy
+488. Tire (35 - İzmir, Ege) -> 17 Köy
+489. Torbalı (35 - İzmir, Ege) -> 24 Köy
+490. Urla (35 - İzmir, Ege) -> 21 Köy
+491. Akyaka (36 - Kars, Doğu Anadolu) -> 31 Köy
+492. Arpaçay (36 - Kars, Doğu Anadolu) -> 28 Köy
+493. Digor (36 - Kars, Doğu Anadolu) -> 25 Köy
+494. Kağızman (36 - Kars, Doğu Anadolu) -> 22 Köy
+495. Merkez (36 - Kars, Doğu Anadolu) -> 19 Köy
+496. Saraykent (36 - Kars, Doğu Anadolu) -> 16 Köy
+497. Selim (36 - Kars, Doğu Anadolu) -> 33 Köy
+498. Susuz (36 - Kars, Doğu Anadolu) -> 30 Köy
+499. Abana (37 - Kastamonu, Karadeniz) -> 34 Köy
+500. Ağlı (37 - Kastamonu, Karadeniz) -> 31 Köy
+501. Araç (37 - Kastamonu, Karadeniz) -> 28 Köy
+502. Azdavay (37 - Kastamonu, Karadeniz) -> 25 Köy
+503. Bozkurt (37 - Kastamonu, Karadeniz) -> 22 Köy
+504. Cide (37 - Kastamonu, Karadeniz) -> 19 Köy
+505. Çatalzeytin (37 - Kastamonu, Karadeniz) -> 16 Köy
+506. Daday (37 - Kastamonu, Karadeniz) -> 33 Köy
+507. Devrekani (37 - Kastamonu, Karadeniz) -> 30 Köy
+508. Doğanyurt (37 - Kastamonu, Karadeniz) -> 17 Köy
+509. Hanönü (37 - Kastamonu, Karadeniz) -> 24 Köy
+510. İhsangazi (37 - Kastamonu, Karadeniz) -> 21 Köy
+511. İnebolu (37 - Kastamonu, Karadeniz) -> 18 Köy
+512. Küre (37 - Kastamonu, Karadeniz) -> 35 Köy
+513. Merkez (37 - Kastamonu, Karadeniz) -> 31 Köy
+514. Pınarbaşı (37 - Kastamonu, Karadeniz) -> 29 Köy
+515. Seydiler (37 - Kastamonu, Karadeniz) -> 26 Köy
+516. Şenpazar (37 - Kastamonu, Karadeniz) -> 23 Köy
+517. Taşköprü (37 - Kastamonu, Karadeniz) -> 20 Köy
+518. Tosya (37 - Kastamonu, Karadeniz) -> 17 Köy
+519. Akkışla (38 - Kayseri, İç Anadolu) -> 17 Köy
+520. Bünyan (38 - Kayseri, İç Anadolu) -> 34 Köy
+521. Develi (38 - Kayseri, İç Anadolu) -> 31 Köy
+522. Felahiye (38 - Kayseri, İç Anadolu) -> 28 Köy
+523. Hacılar (38 - Kayseri, İç Anadolu) -> 25 Köy
+524. İncesu (38 - Kayseri, İç Anadolu) -> 22 Köy
+525. Kocasinan (38 - Kayseri, İç Anadolu) -> 19 Köy
+526. Melikgazi (38 - Kayseri, İç Anadolu) -> 16 Köy
+527. Özvatan (38 - Kayseri, İç Anadolu) -> 33 Köy
+528. Pınarbaşı (38 - Kayseri, İç Anadolu) -> 30 Köy
+529. Sarıoğlan (38 - Kayseri, İç Anadolu) -> 27 Köy
+530. Sarız (38 - Kayseri, İç Anadolu) -> 24 Köy
+531. Talas (38 - Kayseri, İç Anadolu) -> 21 Köy
+532. Tomarza (38 - Kayseri, İç Anadolu) -> 18 Köy
+533. Yahyalı (38 - Kayseri, İç Anadolu) -> 35 Köy
+534. Yeşilhisar (38 - Kayseri, İç Anadolu) -> 32 Köy
+535. Babaeski (39 - Kırklareli, Marmara) -> 20 Köy
+536. Demirköy (39 - Kırklareli, Marmara) -> 17 Köy
+537. Kofçaz (39 - Kırklareli, Marmara) -> 34 Köy
+538. Lüleburgaz (39 - Kırklareli, Marmara) -> 31 Köy
+539. Merkez (39 - Kırklareli, Marmara) -> 28 Köy
+540. Pehlivanköy (39 - Kırklareli, Marmara) -> 25 Köy
+541. Pınarhisar (39 - Kırklareli, Marmara) -> 22 Köy
+542. Vize (39 - Kırklareli, Marmara) -> 19 Köy
+543. Akçakent (40 - Kırşehir, İç Anadolu) -> 16 Köy
+544. Akpınar (40 - Kırşehir, İç Anadolu) -> 17 Köy
+545. Boztepe (40 - Kırşehir, İç Anadolu) -> 30 Köy
+546. Çiçekdağı (40 - Kırşehir, İç Anadolu) -> 27 Köy
+547. Kaman (40 - Kırşehir, İç Anadolu) -> 24 Köy
+548. Merkez (40 - Kırşehir, İç Anadolu) -> 21 Köy
+549. Mucur (40 - Kırşehir, İç Anadolu) -> 18 Köy
+550. Başiskele (41 - Kocaeli, Marmara) -> 19 Köy
+551. Çayırova (41 - Kocaeli, Marmara) -> 16 Köy
+552. Darıca (41 - Kocaeli, Marmara) -> 33 Köy
+553. Derince (41 - Kocaeli, Marmara) -> 30 Köy
+554. Dilovası (41 - Kocaeli, Marmara) -> 27 Köy
+555. Gebze (41 - Kocaeli, Marmara) -> 24 Köy
+556. Gölcük (41 - Kocaeli, Marmara) -> 21 Köy
+557. İzmit (41 - Kocaeli, Marmara) -> 18 Köy
+558. Kandıra (41 - Kocaeli, Marmara) -> 35 Köy
+559. Karamürsel (41 - Kocaeli, Marmara) -> 32 Köy
+560. Kartepe (41 - Kocaeli, Marmara) -> 29 Köy
+561. Körfez (41 - Kocaeli, Marmara) -> 26 Köy
+562. Ahırlı (42 - Konya, İç Anadolu) -> 22 Köy
+563. Akören (42 - Konya, İç Anadolu) -> 19 Köy
+564. Akşehir (42 - Konya, İç Anadolu) -> 16 Köy
+565. Altınekin (42 - Konya, İç Anadolu) -> 33 Köy
+566. Beyşehir (42 - Konya, İç Anadolu) -> 30 Köy
+567. Bozkır (42 - Konya, İç Anadolu) -> 27 Köy
+568. Cihanbeyli (42 - Konya, İç Anadolu) -> 24 Köy
+569. Çeltik (42 - Konya, İç Anadolu) -> 21 Köy
+570. Çumra (42 - Konya, İç Anadolu) -> 18 Köy
+571. Derbent (42 - Konya, İç Anadolu) -> 35 Köy
+572. Derebucak (42 - Konya, İç Anadolu) -> 32 Köy
+573. Doğanhisar (42 - Konya, İç Anadolu) -> 29 Köy
+574. Emirgazi (42 - Konya, İç Anadolu) -> 26 Köy
+575. Ereğli (42 - Konya, İç Anadolu) -> 23 Köy
+576. Güneysınır (42 - Konya, İç Anadolu) -> 17 Köy
+577. Hadim (42 - Konya, İç Anadolu) -> 17 Köy
+578. Halkapınar (42 - Konya, İç Anadolu) -> 34 Köy
+579. Hüyük (42 - Konya, İç Anadolu) -> 31 Köy
+580. Ilgın (42 - Konya, İç Anadolu) -> 28 Köy
+581. Kadınhanı (42 - Konya, İç Anadolu) -> 25 Köy
+582. Karapınar (42 - Konya, İç Anadolu) -> 22 Köy
+583. Karatay (42 - Konya, İç Anadolu) -> 19 Köy
+584. Kulu (42 - Konya, İç Anadolu) -> 16 Köy
+585. Meram (42 - Konya, İç Anadolu) -> 33 Köy
+586. Sarayönü (42 - Konya, İç Anadolu) -> 30 Köy
+587. Selçuklu (42 - Konya, İç Anadolu) -> 27 Köy
+588. Seydişehir (42 - Konya, İç Anadolu) -> 24 Köy
+589. Taşkent (42 - Konya, İç Anadolu) -> 21 Köy
+590. Tuzlukçu (42 - Konya, İç Anadolu) -> 18 Köy
+591. Yalıhüyük (42 - Konya, İç Anadolu) -> 35 Köy
+592. Yunak (42 - Konya, İç Anadolu) -> 32 Köy
+593. Altıntaş (43 - Kütahya, Ege) -> 25 Köy
+594. Aslanapa (43 - Kütahya, Ege) -> 22 Köy
+595. Çavdarhisar (43 - Kütahya, Ege) -> 19 Köy
+596. Domaniç (43 - Kütahya, Ege) -> 16 Köy
+597. Dumlupınar (43 - Kütahya, Ege) -> 33 Köy
+598. Emet (43 - Kütahya, Ege) -> 17 Köy
+599. Gediz (43 - Kütahya, Ege) -> 27 Köy
+600. Hisarcık (43 - Kütahya, Ege) -> 24 Köy
+601. Merkez (43 - Kütahya, Ege) -> 21 Köy
+602. Pazarlar (43 - Kütahya, Ege) -> 18 Köy
+603. Şaphane (43 - Kütahya, Ege) -> 35 Köy
+604. Simav (43 - Kütahya, Ege) -> 32 Köy
+605. Tavşanlı (43 - Kütahya, Ege) -> 29 Köy
+606. Akçadağ (44 - Malatya, Doğu Anadolu) -> 28 Köy
+607. Arapgir (44 - Malatya, Doğu Anadolu) -> 25 Köy
+608. Arguvan (44 - Malatya, Doğu Anadolu) -> 22 Köy
+609. Battalgazi (44 - Malatya, Doğu Anadolu) -> 19 Köy
+610. Darende (44 - Malatya, Doğu Anadolu) -> 16 Köy
+611. Doğanşehir (44 - Malatya, Doğu Anadolu) -> 33 Köy
+612. Doğanyol (44 - Malatya, Doğu Anadolu) -> 30 Köy
+613. Hekimhan (44 - Malatya, Doğu Anadolu) -> 27 Köy
+614. Kale (44 - Malatya, Doğu Anadolu) -> 24 Köy
+615. Kuluncak (44 - Malatya, Doğu Anadolu) -> 21 Köy
+616. Pütürge (44 - Malatya, Doğu Anadolu) -> 18 Köy
+617. Yazıhan (44 - Malatya, Doğu Anadolu) -> 35 Köy
+618. Yeşilyurt (44 - Malatya, Doğu Anadolu) -> 32 Köy
+619. Ahmetli (45 - Manisa, Ege) -> 31 Köy
+620. Akhisar (45 - Manisa, Ege) -> 28 Köy
+621. Alaşehir (45 - Manisa, Ege) -> 25 Köy
+622. Demirci (45 - Manisa, Ege) -> 22 Köy
+623. Gölmarmara (45 - Manisa, Ege) -> 19 Köy
+624. Gördes (45 - Manisa, Ege) -> 16 Köy
+625. Kırkağaç (45 - Manisa, Ege) -> 33 Köy
+626. Köprübaşı (45 - Manisa, Ege) -> 30 Köy
+627. Kula (45 - Manisa, Ege) -> 27 Köy
+628. Salihli (45 - Manisa, Ege) -> 24 Köy
+629. Sarıgöl (45 - Manisa, Ege) -> 21 Köy
+630. Saruhanlı (45 - Manisa, Ege) -> 18 Köy
+631. Selendi (45 - Manisa, Ege) -> 35 Köy
+632. Soma (45 - Manisa, Ege) -> 32 Köy
+633. Şehzadeler (45 - Manisa, Ege) -> 29 Köy
+634. Turgutlu (45 - Manisa, Ege) -> 26 Köy
+635. Yunusemre (45 - Manisa, Ege) -> 23 Köy
+636. Afşin (46 - Kahramanmaraş, Akdeniz) -> 34 Köy
+637. Andırın (46 - Kahramanmaraş, Akdeniz) -> 31 Köy
+638. Çağlayancerit (46 - Kahramanmaraş, Akdeniz) -> 28 Köy
+639. Dulkadiroğlu (46 - Kahramanmaraş, Akdeniz) -> 25 Köy
+640. Ekinözü (46 - Kahramanmaraş, Akdeniz) -> 22 Köy
+641. Elbistan (46 - Kahramanmaraş, Akdeniz) -> 19 Köy
+642. Göksun (46 - Kahramanmaraş, Akdeniz) -> 16 Köy
+643. Nurhak (46 - Kahramanmaraş, Akdeniz) -> 33 Köy
+644. Onikişubat (46 - Kahramanmaraş, Akdeniz) -> 30 Köy
+645. Pazarcık (46 - Kahramanmaraş, Akdeniz) -> 17 Köy
+646. Türkoğlu (46 - Kahramanmaraş, Akdeniz) -> 24 Köy
+647. Artuklu (47 - Mardin, Güneydoğu Anadolu) -> 17 Köy
+648. Dargeçit (47 - Mardin, Güneydoğu Anadolu) -> 34 Köy
+649. Derik (47 - Mardin, Güneydoğu Anadolu) -> 31 Köy
+650. Kızıltepe (47 - Mardin, Güneydoğu Anadolu) -> 28 Köy
+651. Mazıdağı (47 - Mardin, Güneydoğu Anadolu) -> 25 Köy
+652. Midyat (47 - Mardin, Güneydoğu Anadolu) -> 22 Köy
+653. Nusaybin (47 - Mardin, Güneydoğu Anadolu) -> 19 Köy
+654. Ömerli (47 - Mardin, Güneydoğu Anadolu) -> 16 Köy
+655. Savur (47 - Mardin, Güneydoğu Anadolu) -> 33 Köy
+656. Yeşilli (47 - Mardin, Güneydoğu Anadolu) -> 30 Köy
+657. Bodrum (48 - Muğla, Ege) -> 20 Köy
+658. Dalaman (48 - Muğla, Ege) -> 17 Köy
+659. Datça (48 - Muğla, Ege) -> 34 Köy
+660. Fethiye (48 - Muğla, Ege) -> 31 Köy
+661. Kavaklıdere (48 - Muğla, Ege) -> 28 Köy
+662. Köyceğiz (48 - Muğla, Ege) -> 25 Köy
+663. Marmaris (48 - Muğla, Ege) -> 22 Köy
+664. Menteşe (48 - Muğla, Ege) -> 19 Köy
+665. Milas (48 - Muğla, Ege) -> 16 Köy
+666. Ortaca (48 - Muğla, Ege) -> 33 Köy
+667. Seydikemer (48 - Muğla, Ege) -> 30 Köy
+668. Ula (48 - Muğla, Ege) -> 27 Köy
+669. Yatağan (48 - Muğla, Ege) -> 24 Köy
+670. Bulanık (49 - Muş, Doğu Anadolu) -> 23 Köy
+671. Hasköy (49 - Muş, Doğu Anadolu) -> 20 Köy
+672. Korkut (49 - Muş, Doğu Anadolu) -> 17 Köy
+673. Malazgirt (49 - Muş, Doğu Anadolu) -> 34 Köy
+674. Merkez (49 - Muş, Doğu Anadolu) -> 31 Köy
+675. Varto (49 - Muş, Doğu Anadolu) -> 28 Köy
+676. Acıgöl (50 - Nevşehir, İç Anadolu) -> 19 Köy
+677. Avanos (50 - Nevşehir, İç Anadolu) -> 16 Köy
+678. Derinkuyu (50 - Nevşehir, İç Anadolu) -> 33 Köy
+679. Gülşehir (50 - Nevşehir, İç Anadolu) -> 30 Köy
+680. Hacıbektaş (50 - Nevşehir, İç Anadolu) -> 27 Köy
+681. Kozaklı (50 - Nevşehir, İç Anadolu) -> 24 Köy
+682. Merkez (50 - Nevşehir, İç Anadolu) -> 21 Köy
+683. Ürgüp (50 - Nevşehir, İç Anadolu) -> 18 Köy
+684. Altunhisar (51 - Niğde, İç Anadolu) -> 22 Köy
+685. Bor (51 - Niğde, İç Anadolu) -> 19 Köy
+686. Çamardı (51 - Niğde, İç Anadolu) -> 16 Köy
+687. Çiftlik (51 - Niğde, İç Anadolu) -> 33 Köy
+688. Merkez (51 - Niğde, İç Anadolu) -> 30 Köy
+689. Ulukışla (51 - Niğde, İç Anadolu) -> 27 Köy
+690. Akkuş (52 - Ordu, Karadeniz) -> 25 Köy
+691. Altınordu (52 - Ordu, Karadeniz) -> 22 Köy
+692. Aybastı (52 - Ordu, Karadeniz) -> 19 Köy
+693. Çamaş (52 - Ordu, Karadeniz) -> 16 Köy
+694. Çatalpınar (52 - Ordu, Karadeniz) -> 33 Köy
+695. Çaybaşı (52 - Ordu, Karadeniz) -> 17 Köy
+696. Fatsa (52 - Ordu, Karadeniz) -> 27 Köy
+697. Gölköy (52 - Ordu, Karadeniz) -> 24 Köy
+698. Gülyalı (52 - Ordu, Karadeniz) -> 21 Köy
+699. Gürgentepe (52 - Ordu, Karadeniz) -> 18 Köy
+700. İkizce (52 - Ordu, Karadeniz) -> 35 Köy
+701. Kabadüz (52 - Ordu, Karadeniz) -> 32 Köy
+702. Kabataş (52 - Ordu, Karadeniz) -> 29 Köy
+703. Korgan (52 - Ordu, Karadeniz) -> 26 Köy
+704. Kumru (52 - Ordu, Karadeniz) -> 23 Köy
+705. Mesudiye (52 - Ordu, Karadeniz) -> 20 Köy
+706. Perşembe (52 - Ordu, Karadeniz) -> 17 Köy
+707. Ulubey (52 - Ordu, Karadeniz) -> 34 Köy
+708. Ünye (52 - Ordu, Karadeniz) -> 31 Köy
+709. Ardeşen (53 - Rize, Karadeniz) -> 28 Köy
+710. Çamlıhemşin (53 - Rize, Karadeniz) -> 25 Köy
+711. Çayeli (53 - Rize, Karadeniz) -> 22 Köy
+712. Derepazarı (53 - Rize, Karadeniz) -> 19 Köy
+713. Fındıklı (53 - Rize, Karadeniz) -> 16 Köy
+714. Güneysu (53 - Rize, Karadeniz) -> 33 Köy
+715. Hemşin (53 - Rize, Karadeniz) -> 30 Köy
+716. İkizdere (53 - Rize, Karadeniz) -> 27 Köy
+717. İyidere (53 - Rize, Karadeniz) -> 24 Köy
+718. Kalkandere (53 - Rize, Karadeniz) -> 21 Köy
+719. Merkez (53 - Rize, Karadeniz) -> 18 Köy
+720. Pazar (53 - Rize, Karadeniz) -> 35 Köy
+721. Adapazarı (54 - Sakarya, Marmara) -> 31 Köy
+722. Akyazı (54 - Sakarya, Marmara) -> 28 Köy
+723. Arifiye (54 - Sakarya, Marmara) -> 25 Köy
+724. Erenler (54 - Sakarya, Marmara) -> 22 Köy
+725. Ferizli (54 - Sakarya, Marmara) -> 19 Köy
+726. Geyve (54 - Sakarya, Marmara) -> 16 Köy
+727. Hendek (54 - Sakarya, Marmara) -> 33 Köy
+728. Karapürçek (54 - Sakarya, Marmara) -> 30 Köy
+729. Karasu (54 - Sakarya, Marmara) -> 27 Köy
+730. Kaynarca (54 - Sakarya, Marmara) -> 24 Köy
+731. Kocaali (54 - Sakarya, Marmara) -> 21 Köy
+732. Pamukova (54 - Sakarya, Marmara) -> 18 Köy
+733. Sapanca (54 - Sakarya, Marmara) -> 35 Köy
+734. Serdivan (54 - Sakarya, Marmara) -> 32 Köy
+735. Söğütlü (54 - Sakarya, Marmara) -> 29 Köy
+736. Taraklı (54 - Sakarya, Marmara) -> 26 Köy
+737. 19 Mayıs (55 - Samsun, Karadeniz) -> 34 Köy
+738. Alaçam (55 - Samsun, Karadeniz) -> 31 Köy
+739. Asarcık (55 - Samsun, Karadeniz) -> 28 Köy
+740. Atakum (55 - Samsun, Karadeniz) -> 25 Köy
+741. Ayvacık (55 - Samsun, Karadeniz) -> 22 Köy
+742. Bafra (55 - Samsun, Karadeniz) -> 19 Köy
+743. Canik (55 - Samsun, Karadeniz) -> 16 Köy
+744. Çarşamba (55 - Samsun, Karadeniz) -> 33 Köy
+745. Havza (55 - Samsun, Karadeniz) -> 30 Köy
+746. İlkadım (55 - Samsun, Karadeniz) -> 17 Köy
+747. Kavak (55 - Samsun, Karadeniz) -> 24 Köy
+748. Ladik (55 - Samsun, Karadeniz) -> 21 Köy
+749. Salıpazarı (55 - Samsun, Karadeniz) -> 18 Köy
+750. Tekkeköy (55 - Samsun, Karadeniz) -> 35 Köy
+751. Terme (55 - Samsun, Karadeniz) -> 31 Köy
+752. Vezirköprü (55 - Samsun, Karadeniz) -> 29 Köy
+753. Yakakent (55 - Samsun, Karadeniz) -> 26 Köy
+754. Baykan (56 - Siirt, Güneydoğu Anadolu) -> 17 Köy
+755. Eruh (56 - Siirt, Güneydoğu Anadolu) -> 34 Köy
+756. Kurtalan (56 - Siirt, Güneydoğu Anadolu) -> 31 Köy
+757. Merkez (56 - Siirt, Güneydoğu Anadolu) -> 28 Köy
+758. Pervari (56 - Siirt, Güneydoğu Anadolu) -> 25 Köy
+759. Şirvan (56 - Siirt, Güneydoğu Anadolu) -> 22 Köy
+760. Tillo (56 - Siirt, Güneydoğu Anadolu) -> 19 Köy
+761. Ayancık (57 - Sinop, Karadeniz) -> 20 Köy
+762. Boyabat (57 - Sinop, Karadeniz) -> 17 Köy
+763. Dikmen (57 - Sinop, Karadeniz) -> 34 Köy
+764. Durağan (57 - Sinop, Karadeniz) -> 31 Köy
+765. Erfelek (57 - Sinop, Karadeniz) -> 28 Köy
+766. Gerze (57 - Sinop, Karadeniz) -> 25 Köy
+767. Merkez (57 - Sinop, Karadeniz) -> 22 Köy
+768. Saraydüzü (57 - Sinop, Karadeniz) -> 19 Köy
+769. Türkeli (57 - Sinop, Karadeniz) -> 16 Köy
+770. Akıncılar (58 - Sivas, İç Anadolu) -> 23 Köy
+771. Altınyayla (58 - Sivas, İç Anadolu) -> 20 Köy
+772. Divriği (58 - Sivas, İç Anadolu) -> 17 Köy
+773. Doğanşar (58 - Sivas, İç Anadolu) -> 34 Köy
+774. Gemerek (58 - Sivas, İç Anadolu) -> 31 Köy
+775. Gölova (58 - Sivas, İç Anadolu) -> 28 Köy
+776. Gürün (58 - Sivas, İç Anadolu) -> 25 Köy
+777. Hafik (58 - Sivas, İç Anadolu) -> 22 Köy
+778. İmranlı (58 - Sivas, İç Anadolu) -> 19 Köy
+779. Kangal (58 - Sivas, İç Anadolu) -> 16 Köy
+780. Koyulhisar (58 - Sivas, İç Anadolu) -> 33 Köy
+781. Merkez (58 - Sivas, İç Anadolu) -> 30 Köy
+782. Suşehri (58 - Sivas, İç Anadolu) -> 27 Köy
+783. Şarkışla (58 - Sivas, İç Anadolu) -> 17 Köy
+784. Ulaş (58 - Sivas, İç Anadolu) -> 21 Köy
+785. Yıldızeli (58 - Sivas, İç Anadolu) -> 18 Köy
+786. Zara (58 - Sivas, İç Anadolu) -> 35 Köy
+787. Çerkezköy (59 - Tekirdağ, Marmara) -> 26 Köy
+788. Çorlu (59 - Tekirdağ, Marmara) -> 23 Köy
+789. Ergene (59 - Tekirdağ, Marmara) -> 20 Köy
+790. Hayrabolu (59 - Tekirdağ, Marmara) -> 17 Köy
+791. Kapaklı (59 - Tekirdağ, Marmara) -> 17 Köy
+792. Malkara (59 - Tekirdağ, Marmara) -> 31 Köy
+793. Marmaraereğlisi (59 - Tekirdağ, Marmara) -> 28 Köy
+794. Muratlı (59 - Tekirdağ, Marmara) -> 25 Köy
+795. Saray (59 - Tekirdağ, Marmara) -> 22 Köy
+796. Süleymanpaşa (59 - Tekirdağ, Marmara) -> 19 Köy
+797. Şarköy (59 - Tekirdağ, Marmara) -> 16 Köy
+798. Almus (60 - Tokat, Karadeniz) -> 22 Köy
+799. Artova (60 - Tokat, Karadeniz) -> 19 Köy
+800. Başçiftlik (60 - Tokat, Karadeniz) -> 16 Köy
+801. Erbaa (60 - Tokat, Karadeniz) -> 33 Köy
+802. Merkez (60 - Tokat, Karadeniz) -> 30 Köy
+803. Niksar (60 - Tokat, Karadeniz) -> 27 Köy
+804. Pazar (60 - Tokat, Karadeniz) -> 24 Köy
+805. Reşadiye (60 - Tokat, Karadeniz) -> 21 Köy
+806. Sulusaray (60 - Tokat, Karadeniz) -> 18 Köy
+807. Turhal (60 - Tokat, Karadeniz) -> 35 Köy
+808. Yeşilyurt (60 - Tokat, Karadeniz) -> 32 Köy
+809. Zile (60 - Tokat, Karadeniz) -> 29 Köy
+810. Akçaabat (61 - Trabzon, Karadeniz) -> 25 Köy
+811. Araklı (61 - Trabzon, Karadeniz) -> 22 Köy
+812. Arsin (61 - Trabzon, Karadeniz) -> 19 Köy
+813. Beşikdüzü (61 - Trabzon, Karadeniz) -> 16 Köy
+814. Çarşıbaşı (61 - Trabzon, Karadeniz) -> 33 Köy
+815. Çaykara (61 - Trabzon, Karadeniz) -> 17 Köy
+816. Dernekpazarı (61 - Trabzon, Karadeniz) -> 27 Köy
+817. Düzköy (61 - Trabzon, Karadeniz) -> 24 Köy
+818. Hayrat (61 - Trabzon, Karadeniz) -> 21 Köy
+819. Köprübaşı (61 - Trabzon, Karadeniz) -> 18 Köy
+820. Maçka (61 - Trabzon, Karadeniz) -> 35 Köy
+821. Of (61 - Trabzon, Karadeniz) -> 32 Köy
+822. Ortahisar (61 - Trabzon, Karadeniz) -> 29 Köy
+823. Sürmene (61 - Trabzon, Karadeniz) -> 26 Köy
+824. Şalpazarı (61 - Trabzon, Karadeniz) -> 23 Köy
+825. Tonya (61 - Trabzon, Karadeniz) -> 20 Köy
+826. Vakfıkebir (61 - Trabzon, Karadeniz) -> 17 Köy
+827. Yomra (61 - Trabzon, Karadeniz) -> 34 Köy
+828. Çemişgezek (62 - Tunceli, Doğu Anadolu) -> 28 Köy
+829. Hozat (62 - Tunceli, Doğu Anadolu) -> 25 Köy
+830. Mazgirt (62 - Tunceli, Doğu Anadolu) -> 22 Köy
+831. Merkez (62 - Tunceli, Doğu Anadolu) -> 19 Köy
+832. Nazımiye (62 - Tunceli, Doğu Anadolu) -> 16 Köy
+833. Ovacık (62 - Tunceli, Doğu Anadolu) -> 33 Köy
+834. Pertek (62 - Tunceli, Doğu Anadolu) -> 30 Köy
+835. Pülümür (62 - Tunceli, Doğu Anadolu) -> 27 Köy
+836. Akçakale (63 - Şanlıurfa, Güneydoğu Anadolu) -> 31 Köy
+837. Birecik (63 - Şanlıurfa, Güneydoğu Anadolu) -> 28 Köy
+838. Bozova (63 - Şanlıurfa, Güneydoğu Anadolu) -> 25 Köy
+839. Ceylanpınar (63 - Şanlıurfa, Güneydoğu Anadolu) -> 22 Köy
+840. Eyyübiye (63 - Şanlıurfa, Güneydoğu Anadolu) -> 19 Köy
+841. Halfeti (63 - Şanlıurfa, Güneydoğu Anadolu) -> 16 Köy
+842. Haliliye (63 - Şanlıurfa, Güneydoğu Anadolu) -> 33 Köy
+843. Harran (63 - Şanlıurfa, Güneydoğu Anadolu) -> 30 Köy
+844. Hilvan (63 - Şanlıurfa, Güneydoğu Anadolu) -> 27 Köy
+845. Karaköprü (63 - Şanlıurfa, Güneydoğu Anadolu) -> 24 Köy
+846. Siverek (63 - Şanlıurfa, Güneydoğu Anadolu) -> 21 Köy
+847. Suruç (63 - Şanlıurfa, Güneydoğu Anadolu) -> 18 Köy
+848. Viranşehir (63 - Şanlıurfa, Güneydoğu Anadolu) -> 35 Köy
+849. Banaz (64 - Uşak, Ege) -> 34 Köy
+850. Eşme (64 - Uşak, Ege) -> 31 Köy
+851. Karahallı (64 - Uşak, Ege) -> 28 Köy
+852. Merkez (64 - Uşak, Ege) -> 25 Köy
+853. Sivaslı (64 - Uşak, Ege) -> 22 Köy
+854. Ulubey (64 - Uşak, Ege) -> 19 Köy
+855. Bahçesaray (65 - Van, Doğu Anadolu) -> 17 Köy
+856. Başkale (65 - Van, Doğu Anadolu) -> 34 Köy
+857. Çaldıran (65 - Van, Doğu Anadolu) -> 31 Köy
+858. Çatak (65 - Van, Doğu Anadolu) -> 28 Köy
+859. Edremit (65 - Van, Doğu Anadolu) -> 25 Köy
+860. Erciş (65 - Van, Doğu Anadolu) -> 22 Köy
+861. Gevaş (65 - Van, Doğu Anadolu) -> 19 Köy
+862. Gürpınar (65 - Van, Doğu Anadolu) -> 16 Köy
+863. İpekyolu (65 - Van, Doğu Anadolu) -> 33 Köy
+864. Muradiye (65 - Van, Doğu Anadolu) -> 30 Köy
+865. Özalp (65 - Van, Doğu Anadolu) -> 27 Köy
+866. Saray (65 - Van, Doğu Anadolu) -> 24 Köy
+867. Tuşba (65 - Van, Doğu Anadolu) -> 21 Köy
+868. Akdağmadeni (66 - Yozgat, İç Anadolu) -> 20 Köy
+869. Aydıncık (66 - Yozgat, İç Anadolu) -> 17 Köy
+870. Boğazlıyan (66 - Yozgat, İç Anadolu) -> 34 Köy
+871. Çandır (66 - Yozgat, İç Anadolu) -> 31 Köy
+872. Çayıralan (66 - Yozgat, İç Anadolu) -> 28 Köy
+873. Çekerek (66 - Yozgat, İç Anadolu) -> 25 Köy
+874. Kadışehri (66 - Yozgat, İç Anadolu) -> 22 Köy
+875. Merkez (66 - Yozgat, İç Anadolu) -> 19 Köy
+876. Saraykent (66 - Yozgat, İç Anadolu) -> 16 Köy
+877. Sarıkaya (66 - Yozgat, İç Anadolu) -> 33 Köy
+878. Sorgun (66 - Yozgat, İç Anadolu) -> 30 Köy
+879. Şefaatli (66 - Yozgat, İç Anadolu) -> 27 Köy
+880. Yenifakılı (66 - Yozgat, İç Anadolu) -> 24 Köy
+881. Yerköy (66 - Yozgat, İç Anadolu) -> 21 Köy
+882. Alaplı (67 - Zonguldak, Karadeniz) -> 23 Köy
+883. Çaycuma (67 - Zonguldak, Karadeniz) -> 20 Köy
+884. Devrek (67 - Zonguldak, Karadeniz) -> 17 Köy
+885. Gökçebey (67 - Zonguldak, Karadeniz) -> 34 Köy
+886. Karadeniz Ereğli (67 - Zonguldak, Karadeniz) -> 31 Köy
+887. Kilimli (67 - Zonguldak, Karadeniz) -> 28 Köy
+888. Kozlu (67 - Zonguldak, Karadeniz) -> 25 Köy
+889. Merkez (67 - Zonguldak, Karadeniz) -> 22 Köy
+890. Ağaçören (68 - Aksaray, İç Anadolu) -> 26 Köy
+891. Eskil (68 - Aksaray, İç Anadolu) -> 23 Köy
+892. Gülağaç (68 - Aksaray, İç Anadolu) -> 20 Köy
+893. Güzelyurt (68 - Aksaray, İç Anadolu) -> 17 Köy
+894. Merkez (68 - Aksaray, İç Anadolu) -> 17 Köy
+895. Ortaköy (68 - Aksaray, İç Anadolu) -> 31 Köy
+896. Sarıyahşi (68 - Aksaray, İç Anadolu) -> 28 Köy
+897. Sultanhanı (68 - Aksaray, İç Anadolu) -> 25 Köy
+898. Aydıntepe (69 - Bayburt, Karadeniz) -> 29 Köy
+899. Demirözü (69 - Bayburt, Karadeniz) -> 26 Köy
+900. Merkez (69 - Bayburt, Karadeniz) -> 23 Köy
+901. Ayrancı (70 - Karaman, İç Anadolu) -> 25 Köy
+902. Başyayla (70 - Karaman, İç Anadolu) -> 22 Köy
+903. Ermenek (70 - Karaman, İç Anadolu) -> 19 Köy
+904. Kazımkarabekir (70 - Karaman, İç Anadolu) -> 16 Köy
+905. Merkez (70 - Karaman, İç Anadolu) -> 33 Köy
+906. Sarıveliler (70 - Karaman, İç Anadolu) -> 17 Köy
+907. Bahşılı (71 - Kırıkkale, İç Anadolu) -> 28 Köy
+908. Balışeyh (71 - Kırıkkale, İç Anadolu) -> 25 Köy
+909. Çelebi (71 - Kırıkkale, İç Anadolu) -> 22 Köy
+910. Delice (71 - Kırıkkale, İç Anadolu) -> 19 Köy
+911. Karakeçili (71 - Kırıkkale, İç Anadolu) -> 16 Köy
+912. Keskin (71 - Kırıkkale, İç Anadolu) -> 33 Köy
+913. Merkez (71 - Kırıkkale, İç Anadolu) -> 30 Köy
+914. Sulakyurt (71 - Kırıkkale, İç Anadolu) -> 27 Köy
+915. Yahşihan (71 - Kırıkkale, İç Anadolu) -> 24 Köy
+916. Beşiri (72 - Batman, Güneydoğu Anadolu) -> 31 Köy
+917. Gercüş (72 - Batman, Güneydoğu Anadolu) -> 28 Köy
+918. Hasankeyf (72 - Batman, Güneydoğu Anadolu) -> 25 Köy
+919. Kozluk (72 - Batman, Güneydoğu Anadolu) -> 22 Köy
+920. Merkez (72 - Batman, Güneydoğu Anadolu) -> 19 Köy
+921. Sason (72 - Batman, Güneydoğu Anadolu) -> 16 Köy
+922. Beytüşşebap (73 - Şırnak, Güneydoğu Anadolu) -> 34 Köy
+923. Cizre (73 - Şırnak, Güneydoğu Anadolu) -> 31 Köy
+924. Güçlükonak (73 - Şırnak, Güneydoğu Anadolu) -> 28 Köy
+925. İdil (73 - Şırnak, Güneydoğu Anadolu) -> 25 Köy
+926. Merkez (73 - Şırnak, Güneydoğu Anadolu) -> 22 Köy
+927. Silopi (73 - Şırnak, Güneydoğu Anadolu) -> 19 Köy
+928. Uludere (73 - Şırnak, Güneydoğu Anadolu) -> 16 Köy
+929. Amasra (74 - Bartın, Karadeniz) -> 17 Köy
+930. Kurucaşile (74 - Bartın, Karadeniz) -> 34 Köy
+931. Merkez (74 - Bartın, Karadeniz) -> 31 Köy
+932. Ulus (74 - Bartın, Karadeniz) -> 28 Köy
+933. Çıldır (75 - Ardahan, Doğu Anadolu) -> 20 Köy
+934. Damal (75 - Ardahan, Doğu Anadolu) -> 17 Köy
+935. Göle (75 - Ardahan, Doğu Anadolu) -> 34 Köy
+936. Hanak (75 - Ardahan, Doğu Anadolu) -> 31 Köy
+937. Merkez (75 - Ardahan, Doğu Anadolu) -> 28 Köy
+938. Posof (75 - Ardahan, Doğu Anadolu) -> 25 Köy
+939. Aralık (76 - Iğdır, Doğu Anadolu) -> 23 Köy
+940. Karakoyunlu (76 - Iğdır, Doğu Anadolu) -> 20 Köy
+941. Merkez (76 - Iğdır, Doğu Anadolu) -> 17 Köy
+942. Tuzluca (76 - Iğdır, Doğu Anadolu) -> 34 Köy
+943. Altınova (77 - Yalova, Marmara) -> 26 Köy
+944. Armutlu (77 - Yalova, Marmara) -> 23 Köy
+945. Çınarcık (77 - Yalova, Marmara) -> 20 Köy
+946. Çiftlikköy (77 - Yalova, Marmara) -> 17 Köy
+947. Merkez (77 - Yalova, Marmara) -> 17 Köy
+948. Termal (77 - Yalova, Marmara) -> 31 Köy
+949. Eflani (78 - Karabük, Karadeniz) -> 29 Köy
+950. Eskipazar (78 - Karabük, Karadeniz) -> 26 Köy
+951. Merkez (78 - Karabük, Karadeniz) -> 23 Köy
+952. Ovacık (78 - Karabük, Karadeniz) -> 20 Köy
+953. Safranbolu (78 - Karabük, Karadeniz) -> 17 Köy
+954. Yenice (78 - Karabük, Karadeniz) -> 34 Köy
+955. Elbeyli (79 - Kilis, Güneydoğu Anadolu) -> 32 Köy
+956. Merkez (79 - Kilis, Güneydoğu Anadolu) -> 29 Köy
+957. Musabeyli (79 - Kilis, Güneydoğu Anadolu) -> 26 Köy
+958. Polateli (79 - Kilis, Güneydoğu Anadolu) -> 23 Köy
+959. Bahçe (80 - Osmaniye, Akdeniz) -> 28 Köy
+960. Düziçi (80 - Osmaniye, Akdeniz) -> 25 Köy
+961. Hasanbeyli (80 - Osmaniye, Akdeniz) -> 22 Köy
+962. Kadirli (80 - Osmaniye, Akdeniz) -> 19 Köy
+963. Merkez (80 - Osmaniye, Akdeniz) -> 16 Köy
+964. Sumbas (80 - Osmaniye, Akdeniz) -> 33 Köy
+965. Toprakkale (80 - Osmaniye, Akdeniz) -> 30 Köy
+966. Akçakoca (81 - Düzce, Karadeniz) -> 31 Köy
+967. Cumayeri (81 - Düzce, Karadeniz) -> 28 Köy
+968. Çilimli (81 - Düzce, Karadeniz) -> 25 Köy
+969. Gölyaka (81 - Düzce, Karadeniz) -> 22 Köy
+970. Gümüşova (81 - Düzce, Karadeniz) -> 19 Köy
+971. Kaynaşlı (81 - Düzce, Karadeniz) -> 16 Köy
+972. Merkez (81 - Düzce, Karadeniz) -> 33 Köy
+973. Yığılca (81 - Düzce, Karadeniz) -> 30 Köy

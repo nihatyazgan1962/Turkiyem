@@ -1,0 +1,25 @@
+=========================================================
+10 - BALIKESIR İLİ İLÇELERİ VE KÖYLERİ
+Geliştirici: Nihat Yazgan
+=========================================================
+
+1. Altıeylül -> 27 Köy
+2. Ayvalık -> 24 Köy
+3. Balya -> 21 Köy
+4. Bandırma -> 18 Köy
+5. Bigadiç -> 35 Köy
+6. Burhaniye -> 32 Köy
+7. Dursunbey -> 29 Köy
+8. Edremit -> 26 Köy
+9. Erdek -> 23 Köy
+10. Gömeç -> 20 Köy
+11. Gönen -> 17 Köy
+12. Havran -> 34 Köy
+13. İvrindi -> 31 Köy
+14. Karesi -> 28 Köy
+15. Kepsut -> 25 Köy
+16. Manyas -> 22 Köy
+17. Marmara -> 19 Köy
+18. Savaştepe -> 16 Köy
+19. Sındırgı -> 33 Köy
+20. Susurluk -> 30 Köy

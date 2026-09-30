@@ -1,0 +1,17 @@
+=================================================================
+41 - KOCAELI İLİ TÜM İLÇELERİ (12 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Başiskele              (38 Köy)
+   2. Çayırova               (11 Köy)
+   3. Darıca                 (14 Köy)
+   4. Derince                (17 Köy)
+   5. Dilovası               (17 Köy)
+   6. Gebze                  (45 Köy)
+   7. Gölcük                 (50 Köy)
+   8. İzmit                  (104 Köy)
+   9. Kandıra                (96 Köy)
+  10. Karamürsel             (27 Köy)
+  11. Kartepe                (33 Köy)
+  12. Körfez                 (36 Köy)

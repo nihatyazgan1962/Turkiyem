@@ -1,0 +1,17 @@
+=================================================================
+53 - RIZE İLİ TÜM İLÇELERİ (12 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Ardeşen                (65 Köy)
+   2. Çamlıhemşin            (34 Köy)
+   3. Çayeli                 (73 Köy)
+   4. Derepazarı             (18 Köy)
+   5. Fındıklı               (31 Köy)
+   6. Güneysu                (31 Köy)
+   7. Hemşin                 (12 Köy)
+   8. İkizdere               (36 Köy)
+   9. İyidere                (16 Köy)
+  10. Kalkandere             (34 Köy)
+  11. Merkez                 (112 Köy)
+  12. Pazar                  (60 Köy)

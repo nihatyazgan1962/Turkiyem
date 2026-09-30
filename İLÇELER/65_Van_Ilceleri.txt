@@ -1,0 +1,18 @@
+=================================================================
+65 - VAN İLİ TÜM İLÇELERİ (13 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Bahçesaray             (20 Köy)
+   2. Başkale                (69 Köy)
+   3. Çaldıran               (70 Köy)
+   4. Çatak                  (33 Köy)
+   5. Edremit                (30 Köy)
+   6. Erciş                  (101 Köy)
+   7. Gevaş                  (41 Köy)
+   8. Gürpınar               (79 Köy)
+   9. İpekyolu               (50 Köy)
+  10. Muradiye               (48 Köy)
+  11. Özalp                  (58 Köy)
+  12. Saray                  (27 Köy)
+  13. Tuşba                  (68 Köy)

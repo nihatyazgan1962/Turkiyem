@@ -1,0 +1,17 @@
+=================================================================
+60 - TOKAT İLİ TÜM İLÇELERİ (12 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Almus                  (43 Köy)
+   2. Artova                 (33 Köy)
+   3. Başçiftlik             (13 Köy)
+   4. Erbaa                  (103 Köy)
+   5. Merkez                 (154 Köy)
+   6. Niksar                 (113 Köy)
+   7. Pazar                  (23 Köy)
+   8. Reşadiye               (87 Köy)
+   9. Sulusaray              (18 Köy)
+  10. Turhal                 (85 Köy)
+  11. Yeşilyurt              (22 Köy)
+  12. Zile                   (134 Köy)

@@ -1,0 +1,16 @@
+=================================================================
+46 - KAHRAMANMARAŞ İLİ TÜM İLÇELERİ (11 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Afşin                  (66 Köy)
+   2. Andırın                (57 Köy)
+   3. Çağlayancerit          (19 Köy)
+   4. Dulkadiroğlu           (103 Köy)
+   5. Ekinözü                (21 Köy)
+   6. Elbistan               (93 Köy)
+   7. Göksun                 (73 Köy)
+   8. Nurhak                 (16 Köy)
+   9. Onikişubat             (138 Köy)
+  10. Pazarcık               (84 Köy)
+  11. Türkoğlu               (45 Köy)

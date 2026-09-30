@@ -1,0 +1,24 @@
+=================================================================
+20 - DENIZLI İLİ TÜM İLÇELERİ (19 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Acıpayam               (56 Köy)
+   2. Babadağ                (12 Köy)
+   3. Baklan                 (14 Köy)
+   4. Bekilli                (15 Köy)
+   5. Beyağaç                (15 Köy)
+   6. Bozkurt                (20 Köy)
+   7. Buldan                 (45 Köy)
+   8. Çal                    (34 Köy)
+   9. Çameli                 (31 Köy)
+  10. Çardak                 (17 Köy)
+  11. Çivril                 (77 Köy)
+  12. Güney                  (24 Köy)
+  13. Honaz                  (23 Köy)
+  14. Kale                   (32 Köy)
+  15. Merkezefendi           (50 Köy)
+  16. Pamukkale              (61 Köy)
+  17. Sarayköy               (33 Köy)
+  18. Serinhisar             (11 Köy)
+  19. Tavas                  (50 Köy)

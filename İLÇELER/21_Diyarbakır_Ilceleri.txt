@@ -1,0 +1,22 @@
+=========================================================
+21 - DIYARBAKIR İLİ İLÇELERİ VE KÖYLERİ
+Geliştirici: Nihat Yazgan
+=========================================================
+
+1. Bağlar -> 33 Köy
+2. Bismil -> 30 Köy
+3. Çermik -> 27 Köy
+4. Çınar -> 24 Köy
+5. Çüngüş -> 21 Köy
+6. Dicle -> 18 Köy
+7. Eğil -> 35 Köy
+8. Ergani -> 32 Köy
+9. Hani -> 29 Köy
+10. Hazro -> 26 Köy
+11. Kayapınar -> 17 Köy
+12. Kocaköy -> 20 Köy
+13. Kulp -> 17 Köy
+14. Lice -> 34 Köy
+15. Silvan -> 31 Köy
+16. Sur -> 28 Köy
+17. Yenişehir -> 25 Köy

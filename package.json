@@ -1,0 +1,17 @@
+{
+  "name": "turkiyem",
+  "version": "1.0.0",
+  "description": "TÜRKİYEM - İller, İlçeler ve Köyler Rehberi & Tam Ekran Türk Bayrağı Uygulaması",
+  "main": "server.js",
+  "author": "Nihat Yazgan",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js",
+    "generate-folders": "node generate_folders.js",
+    "setup-android": "node setup_android.js",
+    "build-apk": "node setup_android.js && cd android && gradlew.bat assembleDebug && node -e \"const fs=require('fs');fs.copyFileSync('android/app/build/outputs/apk/debug/app-debug.apk', 'TURKIYEM.apk');console.log('APK Guncellendi!');\""
+  },
+  "dependencies": {
+    "turkey-neighbourhoods": "^4.0.3"
+  }
+}

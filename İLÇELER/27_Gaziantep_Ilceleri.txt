@@ -1,0 +1,14 @@
+=================================================================
+27 - GAZIANTEP İLİ TÜM İLÇELERİ (9 İlçe)
+Geliştirici: Nihat Yazgan
+=================================================================
+
+   1. Araban                 (49 Köy)
+   2. İslahiye               (71 Köy)
+   3. Karkamış               (39 Köy)
+   4. Nizip                  (111 Köy)
+   5. Nurdağı                (48 Köy)
+   6. Oğuzeli                (92 Köy)
+   7. Şahinbey               (183 Köy)
+   8. Şehitkamil             (149 Köy)
+   9. Yavuzeli               (44 Köy)
